@@ -1191,20 +1191,42 @@
     {
       "Check": "at least one",
       "Comment": "ose-gcp-gcr-image-credential-provider is installed",
-      "ID": "oval:com.redhat.cve:tst:202345290005",
+      "ID": "oval:com.redhat.cve:tst:202345290001",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202345290003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202345290001"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "ose-gcp-gcr-image-credential-provider is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202345290006",
+      "ID": "oval:com.redhat.cve:tst:202345290002",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202345290003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202345290001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201714623001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ose-aws-ecr-image-credential-provider is installed",
+      "ID": "oval:com.redhat.cve:tst:202345290007",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202345290004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ose-aws-ecr-image-credential-provider is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202345290008",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202345290004"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:201714623001"
@@ -1227,28 +1249,6 @@
       "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202345290008"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201714623001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "ose-aws-ecr-image-credential-provider is installed",
-      "ID": "oval:com.redhat.cve:tst:202345290019",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202345290010"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "ose-aws-ecr-image-credential-provider is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202345290020",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202345290010"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:201714623001"
@@ -2178,6 +2178,17 @@
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.unaffected:obj:20234016001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-urllib3 is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202345803002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202128363001"
       },
       "State": {}
     },

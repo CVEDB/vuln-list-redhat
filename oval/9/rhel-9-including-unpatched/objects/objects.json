@@ -4573,22 +4573,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:202137533001",
       "Version": "636",
-      "Name": "log4j-slf4j"
+      "Name": "apache-commons-net"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202137533002",
       "Version": "636",
-      "Name": "apache-commons-net"
+      "Name": "log4j-slf4j"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202137533003",
       "Version": "636",
-      "Name": "log4j-jcl"
+      "Name": "log4j"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202137533004",
       "Version": "636",
-      "Name": "log4j"
+      "Name": "log4j-jcl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202137714001",
@@ -5228,42 +5228,42 @@
     {
       "ID": "oval:com.redhat.cve:obj:202225881001",
       "Version": "636",
-      "Name": "dotnet-sdk-6.0"
+      "Name": "dotnet-host"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881002",
       "Version": "636",
-      "Name": "aspnetcore-targeting-pack-6.0"
+      "Name": "dotnet-sdk-6.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881003",
       "Version": "636",
-      "Name": "dotnet-targeting-pack-6.0"
+      "Name": "aspnetcore-runtime-6.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881004",
       "Version": "636",
-      "Name": "dotnet-apphost-pack-6.0"
+      "Name": "dotnet-sdk-6.0-source-built-artifacts"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881005",
       "Version": "636",
-      "Name": "dotnet-hostfxr-6.0"
+      "Name": "dotnet-runtime-6.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881006",
       "Version": "636",
-      "Name": "dotnet-host"
+      "Name": "aspnetcore-targeting-pack-6.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881007",
       "Version": "636",
-      "Name": "aspnetcore-runtime-6.0"
+      "Name": "dotnet-apphost-pack-6.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881008",
       "Version": "636",
-      "Name": "dotnet6.0"
+      "Name": "netstandard-targeting-pack-2.1"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881009",
@@ -5273,17 +5273,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:202225881010",
       "Version": "636",
-      "Name": "dotnet-runtime-6.0"
+      "Name": "dotnet6.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881011",
       "Version": "636",
-      "Name": "netstandard-targeting-pack-2.1"
+      "Name": "dotnet-hostfxr-6.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881012",
       "Version": "636",
-      "Name": "dotnet-sdk-6.0-source-built-artifacts"
+      "Name": "dotnet-targeting-pack-6.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225883004",
@@ -15393,22 +15393,6 @@
       }
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202225881018",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/etc/dnf/modules.d/nodejs.module",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "\\[nodejs\\][\\w\\W]*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Text": "1",
-        "Datatype": "int"
-      }
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20224900026",
       "Version": "636",
       "Filepath": {
@@ -15417,6 +15401,22 @@
       },
       "Pattern": {
         "Text": "\\[php\\][\\w\\W]*",
+        "Operation": "pattern match"
+      },
+      "Instance": {
+        "Text": "1",
+        "Datatype": "int"
+      }
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202338552006",
+      "Version": "636",
+      "Filepath": {
+        "Text": "/etc/dnf/modules.d/nodejs.module",
+        "Datatype": "string"
+      },
+      "Pattern": {
+        "Text": "\\[nodejs\\][\\w\\W]*",
         "Operation": "pattern match"
       },
       "Instance": {

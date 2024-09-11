@@ -363,12 +363,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202223491001",
       "Version": "636",
-      "Name": "python3-certifi"
+      "Name": "python-certifi"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202223491002",
       "Version": "636",
-      "Name": "python-certifi"
+      "Name": "python3-certifi"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202223514001",
@@ -1146,14 +1146,14 @@
       "Name": "apache-ivy"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202238900001",
-      "Version": "635",
-      "Name": "nodejs-decode-uri-component"
-    },
-    {
       "ID": "oval:com.redhat.unaffected:obj:202238900002",
       "Version": "635",
       "Name": "nodejs-babel-cli"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202238900003",
+      "Version": "635",
+      "Name": "nodejs-decode-uri-component"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202240897001",

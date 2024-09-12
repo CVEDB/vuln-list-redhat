@@ -8316,14 +8316,14 @@
       "Name": "OpenIPMI-libs"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202443796006",
-      "Version": "636",
-      "Name": "cldr-emoji-annotation"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202443796007",
       "Version": "636",
       "Name": "cldr-emoji-annotation-dtd"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202443796009",
+      "Version": "636",
+      "Name": "cldr-emoji-annotation"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202445490004",

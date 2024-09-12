@@ -9486,19 +9486,19 @@
       "Name": "gcc-toolset-13-binutils"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202244840005",
+      "ID": "oval:com.redhat.cve:obj:202244840003",
+      "Version": "636",
+      "Name": "gcc-toolset-13-binutils-gold"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202244840007",
       "Version": "636",
       "Name": "gcc-toolset-13-binutils-devel"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202244840006",
+      "ID": "oval:com.redhat.cve:obj:202244840010",
       "Version": "636",
       "Name": "gcc-toolset-13-gdb"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202244840012",
-      "Version": "636",
-      "Name": "gcc-toolset-13-binutils-gold"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202245063001",

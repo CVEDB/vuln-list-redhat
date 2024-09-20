@@ -221,19 +221,9 @@
       "Name": "keycloak-authentication"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20248698001",
+      "ID": "oval:com.redhat.cve:obj:20247254001",
       "Version": "636",
-      "Name": "org.keycloak/keycloak-saml-core-public"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20248698002",
-      "Version": "636",
-      "Name": "org.keycloak/keycloak-saml-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20248883001",
-      "Version": "636",
-      "Name": "org.keycloak/keycloak-services"
+      "Name": "com.google.protobuf/protobuf-java"
     },
     {
       "ID": "oval:com.redhat.rhba:obj:20225452001",

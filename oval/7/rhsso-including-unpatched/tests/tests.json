@@ -860,6 +860,28 @@
     },
     {
       "Check": "at least one",
+      "Comment": "org.springframework/spring-web is installed",
+      "ID": "oval:com.redhat.cve:tst:202438809001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202438809001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "org.springframework/spring-web is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202438809002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202438809001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201712161001"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "org.springframework/spring-webmvc is installed",
       "ID": "oval:com.redhat.cve:tst:202438816001",
       "Version": "636",
@@ -941,6 +963,28 @@
       "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202441909001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201712161001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "org.apache.avro/avro is installed",
+      "ID": "oval:com.redhat.cve:tst:202447561001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202447561001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "org.apache.avro/avro is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202447561002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202447561001"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:201712161001"
@@ -3355,6 +3399,27 @@
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.unaffected:obj:202441172001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rollup is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202447068001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202447068001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rollup is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202447068002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202447068001"
       },
       "State": {}
     }

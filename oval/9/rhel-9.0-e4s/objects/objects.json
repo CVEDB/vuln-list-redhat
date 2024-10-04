@@ -8294,6 +8294,36 @@
       "ID": "oval:com.redhat.rhsa:obj:20246358001",
       "Version": "635",
       "Name": "python3-urllib3"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20247103001",
+      "Version": "636",
+      "Name": "grafana-pcp"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20247208001",
+      "Version": "636",
+      "Name": "osbuild-composer"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20247208002",
+      "Version": "636",
+      "Name": "osbuild-composer-core"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20247208003",
+      "Version": "636",
+      "Name": "osbuild-composer-dnf-json"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20247208004",
+      "Version": "636",
+      "Name": "osbuild-composer-worker"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20247428006",
+      "Version": "635",
+      "Name": "kpatch-patch-5_14_0-70_112_1"
     }
   ],
   "RpmverifyfileObjects": [
@@ -9247,6 +9277,54 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20245858005",
+      "Version": "635",
+      "Filepath": {
+        "Text": "/boot/grub2/grub.cfg",
+        "Datatype": "string"
+      },
+      "Pattern": {
+        "Text": "^menuentry.*",
+        "Operation": "pattern match"
+      },
+      "Instance": {
+        "Datatype": "int",
+        "VarRef": "oval:com.redhat.rhsa:var:20225214001"
+      }
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20246990015",
+      "Version": "645",
+      "Filepath": {
+        "Text": "/boot/grub2/grub.cfg",
+        "Datatype": "string"
+      },
+      "Pattern": {
+        "Text": "^menuentry.*",
+        "Operation": "pattern match"
+      },
+      "Instance": {
+        "Datatype": "int",
+        "VarRef": "oval:com.redhat.rhsa:var:20225214001"
+      }
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20246991029",
+      "Version": "643",
+      "Filepath": {
+        "Text": "/boot/grub2/grub.cfg",
+        "Datatype": "string"
+      },
+      "Pattern": {
+        "Text": "^menuentry.*",
+        "Operation": "pattern match"
+      },
+      "Instance": {
+        "Datatype": "int",
+        "VarRef": "oval:com.redhat.rhsa:var:20225214001"
+      }
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20247428005",
       "Version": "635",
       "Filepath": {
         "Text": "/boot/grub2/grub.cfg",

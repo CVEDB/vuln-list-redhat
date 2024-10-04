@@ -111,6 +111,11 @@
       "Name": "snappy"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202438809001",
+      "Version": "636",
+      "Name": "org.springframework/spring-web"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202438816001",
       "Version": "636",
       "Name": "org.springframework/spring-webmvc"
@@ -119,6 +124,11 @@
       "ID": "oval:com.redhat.cve:obj:202441909001",
       "Version": "636",
       "Name": "org.apache.sshd/sshd-common"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202447197001",
+      "Version": "636",
+      "Name": "org.apache.maven.plugins/maven-archetype-plugin"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:201912402001",
@@ -414,6 +424,11 @@
       "ID": "oval:com.redhat.unaffected:obj:202438810001",
       "Version": "635",
       "Name": "org.springframework.security/spring-security-core"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202447561001",
+      "Version": "635",
+      "Name": "org.apache.avro/avro"
     }
   ],
   "RpmverifyfileObjects": [

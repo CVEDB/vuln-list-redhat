@@ -851,14 +851,19 @@
       "Name": "rubygem-puma"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202447220001",
+      "Version": "636",
+      "Name": "rubygem-webrick"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:20245569001",
       "Version": "636",
-      "Name": "python3-zipp"
+      "Name": "python-zipp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20245569002",
       "Version": "636",
-      "Name": "python-zipp"
+      "Name": "python3-zipp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20247012001",
@@ -874,6 +879,61 @@
       "ID": "oval:com.redhat.cve:obj:20247923001",
       "Version": "636",
       "Name": "puppet-pulpcore"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20249355001",
+      "Version": "636",
+      "Name": "rubygem-qpid_proton"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20249355002",
+      "Version": "636",
+      "Name": "qpid-proton-c-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20249355003",
+      "Version": "636",
+      "Name": "qpid-proton-tests"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20249355004",
+      "Version": "636",
+      "Name": "python-qpid-proton"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20249355005",
+      "Version": "636",
+      "Name": "qpid-proton"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20249355006",
+      "Version": "636",
+      "Name": "qpid-proton-cpp"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20249355007",
+      "Version": "636",
+      "Name": "qpid-proton-cpp-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20249355008",
+      "Version": "636",
+      "Name": "python-qpid-proton-docs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20249355009",
+      "Version": "636",
+      "Name": "qpid-proton-cpp-docs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20249355010",
+      "Version": "636",
+      "Name": "qpid-proton-c-docs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20249355011",
+      "Version": "636",
+      "Name": "qpid-proton-c"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20214702004",
@@ -949,11 +1009,6 @@
       "ID": "oval:com.redhat.unaffected:obj:20157519007",
       "Version": "635",
       "Name": "tfm-rubygem-passenger-native"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:20162166001",
-      "Version": "635",
-      "Name": "python-qpid-proton"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20181000119001",
@@ -1081,56 +1136,6 @@
       "Name": "python3-pyjwt"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202230580002",
-      "Version": "635",
-      "Name": "qpid-proton-c-docs"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202230580003",
-      "Version": "635",
-      "Name": "qpid-proton-cpp-docs"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202230580004",
-      "Version": "635",
-      "Name": "qpid-proton-c"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202230580005",
-      "Version": "635",
-      "Name": "python-qpid-proton-docs"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202230580006",
-      "Version": "635",
-      "Name": "qpid-proton-cpp"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202230580007",
-      "Version": "635",
-      "Name": "qpid-proton-cpp-devel"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202230580008",
-      "Version": "635",
-      "Name": "rubygem-qpid_proton"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202230580009",
-      "Version": "635",
-      "Name": "qpid-proton-c-devel"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202230580010",
-      "Version": "635",
-      "Name": "qpid-proton-tests"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202230580011",
-      "Version": "635",
-      "Name": "qpid-proton"
-    },
-    {
       "ID": "oval:com.redhat.unaffected:obj:202232287001",
       "Version": "635",
       "Name": "lucene4"
@@ -1233,12 +1238,12 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:20247143001",
       "Version": "635",
-      "Name": "python-pulpcore"
+      "Name": "python3-pulpcore"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20247143002",
       "Version": "635",
-      "Name": "python3-pulpcore"
+      "Name": "python-pulpcore"
     }
   ],
   "RpmverifyfileObjects": [

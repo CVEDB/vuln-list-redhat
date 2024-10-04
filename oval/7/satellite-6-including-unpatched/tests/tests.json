@@ -3742,7 +3742,29 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-zipp is installed",
+      "Comment": "rubygem-webrick is installed",
+      "ID": "oval:com.redhat.cve:tst:202447220001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202447220001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rubygem-webrick is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202447220002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202447220001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20134120001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-zipp is installed",
       "ID": "oval:com.redhat.cve:tst:20245569001",
       "Version": "636",
       "Object": {
@@ -3752,7 +3774,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-zipp is signed with Red Hat redhatrelease2 key",
+      "Comment": "python-zipp is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20245569002",
       "Version": "636",
       "Object": {
@@ -3764,7 +3786,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-zipp is installed",
+      "Comment": "python3-zipp is installed",
       "ID": "oval:com.redhat.cve:tst:20245569003",
       "Version": "636",
       "Object": {
@@ -3774,7 +3796,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-zipp is signed with Red Hat redhatrelease2 key",
+      "Comment": "python3-zipp is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20245569004",
       "Version": "636",
       "Object": {
@@ -3845,6 +3867,248 @@
       "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20247923001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20134120001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rubygem-qpid_proton is installed",
+      "ID": "oval:com.redhat.cve:tst:20249355001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rubygem-qpid_proton is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20249355002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20134120001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qpid-proton-c-devel is installed",
+      "ID": "oval:com.redhat.cve:tst:20249355003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qpid-proton-c-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20249355004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20134120001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qpid-proton-tests is installed",
+      "ID": "oval:com.redhat.cve:tst:20249355005",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qpid-proton-tests is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20249355006",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20134120001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-qpid-proton is installed",
+      "ID": "oval:com.redhat.cve:tst:20249355007",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-qpid-proton is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20249355008",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20134120001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qpid-proton is installed",
+      "ID": "oval:com.redhat.cve:tst:20249355009",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355005"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qpid-proton is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20249355010",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20134120001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qpid-proton-cpp is installed",
+      "ID": "oval:com.redhat.cve:tst:20249355011",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355006"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qpid-proton-cpp is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20249355012",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20134120001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qpid-proton-cpp-devel is installed",
+      "ID": "oval:com.redhat.cve:tst:20249355013",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355007"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qpid-proton-cpp-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20249355014",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20134120001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-qpid-proton-docs is installed",
+      "ID": "oval:com.redhat.cve:tst:20249355015",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355008"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-qpid-proton-docs is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20249355016",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20134120001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qpid-proton-cpp-docs is installed",
+      "ID": "oval:com.redhat.cve:tst:20249355017",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355009"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qpid-proton-cpp-docs is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20249355018",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20134120001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qpid-proton-c-docs is installed",
+      "ID": "oval:com.redhat.cve:tst:20249355019",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355010"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qpid-proton-c-docs is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20249355020",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20134120001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qpid-proton-c is installed",
+      "ID": "oval:com.redhat.cve:tst:20249355021",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355011"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qpid-proton-c is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20249355022",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355011"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20134120001"
@@ -4815,22 +5079,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-qpid-proton is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20162166001",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:20162166001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "python-qpid-proton is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20162166002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:20162166001"
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355004"
       },
       "State": {}
     },
@@ -5603,32 +5857,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "qpid-proton-c-docs is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202230580003",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580002"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "qpid-proton-c-docs is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202230580004",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580002"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "qpid-proton-cpp-docs is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202230580005",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580003"
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355010"
       },
       "State": {}
     },
@@ -5639,17 +5873,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "qpid-proton-c is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202230580007",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580004"
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355009"
       },
       "State": {}
     },
@@ -5660,17 +5884,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580004"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python-qpid-proton-docs is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202230580009",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580005"
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355011"
       },
       "State": {}
     },
@@ -5681,17 +5895,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580005"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "qpid-proton-cpp is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202230580011",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580006"
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355008"
       },
       "State": {}
     },
@@ -5702,17 +5906,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580006"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "qpid-proton-cpp-devel is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202230580013",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580007"
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355006"
       },
       "State": {}
     },
@@ -5723,17 +5917,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580007"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rubygem-qpid_proton is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202230580015",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580008"
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355007"
       },
       "State": {}
     },
@@ -5744,17 +5928,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580008"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "qpid-proton-c-devel is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202230580017",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580009"
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355001"
       },
       "State": {}
     },
@@ -5765,17 +5939,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580009"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "qpid-proton-tests is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202230580019",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580010"
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355002"
       },
       "State": {}
     },
@@ -5786,17 +5950,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580010"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "qpid-proton is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202230580021",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580011"
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355003"
       },
       "State": {}
     },
@@ -5807,7 +5961,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202230580011"
+        "ObjectRef": "oval:com.redhat.cve:obj:20249355005"
       },
       "State": {}
     },
@@ -6530,7 +6684,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-pulpcore is installed",
+      "Comment": "python3-pulpcore is installed",
       "ID": "oval:com.redhat.unaffected:tst:20247143001",
       "Version": "635",
       "Object": {
@@ -6540,7 +6694,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-pulpcore is not installed",
+      "Comment": "python3-pulpcore is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20247143002",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -6551,7 +6705,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-pulpcore is installed",
+      "Comment": "python-pulpcore is installed",
       "ID": "oval:com.redhat.unaffected:tst:20247143003",
       "Version": "635",
       "Object": {
@@ -6561,7 +6715,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-pulpcore is not installed",
+      "Comment": "python-pulpcore is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20247143004",
       "Version": "635",
       "CheckExistence": "none_exist",

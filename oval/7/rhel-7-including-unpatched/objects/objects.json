@@ -15413,12 +15413,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20241394001",
       "Version": "636",
-      "Name": "host-metering-selinux"
+      "Name": "rhc-worker-script"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20241394002",
       "Version": "636",
-      "Name": "rhc-worker-script"
+      "Name": "host-metering-selinux"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20241394003",
@@ -15546,6 +15546,11 @@
       "Name": "vte-profile"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202437890001",
+      "Version": "636",
+      "Name": "dotnet6.0"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202440897001",
       "Version": "636",
       "Name": "orc-devel"
@@ -15573,12 +15578,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202442934001",
       "Version": "636",
-      "Name": "OpenIPMI-python"
+      "Name": "OpenIPMI-modalias"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202442934002",
       "Version": "636",
-      "Name": "OpenIPMI-modalias"
+      "Name": "OpenIPMI-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202442934003",
@@ -15588,7 +15593,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202442934004",
       "Version": "636",
-      "Name": "OpenIPMI-devel"
+      "Name": "OpenIPMI-python"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202442934005",
@@ -15599,6 +15604,21 @@
       "ID": "oval:com.redhat.cve:obj:202442934006",
       "Version": "636",
       "Name": "OpenIPMI-libs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202447175003",
+      "Version": "636",
+      "Name": "cups-filters"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202447175006",
+      "Version": "636",
+      "Name": "cups-filters-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202447175009",
+      "Version": "636",
+      "Name": "cups-filters-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20245742001",
@@ -16394,21 +16414,6 @@
       "ID": "oval:com.redhat.rhsa:obj:20141359003",
       "Version": "637",
       "Name": "polkit-qt-doc"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20141795001",
-      "Version": "636",
-      "Name": "cups-filters"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20141795002",
-      "Version": "636",
-      "Name": "cups-filters-devel"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20141795003",
-      "Version": "636",
-      "Name": "cups-filters-libs"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20141999001",

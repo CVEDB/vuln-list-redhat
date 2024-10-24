@@ -773,77 +773,77 @@
     {
       "ID": "oval:com.redhat.cve:obj:20181000021001",
       "Version": "636",
-      "Name": "git-email"
+      "Name": "perl-Git-SVN"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000021002",
       "Version": "636",
-      "Name": "perl-Git-SVN"
+      "Name": "git-credential-libsecret"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000021003",
       "Version": "636",
-      "Name": "git-credential-libsecret"
+      "Name": "git-svn"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000021004",
       "Version": "636",
-      "Name": "git-core"
+      "Name": "git-gui"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000021005",
       "Version": "636",
-      "Name": "git-subtree"
+      "Name": "gitk"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000021006",
       "Version": "636",
-      "Name": "git-daemon"
+      "Name": "git-instaweb"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000021007",
       "Version": "636",
-      "Name": "gitk"
+      "Name": "git-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000021008",
       "Version": "636",
-      "Name": "git-all"
+      "Name": "git-daemon"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000021009",
       "Version": "636",
-      "Name": "gitweb"
+      "Name": "perl-Git"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000021010",
       "Version": "636",
-      "Name": "git-svn"
+      "Name": "git-email"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000021011",
       "Version": "636",
-      "Name": "git-instaweb"
+      "Name": "git-subtree"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000021012",
       "Version": "636",
-      "Name": "git-core-doc"
+      "Name": "git-all"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000021013",
       "Version": "636",
-      "Name": "perl-Git"
+      "Name": "git"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000021014",
       "Version": "636",
-      "Name": "git"
+      "Name": "git-core-doc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000021015",
       "Version": "636",
-      "Name": "git-gui"
+      "Name": "gitweb"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000223001",
@@ -2053,37 +2053,37 @@
     {
       "ID": "oval:com.redhat.cve:obj:201820839002",
       "Version": "636",
-      "Name": "systemd-pam"
+      "Name": "systemd-tests"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820839003",
       "Version": "636",
-      "Name": "systemd-container"
+      "Name": "systemd-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820839004",
       "Version": "636",
-      "Name": "systemd-libs"
+      "Name": "systemd-pam"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820839005",
       "Version": "636",
-      "Name": "systemd-udev"
+      "Name": "systemd-journal-remote"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820839006",
       "Version": "636",
-      "Name": "systemd-journal-remote"
+      "Name": "systemd-udev"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820839007",
       "Version": "636",
-      "Name": "systemd-devel"
+      "Name": "systemd-container"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820839008",
       "Version": "636",
-      "Name": "systemd-tests"
+      "Name": "systemd-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820846001",

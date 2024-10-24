@@ -15506,11 +15506,6 @@
       "Name": "libyaml-devel"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20243651001",
-      "Version": "636",
-      "Name": "python-idna"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202436600001",
       "Version": "636",
       "Name": "libcdio-devel"

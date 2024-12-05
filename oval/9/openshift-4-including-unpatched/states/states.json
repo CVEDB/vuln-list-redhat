@@ -736,6 +736,32 @@
       "SignatureKeyID": {}
     },
     {
+      "ID": "oval:com.redhat.rhsa:ste:202410525001",
+      "Version": "637",
+      "Arch": {
+        "Text": "aarch64|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:4.14.42-202411280904.p0.gcf4d04f.assembly.4.14.42.el9",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:202410525003",
+      "Version": "637",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:4.14.42-202411280904.p0.gcf4d04f.assembly.4.14.42.el9",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
       "ID": "oval:com.redhat.rhsa:ste:20241461001",
       "Version": "637",
       "Arch": {

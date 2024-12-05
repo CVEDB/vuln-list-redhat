@@ -4760,6 +4760,66 @@
     },
     {
       "Check": "at least one",
+      "Comment": "microshift is earlier than 0:4.14.42-202411280904.p0.gcf4d04f.assembly.4.14.42.el9",
+      "ID": "oval:com.redhat.rhsa:tst:202410525001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20223294002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:202410525001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-greenboot is earlier than 0:4.14.42-202411280904.p0.gcf4d04f.assembly.4.14.42.el9",
+      "ID": "oval:com.redhat.rhsa:tst:202410525003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20236839002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:202410525003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-networking is earlier than 0:4.14.42-202411280904.p0.gcf4d04f.assembly.4.14.42.el9",
+      "ID": "oval:com.redhat.rhsa:tst:202410525005",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202328642005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:202410525001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-release-info is earlier than 0:4.14.42-202411280904.p0.gcf4d04f.assembly.4.14.42.el9",
+      "ID": "oval:com.redhat.rhsa:tst:202410525007",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202328642006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:202410525003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-selinux is earlier than 0:4.14.42-202411280904.p0.gcf4d04f.assembly.4.14.42.el9",
+      "ID": "oval:com.redhat.rhsa:tst:202410525009",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202328642003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:202410525003"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "cri-o is earlier than 0:1.27.4-5.rhaos4.14.git8d40fed.el9",
       "ID": "oval:com.redhat.rhsa:tst:20241461001",
       "Version": "637",

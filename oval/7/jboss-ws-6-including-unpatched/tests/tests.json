@@ -143,6 +143,17 @@
     },
     {
       "Check": "at least one",
+      "Comment": "ch.qos.logback/logback-core is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202412798002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202412801001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
       "Comment": "jws6-tomcat is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202421733002",
       "Version": "635",

@@ -141,7 +141,7 @@
       "Name": "quarkus-resteasy-reactive"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202412801001",
+      "ID": "oval:com.redhat.cve:obj:202412798001",
       "Version": "636",
       "Name": "ch.qos.logback/logback-core"
     },

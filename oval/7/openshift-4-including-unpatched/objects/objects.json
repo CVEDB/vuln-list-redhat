@@ -206,6 +206,11 @@
       "Name": "future"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202242919001",
+      "Version": "636",
+      "Name": "rhcos"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202246149001",
       "Version": "636",
       "Name": "conmon-rs"
@@ -679,11 +684,6 @@
       "ID": "oval:com.redhat.cve:obj:202345290004",
       "Version": "636",
       "Name": "ose-aws-ecr-image-credential-provider"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202345918001",
-      "Version": "636",
-      "Name": "rhcos"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20241135001",

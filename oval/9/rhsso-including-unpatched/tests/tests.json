@@ -816,6 +816,28 @@
     },
     {
       "Check": "at least one",
+      "Comment": "serialize-javascript is installed",
+      "ID": "oval:com.redhat.cve:tst:202411831001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202411831001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "serialize-javascript is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202411831002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202411831001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201712161001"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "ch.qos.logback/logback-core is installed",
       "ID": "oval:com.redhat.cve:tst:202412798001",
       "Version": "636",
@@ -1095,6 +1117,28 @@
       "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202447561001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201712161001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "net.sf.json-lib/json-lib is installed",
+      "ID": "oval:com.redhat.cve:tst:202447855001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202447855001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "net.sf.json-lib/json-lib is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202447855002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202447855001"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:201712161001"
@@ -1526,7 +1570,7 @@
       "Check": "at least one",
       "Comment": "rh-sso7-keycloak is earlier than 0:18.0.6-1.redhat_00001.1.el9sso",
       "ID": "oval:com.redhat.rhsa:tst:20231045001",
-      "Version": "640",
+      "Version": "641",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20227411001"
       },
@@ -1538,7 +1582,7 @@
       "Check": "at least one",
       "Comment": "rh-sso7-keycloak-server is earlier than 0:18.0.6-1.redhat_00001.1.el9sso",
       "ID": "oval:com.redhat.rhsa:tst:20231045003",
-      "Version": "640",
+      "Version": "641",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201712161001"
       },
@@ -1550,7 +1594,7 @@
       "Check": "at least one",
       "Comment": "rh-sso7-keycloak is earlier than 0:18.0.7-1.redhat_00001.1.el9sso",
       "ID": "oval:com.redhat.rhsa:tst:20232707001",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20227411001"
       },
@@ -1562,7 +1606,7 @@
       "Check": "at least one",
       "Comment": "rh-sso7-keycloak-server is earlier than 0:18.0.7-1.redhat_00001.1.el9sso",
       "ID": "oval:com.redhat.rhsa:tst:20232707003",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201712161001"
       },
@@ -1622,7 +1666,7 @@
       "Check": "at least one",
       "Comment": "rh-sso7-keycloak is earlier than 0:18.0.11-2.redhat_00001.1.el9sso",
       "ID": "oval:com.redhat.rhsa:tst:20237484001",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20227411001"
       },
@@ -1634,7 +1678,7 @@
       "Check": "at least one",
       "Comment": "rh-sso7-keycloak-server is earlier than 0:18.0.11-2.redhat_00001.1.el9sso",
       "ID": "oval:com.redhat.rhsa:tst:20237484003",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201712161001"
       },
@@ -1694,7 +1738,7 @@
       "Check": "at least one",
       "Comment": "rh-sso7-keycloak is earlier than 0:18.0.12-1.redhat_00001.1.el9sso",
       "ID": "oval:com.redhat.rhsa:tst:20240800001",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20227411001"
       },
@@ -1706,7 +1750,7 @@
       "Check": "at least one",
       "Comment": "rh-sso7-keycloak-server is earlier than 0:18.0.12-1.redhat_00001.1.el9sso",
       "ID": "oval:com.redhat.rhsa:tst:20240800003",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201712161001"
       },
@@ -1718,7 +1762,7 @@
       "Check": "at least one",
       "Comment": "rh-sso7-keycloak is earlier than 0:18.0.13-1.redhat_00001.1.el9sso",
       "ID": "oval:com.redhat.rhsa:tst:20241862001",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20227411001"
       },
@@ -1730,7 +1774,7 @@
       "Check": "at least one",
       "Comment": "rh-sso7-keycloak-server is earlier than 0:18.0.13-1.redhat_00001.1.el9sso",
       "ID": "oval:com.redhat.rhsa:tst:20241862003",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201712161001"
       },
@@ -1914,6 +1958,17 @@
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202224823001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "org.keycloak-keycloak-parent is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202011023002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202452798001"
       },
       "State": {}
     },
@@ -2495,17 +2550,6 @@
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.unaffected:obj:202326115001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "org.keycloak-keycloak-parent is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20232617002",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452798001"
       },
       "State": {}
     },

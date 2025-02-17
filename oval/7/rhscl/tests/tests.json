@@ -22012,7 +22012,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296001",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296001"
       },
@@ -22024,7 +22024,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296002",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296001"
       },
@@ -22036,7 +22036,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-bcmath is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296003",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296002"
       },
@@ -22048,7 +22048,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-bcmath is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296004",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296002"
       },
@@ -22060,7 +22060,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-cli is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296005",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296003"
       },
@@ -22072,7 +22072,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-cli is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296006",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296003"
       },
@@ -22084,7 +22084,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-common is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296007",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296004"
       },
@@ -22096,7 +22096,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-common is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296008",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296004"
       },
@@ -22108,7 +22108,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-dba is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296009",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296005"
       },
@@ -22120,7 +22120,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-dba is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296010",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296005"
       },
@@ -22132,7 +22132,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-dbg is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296011",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296006"
       },
@@ -22144,7 +22144,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-dbg is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296012",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296006"
       },
@@ -22156,7 +22156,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-devel is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296013",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296007"
       },
@@ -22168,7 +22168,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296014",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296007"
       },
@@ -22180,7 +22180,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-embedded is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296015",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296008"
       },
@@ -22192,7 +22192,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-embedded is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296016",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296008"
       },
@@ -22204,7 +22204,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-enchant is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296017",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296009"
       },
@@ -22216,7 +22216,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-enchant is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296018",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296009"
       },
@@ -22228,7 +22228,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-fpm is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296019",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296010"
       },
@@ -22240,7 +22240,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-fpm is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296020",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296010"
       },
@@ -22252,7 +22252,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-gd is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296021",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296011"
       },
@@ -22264,7 +22264,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-gd is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296022",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296011"
       },
@@ -22276,7 +22276,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-gmp is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296023",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296012"
       },
@@ -22288,7 +22288,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-gmp is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296024",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296012"
       },
@@ -22300,7 +22300,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-intl is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296025",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296013"
       },
@@ -22312,7 +22312,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-intl is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296026",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296013"
       },
@@ -22324,7 +22324,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-json is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296027",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296014"
       },
@@ -22336,7 +22336,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-json is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296028",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296014"
       },
@@ -22348,7 +22348,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-ldap is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296029",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296015"
       },
@@ -22360,7 +22360,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-ldap is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296030",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296015"
       },
@@ -22372,7 +22372,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-mbstring is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296031",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296016"
       },
@@ -22384,7 +22384,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-mbstring is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296032",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296016"
       },
@@ -22396,7 +22396,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-mysqlnd is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296033",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296017"
       },
@@ -22408,7 +22408,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-mysqlnd is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296034",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296017"
       },
@@ -22420,7 +22420,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-odbc is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296035",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296018"
       },
@@ -22432,7 +22432,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-odbc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296036",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296018"
       },
@@ -22444,7 +22444,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-opcache is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296037",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296019"
       },
@@ -22456,7 +22456,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-opcache is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296038",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296019"
       },
@@ -22468,7 +22468,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-pdo is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296039",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296020"
       },
@@ -22480,7 +22480,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-pdo is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296040",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296020"
       },
@@ -22492,7 +22492,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-pgsql is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296041",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296021"
       },
@@ -22504,7 +22504,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-pgsql is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296042",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296021"
       },
@@ -22516,7 +22516,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-process is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296043",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296022"
       },
@@ -22528,7 +22528,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-process is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296044",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296022"
       },
@@ -22540,7 +22540,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-pspell is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296045",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296023"
       },
@@ -22552,7 +22552,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-pspell is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296046",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296023"
       },
@@ -22564,7 +22564,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-recode is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296047",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296024"
       },
@@ -22576,7 +22576,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-recode is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296048",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296024"
       },
@@ -22588,7 +22588,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-snmp is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296049",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296025"
       },
@@ -22600,7 +22600,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-snmp is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296050",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296025"
       },
@@ -22612,7 +22612,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-soap is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296051",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296026"
       },
@@ -22624,7 +22624,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-soap is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296052",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296026"
       },
@@ -22636,7 +22636,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-xml is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296053",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296027"
       },
@@ -22648,7 +22648,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-xml is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296054",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296027"
       },
@@ -22660,7 +22660,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-xmlrpc is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296055",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296028"
       },
@@ -22672,7 +22672,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-xmlrpc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296056",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296028"
       },
@@ -22684,7 +22684,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-zip is earlier than 0:7.0.27-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20181296057",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296029"
       },
@@ -22696,7 +22696,7 @@
       "Check": "at least one",
       "Comment": "rh-php70-php-zip is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20181296058",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20181296029"
       },
@@ -32068,7 +32068,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519001",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519001"
       },
@@ -32080,7 +32080,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519002",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519001"
       },
@@ -32092,7 +32092,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-bcmath is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519003",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519002"
       },
@@ -32104,7 +32104,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-bcmath is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519004",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519002"
       },
@@ -32116,7 +32116,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-cli is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519005",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519003"
       },
@@ -32128,7 +32128,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-cli is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519006",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519003"
       },
@@ -32140,7 +32140,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-common is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519007",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519004"
       },
@@ -32152,7 +32152,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-common is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519008",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519004"
       },
@@ -32164,7 +32164,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-dba is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519009",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519005"
       },
@@ -32176,7 +32176,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-dba is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519010",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519005"
       },
@@ -32188,7 +32188,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-dbg is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519011",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519006"
       },
@@ -32200,7 +32200,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-dbg is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519012",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519006"
       },
@@ -32212,7 +32212,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-devel is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519013",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519007"
       },
@@ -32224,7 +32224,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519014",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519007"
       },
@@ -32236,7 +32236,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-embedded is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519015",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519008"
       },
@@ -32248,7 +32248,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-embedded is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519016",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519008"
       },
@@ -32260,7 +32260,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-enchant is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519017",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519009"
       },
@@ -32272,7 +32272,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-enchant is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519018",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519009"
       },
@@ -32284,7 +32284,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-fpm is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519019",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519010"
       },
@@ -32296,7 +32296,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-fpm is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519020",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519010"
       },
@@ -32308,7 +32308,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-gd is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519021",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519011"
       },
@@ -32320,7 +32320,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-gd is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519022",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519011"
       },
@@ -32332,7 +32332,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-gmp is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519023",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519012"
       },
@@ -32344,7 +32344,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-gmp is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519024",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519012"
       },
@@ -32356,7 +32356,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-intl is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519025",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519013"
       },
@@ -32368,7 +32368,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-intl is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519026",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519013"
       },
@@ -32380,7 +32380,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-json is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519027",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519014"
       },
@@ -32392,7 +32392,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-json is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519028",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519014"
       },
@@ -32404,7 +32404,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-ldap is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519029",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519015"
       },
@@ -32416,7 +32416,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-ldap is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519030",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519015"
       },
@@ -32428,7 +32428,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-mbstring is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519031",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519016"
       },
@@ -32440,7 +32440,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-mbstring is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519032",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519016"
       },
@@ -32452,7 +32452,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-mysqlnd is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519033",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519017"
       },
@@ -32464,7 +32464,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-mysqlnd is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519034",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519017"
       },
@@ -32476,7 +32476,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-odbc is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519035",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519018"
       },
@@ -32488,7 +32488,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-odbc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519036",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519018"
       },
@@ -32500,7 +32500,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-opcache is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519037",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519019"
       },
@@ -32512,7 +32512,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-opcache is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519038",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519019"
       },
@@ -32524,7 +32524,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-pdo is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519039",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519020"
       },
@@ -32536,7 +32536,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-pdo is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519040",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519020"
       },
@@ -32548,7 +32548,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-pgsql is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519041",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519021"
       },
@@ -32560,7 +32560,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-pgsql is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519042",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519021"
       },
@@ -32572,7 +32572,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-process is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519043",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519022"
       },
@@ -32584,7 +32584,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-process is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519044",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519022"
       },
@@ -32596,7 +32596,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-pspell is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519045",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519023"
       },
@@ -32608,7 +32608,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-pspell is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519046",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519023"
       },
@@ -32620,7 +32620,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-recode is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519047",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519024"
       },
@@ -32632,7 +32632,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-recode is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519048",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519024"
       },
@@ -32644,7 +32644,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-snmp is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519049",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519025"
       },
@@ -32656,7 +32656,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-snmp is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519050",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519025"
       },
@@ -32668,7 +32668,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-soap is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519051",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519026"
       },
@@ -32680,7 +32680,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-soap is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519052",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519026"
       },
@@ -32692,7 +32692,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-xml is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519053",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519027"
       },
@@ -32704,7 +32704,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-xml is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519054",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519027"
       },
@@ -32716,7 +32716,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-xmlrpc is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519055",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519028"
       },
@@ -32728,7 +32728,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-xmlrpc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519056",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519028"
       },
@@ -32740,7 +32740,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-zip is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519057",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519029"
       },
@@ -32752,7 +32752,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-zip is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20192519058",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519029"
       },
@@ -32764,7 +32764,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519060",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519001"
       },
@@ -32776,7 +32776,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-bcmath is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519061",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519002"
       },
@@ -32788,7 +32788,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-cli is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519062",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519003"
       },
@@ -32800,7 +32800,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-common is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519063",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519004"
       },
@@ -32812,7 +32812,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-dba is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519064",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519005"
       },
@@ -32824,7 +32824,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-dbg is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519065",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519006"
       },
@@ -32836,7 +32836,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-devel is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519066",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519007"
       },
@@ -32848,7 +32848,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-embedded is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519067",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519008"
       },
@@ -32860,7 +32860,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-enchant is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519068",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519009"
       },
@@ -32872,7 +32872,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-fpm is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519069",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519010"
       },
@@ -32884,7 +32884,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-gd is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519070",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519011"
       },
@@ -32896,7 +32896,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-gmp is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519071",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519012"
       },
@@ -32908,7 +32908,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-intl is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519072",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519013"
       },
@@ -32920,7 +32920,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-json is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519073",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519014"
       },
@@ -32932,7 +32932,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-ldap is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519074",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519015"
       },
@@ -32944,7 +32944,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-mbstring is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519075",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519016"
       },
@@ -32956,7 +32956,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-mysqlnd is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519076",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519017"
       },
@@ -32968,7 +32968,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-odbc is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519077",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519018"
       },
@@ -32980,7 +32980,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-opcache is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519078",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519019"
       },
@@ -32992,7 +32992,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-pdo is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519079",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519020"
       },
@@ -33004,7 +33004,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-pgsql is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519080",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519021"
       },
@@ -33016,7 +33016,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-process is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519081",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519022"
       },
@@ -33028,7 +33028,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-pspell is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519082",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519023"
       },
@@ -33040,7 +33040,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-recode is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519083",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519024"
       },
@@ -33052,7 +33052,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-snmp is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519084",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519025"
       },
@@ -33064,7 +33064,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-soap is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519085",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519026"
       },
@@ -33076,7 +33076,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-xml is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519086",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519027"
       },
@@ -33088,7 +33088,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-xmlrpc is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519087",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519028"
       },
@@ -33100,7 +33100,7 @@
       "Check": "at least one",
       "Comment": "rh-php71-php-zip is earlier than 0:7.1.30-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20192519088",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192519029"
       },
@@ -34144,7 +34144,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299001",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299001"
       },
@@ -34156,7 +34156,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299002",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299001"
       },
@@ -34168,7 +34168,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-bcmath is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299003",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299002"
       },
@@ -34180,7 +34180,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-bcmath is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299004",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299002"
       },
@@ -34192,7 +34192,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-cli is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299005",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299003"
       },
@@ -34204,7 +34204,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-cli is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299006",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299003"
       },
@@ -34216,7 +34216,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-common is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299007",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299004"
       },
@@ -34228,7 +34228,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-common is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299008",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299004"
       },
@@ -34240,7 +34240,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-dba is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299009",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299005"
       },
@@ -34252,7 +34252,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-dba is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299010",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299005"
       },
@@ -34264,7 +34264,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-dbg is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299011",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299006"
       },
@@ -34276,7 +34276,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-dbg is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299012",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299006"
       },
@@ -34288,7 +34288,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-devel is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299013",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299007"
       },
@@ -34300,7 +34300,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299014",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299007"
       },
@@ -34312,7 +34312,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-embedded is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299015",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299008"
       },
@@ -34324,7 +34324,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-embedded is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299016",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299008"
       },
@@ -34336,7 +34336,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-enchant is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299017",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299009"
       },
@@ -34348,7 +34348,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-enchant is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299018",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299009"
       },
@@ -34360,7 +34360,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-fpm is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299019",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299010"
       },
@@ -34372,7 +34372,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-fpm is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299020",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299010"
       },
@@ -34384,7 +34384,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-gd is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299021",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299011"
       },
@@ -34396,7 +34396,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-gd is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299022",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299011"
       },
@@ -34408,7 +34408,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-gmp is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299023",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299012"
       },
@@ -34420,7 +34420,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-gmp is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299024",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299012"
       },
@@ -34432,7 +34432,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-intl is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299025",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299013"
       },
@@ -34444,7 +34444,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-intl is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299026",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299013"
       },
@@ -34456,7 +34456,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-json is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299027",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299014"
       },
@@ -34468,7 +34468,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-json is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299028",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299014"
       },
@@ -34480,7 +34480,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-ldap is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299029",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299015"
       },
@@ -34492,7 +34492,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-ldap is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299030",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299015"
       },
@@ -34504,7 +34504,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-mbstring is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299031",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299016"
       },
@@ -34516,7 +34516,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-mbstring is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299032",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299016"
       },
@@ -34528,7 +34528,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-mysqlnd is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299033",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299017"
       },
@@ -34540,7 +34540,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-mysqlnd is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299034",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299017"
       },
@@ -34552,7 +34552,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-odbc is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299035",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299018"
       },
@@ -34564,7 +34564,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-odbc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299036",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299018"
       },
@@ -34576,7 +34576,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-opcache is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299037",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299019"
       },
@@ -34588,7 +34588,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-opcache is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299038",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299019"
       },
@@ -34600,7 +34600,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-pdo is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299039",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299020"
       },
@@ -34612,7 +34612,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-pdo is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299040",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299020"
       },
@@ -34624,7 +34624,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-pgsql is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299041",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299021"
       },
@@ -34636,7 +34636,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-pgsql is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299042",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299021"
       },
@@ -34648,7 +34648,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-process is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299043",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299022"
       },
@@ -34660,7 +34660,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-process is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299044",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299022"
       },
@@ -34672,7 +34672,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-pspell is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299045",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299023"
       },
@@ -34684,7 +34684,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-pspell is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299046",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299023"
       },
@@ -34696,7 +34696,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-recode is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299047",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299024"
       },
@@ -34708,7 +34708,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-recode is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299048",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299024"
       },
@@ -34720,7 +34720,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-snmp is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299049",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299025"
       },
@@ -34732,7 +34732,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-snmp is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299050",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299025"
       },
@@ -34744,7 +34744,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-soap is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299051",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299026"
       },
@@ -34756,7 +34756,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-soap is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299052",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299026"
       },
@@ -34768,7 +34768,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-xml is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299053",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299027"
       },
@@ -34780,7 +34780,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-xml is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299054",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299027"
       },
@@ -34792,7 +34792,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-xmlrpc is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299055",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299028"
       },
@@ -34804,7 +34804,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-xmlrpc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299056",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299028"
       },
@@ -34816,7 +34816,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-zip is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299057",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299029"
       },
@@ -34828,7 +34828,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-zip is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20193299058",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299029"
       },
@@ -34840,7 +34840,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299060",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299001"
       },
@@ -34852,7 +34852,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-bcmath is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299061",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299002"
       },
@@ -34864,7 +34864,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-cli is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299062",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299003"
       },
@@ -34876,7 +34876,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-common is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299063",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299004"
       },
@@ -34888,7 +34888,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-dba is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299064",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299005"
       },
@@ -34900,7 +34900,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-dbg is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299065",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299006"
       },
@@ -34912,7 +34912,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-devel is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299066",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299007"
       },
@@ -34924,7 +34924,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-embedded is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299067",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299008"
       },
@@ -34936,7 +34936,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-enchant is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299068",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299009"
       },
@@ -34948,7 +34948,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-fpm is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299069",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299010"
       },
@@ -34960,7 +34960,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-gd is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299070",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299011"
       },
@@ -34972,7 +34972,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-gmp is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299071",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299012"
       },
@@ -34984,7 +34984,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-intl is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299072",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299013"
       },
@@ -34996,7 +34996,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-json is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299073",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299014"
       },
@@ -35008,7 +35008,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-ldap is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299074",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299015"
       },
@@ -35020,7 +35020,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-mbstring is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299075",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299016"
       },
@@ -35032,7 +35032,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-mysqlnd is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299076",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299017"
       },
@@ -35044,7 +35044,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-odbc is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299077",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299018"
       },
@@ -35056,7 +35056,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-opcache is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299078",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299019"
       },
@@ -35068,7 +35068,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-pdo is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299079",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299020"
       },
@@ -35080,7 +35080,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-pgsql is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299080",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299021"
       },
@@ -35092,7 +35092,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-process is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299081",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299022"
       },
@@ -35104,7 +35104,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-pspell is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299082",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299023"
       },
@@ -35116,7 +35116,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-recode is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299083",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299024"
       },
@@ -35128,7 +35128,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-snmp is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299084",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299025"
       },
@@ -35140,7 +35140,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-soap is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299085",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299026"
       },
@@ -35152,7 +35152,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-xml is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299086",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299027"
       },
@@ -35164,7 +35164,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-xmlrpc is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299087",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299028"
       },
@@ -35176,7 +35176,7 @@
       "Check": "at least one",
       "Comment": "rh-php72-php-zip is earlier than 0:7.2.24-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20193299088",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193299029"
       },
@@ -44308,7 +44308,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275001",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275001"
       },
@@ -44320,7 +44320,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275002",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275001"
       },
@@ -44332,7 +44332,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-bcmath is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275003",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275002"
       },
@@ -44344,7 +44344,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-bcmath is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275004",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275002"
       },
@@ -44356,7 +44356,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-cli is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275005",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275003"
       },
@@ -44368,7 +44368,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-cli is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275006",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275003"
       },
@@ -44380,7 +44380,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-common is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275007",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275004"
       },
@@ -44392,7 +44392,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-common is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275008",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275004"
       },
@@ -44404,7 +44404,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-dba is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275009",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275005"
       },
@@ -44416,7 +44416,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-dba is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275010",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275005"
       },
@@ -44428,7 +44428,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-dbg is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275011",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275006"
       },
@@ -44440,7 +44440,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-dbg is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275012",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275006"
       },
@@ -44452,7 +44452,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-devel is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275013",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275007"
       },
@@ -44464,7 +44464,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275014",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275007"
       },
@@ -44476,7 +44476,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-embedded is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275015",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275008"
       },
@@ -44488,7 +44488,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-embedded is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275016",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275008"
       },
@@ -44500,7 +44500,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-enchant is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275017",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275009"
       },
@@ -44512,7 +44512,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-enchant is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275018",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275009"
       },
@@ -44524,7 +44524,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-fpm is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275019",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275010"
       },
@@ -44536,7 +44536,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-fpm is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275020",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275010"
       },
@@ -44548,7 +44548,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-gd is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275021",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275011"
       },
@@ -44560,7 +44560,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-gd is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275022",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275011"
       },
@@ -44572,7 +44572,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-gmp is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275023",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275012"
       },
@@ -44584,7 +44584,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-gmp is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275024",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275012"
       },
@@ -44596,7 +44596,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-intl is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275025",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275013"
       },
@@ -44608,7 +44608,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-intl is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275026",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275013"
       },
@@ -44620,7 +44620,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-json is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275027",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275014"
       },
@@ -44632,7 +44632,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-json is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275028",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275014"
       },
@@ -44644,7 +44644,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-ldap is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275029",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275015"
       },
@@ -44656,7 +44656,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-ldap is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275030",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275015"
       },
@@ -44668,7 +44668,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-mbstring is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275031",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275016"
       },
@@ -44680,7 +44680,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-mbstring is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275032",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275016"
       },
@@ -44692,7 +44692,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-mysqlnd is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275033",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275017"
       },
@@ -44704,7 +44704,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-mysqlnd is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275034",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275017"
       },
@@ -44716,7 +44716,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-odbc is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275035",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275018"
       },
@@ -44728,7 +44728,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-odbc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275036",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275018"
       },
@@ -44740,7 +44740,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-opcache is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275037",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275019"
       },
@@ -44752,7 +44752,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-opcache is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275038",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275019"
       },
@@ -44764,7 +44764,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-pdo is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275039",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275020"
       },
@@ -44776,7 +44776,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-pdo is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275040",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275020"
       },
@@ -44788,7 +44788,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-pgsql is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275041",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275021"
       },
@@ -44800,7 +44800,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-pgsql is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275042",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275021"
       },
@@ -44812,7 +44812,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-process is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275043",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275022"
       },
@@ -44824,7 +44824,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-process is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275044",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275022"
       },
@@ -44836,7 +44836,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-pspell is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275045",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275023"
       },
@@ -44848,7 +44848,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-pspell is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275046",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275023"
       },
@@ -44860,7 +44860,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-recode is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275047",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275024"
       },
@@ -44872,7 +44872,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-recode is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275048",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275024"
       },
@@ -44884,7 +44884,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-snmp is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275049",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275025"
       },
@@ -44896,7 +44896,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-snmp is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275050",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275025"
       },
@@ -44908,7 +44908,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-soap is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275051",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275026"
       },
@@ -44920,7 +44920,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-soap is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275052",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275026"
       },
@@ -44932,7 +44932,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-xml is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275053",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275027"
       },
@@ -44944,7 +44944,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-xml is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275054",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275027"
       },
@@ -44956,7 +44956,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-xmlrpc is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275055",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275028"
       },
@@ -44968,7 +44968,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-xmlrpc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275056",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275028"
       },
@@ -44980,7 +44980,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-zip is earlier than 0:7.3.20-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205275057",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275029"
       },
@@ -44992,7 +44992,7 @@
       "Check": "at least one",
       "Comment": "rh-php73-php-zip is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20205275058",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205275029"
       },
@@ -45004,7 +45004,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs12-nodejs is earlier than 0:12.19.1-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205305001",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20200602001"
       },
@@ -45016,7 +45016,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs12-nodejs-devel is earlier than 0:12.19.1-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205305003",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20200602002"
       },
@@ -45028,7 +45028,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs12-nodejs-docs is earlier than 0:12.19.1-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205305005",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20200602003"
       },
@@ -45040,7 +45040,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs12-npm is earlier than 0:6.14.8-12.19.1.2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20205305007",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20200602004"
       },
@@ -45388,7 +45388,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs is earlier than 0:14.15.4-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20210421001",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421001"
       },
@@ -45400,7 +45400,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20210421002",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421001"
       },
@@ -45412,7 +45412,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-devel is earlier than 0:14.15.4-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20210421003",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421002"
       },
@@ -45424,7 +45424,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20210421004",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421002"
       },
@@ -45436,7 +45436,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-docs is earlier than 0:14.15.4-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20210421005",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421003"
       },
@@ -45448,7 +45448,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-docs is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20210421006",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421003"
       },
@@ -45460,7 +45460,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-npm is earlier than 0:6.14.10-14.15.4.2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20210421007",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421004"
       },
@@ -45472,7 +45472,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-npm is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20210421008",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421004"
       },
@@ -45556,7 +45556,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs10-nodejs is earlier than 0:10.23.1-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20210521001",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhba:obj:20190772001"
       },
@@ -45568,7 +45568,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs10-nodejs-devel is earlier than 0:10.23.1-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20210521003",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhba:obj:20190772002"
       },
@@ -45580,7 +45580,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs10-nodejs-docs is earlier than 0:10.23.1-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20210521005",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhba:obj:20190772003"
       },
@@ -45592,7 +45592,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs10-npm is earlier than 0:6.14.10-10.23.1.2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20210521007",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhba:obj:20190772004"
       },
@@ -48172,7 +48172,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs12-nodejs is earlier than 0:12.22.2-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20212931001",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20200602001"
       },
@@ -48184,7 +48184,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs12-nodejs-devel is earlier than 0:12.22.2-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20212931003",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20200602002"
       },
@@ -48196,7 +48196,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs12-nodejs-docs is earlier than 0:12.22.2-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20212931005",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20200602003"
       },
@@ -48208,7 +48208,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs12-npm is earlier than 0:6.14.13-12.22.2.1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20212931007",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20200602004"
       },
@@ -48220,7 +48220,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs12-nodejs-nodemon is earlier than 0:2.0.3-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20212931009",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210485005"
       },
@@ -48232,7 +48232,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs is earlier than 0:14.17.2-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20212932001",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421001"
       },
@@ -48244,7 +48244,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-devel is earlier than 0:14.17.2-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20212932003",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421002"
       },
@@ -48256,7 +48256,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-docs is earlier than 0:14.17.2-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20212932005",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421003"
       },
@@ -48268,7 +48268,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-npm is earlier than 0:6.14.13-14.17.2.1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20212932007",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421004"
       },
@@ -48280,7 +48280,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-nodemon is earlier than 0:2.0.3-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20212932009",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212932005"
       },
@@ -48292,7 +48292,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-nodemon is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20212932010",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212932005"
       },
@@ -49144,7 +49144,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs is earlier than 0:14.17.5-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20213280001",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421001"
       },
@@ -49156,7 +49156,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-devel is earlier than 0:14.17.5-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20213280003",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421002"
       },
@@ -49168,7 +49168,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-docs is earlier than 0:14.17.5-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20213280005",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421003"
       },
@@ -49180,7 +49180,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-npm is earlier than 0:6.14.14-14.17.5.1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20213280007",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421004"
       },
@@ -49192,7 +49192,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-nodemon is earlier than 0:2.0.3-5.el7",
       "ID": "oval:com.redhat.rhsa:tst:20213280009",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212932005"
       },
@@ -49204,7 +49204,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs12-nodejs is earlier than 0:12.22.5-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20213281001",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20200602001"
       },
@@ -49216,7 +49216,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs12-nodejs-devel is earlier than 0:12.22.5-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20213281003",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20200602002"
       },
@@ -49228,7 +49228,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs12-nodejs-docs is earlier than 0:12.22.5-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20213281005",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20200602003"
       },
@@ -49240,7 +49240,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs12-npm is earlier than 0:6.14.14-12.22.5.1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20213281007",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20200602004"
       },
@@ -49252,7 +49252,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs12-nodejs-nodemon is earlier than 0:2.0.3-5.el7",
       "ID": "oval:com.redhat.rhsa:tst:20213281009",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210485005"
       },
@@ -51796,7 +51796,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs is earlier than 0:14.18.2-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20220041001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421001"
       },
@@ -51808,7 +51808,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-devel is earlier than 0:14.18.2-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20220041003",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421002"
       },
@@ -51820,7 +51820,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-docs is earlier than 0:14.18.2-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20220041005",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421003"
       },
@@ -51832,7 +51832,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-npm is earlier than 0:6.14.15-14.18.2.1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20220041007",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421004"
       },
@@ -51844,7 +51844,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-nodemon is earlier than 0:2.0.3-6.el7",
       "ID": "oval:com.redhat.rhsa:tst:20220041009",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212932005"
       },
@@ -53500,7 +53500,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs12-nodejs is earlier than 0:12.22.12-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20224914001",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20200602001"
       },
@@ -53512,7 +53512,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs12-nodejs-devel is earlier than 0:12.22.12-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20224914003",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20200602002"
       },
@@ -53524,7 +53524,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs12-nodejs-docs is earlier than 0:12.22.12-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20224914005",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20200602003"
       },
@@ -53536,7 +53536,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs12-npm is earlier than 0:6.14.16-12.22.12.2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20224914007",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20200602004"
       },
@@ -54724,7 +54724,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs is earlier than 0:14.20.0-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20226389001",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421001"
       },
@@ -54736,7 +54736,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-devel is earlier than 0:14.20.0-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20226389003",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421002"
       },
@@ -54748,7 +54748,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-docs is earlier than 0:14.20.0-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20226389005",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421003"
       },
@@ -54760,7 +54760,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-npm is earlier than 0:6.14.17-14.20.0.2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20226389007",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421004"
       },
@@ -54772,7 +54772,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-nodemon is earlier than 0:2.0.19-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20226389009",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212932005"
       },
@@ -55648,7 +55648,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs is earlier than 0:14.20.1-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20227044001",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421001"
       },
@@ -55660,7 +55660,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-devel is earlier than 0:14.20.1-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20227044003",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421002"
       },
@@ -55672,7 +55672,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-docs is earlier than 0:14.20.1-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20227044005",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421003"
       },
@@ -55684,7 +55684,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-npm is earlier than 0:6.14.17-14.20.1.2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20227044007",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421004"
       },
@@ -56320,7 +56320,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-nodemon is earlier than 0:2.0.20-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20230612001",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212932005"
       },
@@ -56332,7 +56332,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs is earlier than 0:14.21.1-3.el7",
       "ID": "oval:com.redhat.rhsa:tst:20230612003",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421001"
       },
@@ -56344,7 +56344,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-devel is earlier than 0:14.21.1-3.el7",
       "ID": "oval:com.redhat.rhsa:tst:20230612005",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421002"
       },
@@ -56356,7 +56356,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-docs is earlier than 0:14.21.1-3.el7",
       "ID": "oval:com.redhat.rhsa:tst:20230612007",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421003"
       },
@@ -56368,7 +56368,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-full-i18n is earlier than 0:14.21.1-3.el7",
       "ID": "oval:com.redhat.rhsa:tst:20230612009",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20230612005"
       },
@@ -56380,7 +56380,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-full-i18n is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20230612010",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20230612005"
       },
@@ -56392,7 +56392,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-npm is earlier than 0:6.14.17-14.21.1.3.el7",
       "ID": "oval:com.redhat.rhsa:tst:20230612011",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421004"
       },
@@ -56584,7 +56584,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14 is earlier than 0:3.6-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20231744001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20231744001"
       },
@@ -56596,7 +56596,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20231744002",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20231744001"
       },
@@ -56608,7 +56608,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-runtime is earlier than 0:3.6-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20231744003",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20231744002"
       },
@@ -56620,7 +56620,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-runtime is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20231744004",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20231744002"
       },
@@ -56632,7 +56632,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-scldevel is earlier than 0:3.6-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20231744005",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20231744003"
       },
@@ -56644,7 +56644,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-scldevel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20231744006",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20231744003"
       },
@@ -56656,7 +56656,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs is earlier than 0:14.21.3-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20231744007",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421001"
       },
@@ -56668,7 +56668,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-devel is earlier than 0:14.21.3-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20231744009",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421002"
       },
@@ -56680,7 +56680,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-docs is earlier than 0:14.21.3-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20231744011",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421003"
       },
@@ -56692,7 +56692,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-full-i18n is earlier than 0:14.21.3-2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20231744013",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20230612005"
       },
@@ -56704,7 +56704,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-npm is earlier than 0:6.14.18-14.21.3.2.el7",
       "ID": "oval:com.redhat.rhsa:tst:20231744015",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421004"
       },
@@ -57388,7 +57388,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql is earlier than 0:12.15-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20234313001",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112001"
       },
@@ -57400,7 +57400,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-contrib is earlier than 0:12.15-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20234313003",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112002"
       },
@@ -57412,7 +57412,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-contrib-syspaths is earlier than 0:12.15-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20234313005",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112003"
       },
@@ -57424,7 +57424,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-devel is earlier than 0:12.15-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20234313007",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112004"
       },
@@ -57436,7 +57436,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-docs is earlier than 0:12.15-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20234313009",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112005"
       },
@@ -57448,7 +57448,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-libs is earlier than 0:12.15-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20234313011",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112006"
       },
@@ -57460,7 +57460,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-plperl is earlier than 0:12.15-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20234313013",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112007"
       },
@@ -57472,7 +57472,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-plpython is earlier than 0:12.15-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20234313015",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112008"
       },
@@ -57484,7 +57484,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-pltcl is earlier than 0:12.15-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20234313017",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112009"
       },
@@ -57496,7 +57496,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-server is earlier than 0:12.15-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20234313019",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112010"
       },
@@ -57508,7 +57508,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-server-syspaths is earlier than 0:12.15-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20234313021",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112011"
       },
@@ -57520,7 +57520,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-static is earlier than 0:12.15-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20234313023",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112012"
       },
@@ -57532,7 +57532,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-syspaths is earlier than 0:12.15-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20234313025",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112013"
       },
@@ -57544,7 +57544,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-test is earlier than 0:12.15-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20234313027",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112014"
       },
@@ -57556,7 +57556,7 @@
       "Check": "at least one",
       "Comment": "rh-nginx120-nginx is earlier than 1:1.20.1-1.el7.1",
       "ID": "oval:com.redhat.rhsa:tst:20235720001",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20235720001"
       },
@@ -57568,7 +57568,7 @@
       "Check": "at least one",
       "Comment": "rh-nginx120-nginx is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20235720002",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20235720001"
       },
@@ -57580,7 +57580,7 @@
       "Check": "at least one",
       "Comment": "rh-nginx120-nginx-mod-http-image-filter is earlier than 1:1.20.1-1.el7.1",
       "ID": "oval:com.redhat.rhsa:tst:20235720003",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20235720002"
       },
@@ -57592,7 +57592,7 @@
       "Check": "at least one",
       "Comment": "rh-nginx120-nginx-mod-http-image-filter is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20235720004",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20235720002"
       },
@@ -57604,7 +57604,7 @@
       "Check": "at least one",
       "Comment": "rh-nginx120-nginx-mod-http-perl is earlier than 1:1.20.1-1.el7.1",
       "ID": "oval:com.redhat.rhsa:tst:20235720005",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20235720003"
       },
@@ -57616,7 +57616,7 @@
       "Check": "at least one",
       "Comment": "rh-nginx120-nginx-mod-http-perl is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20235720006",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20235720003"
       },
@@ -57628,7 +57628,7 @@
       "Check": "at least one",
       "Comment": "rh-nginx120-nginx-mod-http-xslt-filter is earlier than 1:1.20.1-1.el7.1",
       "ID": "oval:com.redhat.rhsa:tst:20235720007",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20235720004"
       },
@@ -57640,7 +57640,7 @@
       "Check": "at least one",
       "Comment": "rh-nginx120-nginx-mod-http-xslt-filter is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20235720008",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20235720004"
       },
@@ -57652,7 +57652,7 @@
       "Check": "at least one",
       "Comment": "rh-nginx120-nginx-mod-mail is earlier than 1:1.20.1-1.el7.1",
       "ID": "oval:com.redhat.rhsa:tst:20235720009",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20235720005"
       },
@@ -57664,7 +57664,7 @@
       "Check": "at least one",
       "Comment": "rh-nginx120-nginx-mod-mail is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20235720010",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20235720005"
       },
@@ -57676,7 +57676,7 @@
       "Check": "at least one",
       "Comment": "rh-nginx120-nginx-mod-stream is earlier than 1:1.20.1-1.el7.1",
       "ID": "oval:com.redhat.rhsa:tst:20235720011",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20235720006"
       },
@@ -57688,7 +57688,7 @@
       "Check": "at least one",
       "Comment": "rh-nginx120-nginx-mod-stream is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20235720012",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20235720006"
       },
@@ -57700,7 +57700,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs is earlier than 0:14.21.3-5.el7",
       "ID": "oval:com.redhat.rhsa:tst:20235840001",
-      "Version": "634",
+      "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421001"
       },
@@ -57712,7 +57712,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-devel is earlier than 0:14.21.3-5.el7",
       "ID": "oval:com.redhat.rhsa:tst:20235840003",
-      "Version": "634",
+      "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421002"
       },
@@ -57724,7 +57724,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-docs is earlier than 0:14.21.3-5.el7",
       "ID": "oval:com.redhat.rhsa:tst:20235840005",
-      "Version": "634",
+      "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421003"
       },
@@ -57736,7 +57736,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-full-i18n is earlier than 0:14.21.3-5.el7",
       "ID": "oval:com.redhat.rhsa:tst:20235840007",
-      "Version": "634",
+      "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20230612005"
       },
@@ -57748,7 +57748,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-npm is earlier than 0:6.14.18-14.21.3.5.el7",
       "ID": "oval:com.redhat.rhsa:tst:20235840009",
-      "Version": "634",
+      "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421004"
       },
@@ -57760,7 +57760,7 @@
       "Check": "at least one",
       "Comment": "httpd24-libnghttp2 is earlier than 0:1.7.1-11.el7",
       "ID": "oval:com.redhat.rhsa:tst:20235841001",
-      "Version": "640",
+      "Version": "641",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20173018005"
       },
@@ -57772,7 +57772,7 @@
       "Check": "at least one",
       "Comment": "httpd24-libnghttp2-devel is earlier than 0:1.7.1-11.el7",
       "ID": "oval:com.redhat.rhsa:tst:20235841003",
-      "Version": "640",
+      "Version": "641",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20173018006"
       },
@@ -57784,7 +57784,7 @@
       "Check": "at least one",
       "Comment": "httpd24-nghttp2 is earlier than 0:1.7.1-11.el7",
       "ID": "oval:com.redhat.rhsa:tst:20235841005",
-      "Version": "640",
+      "Version": "641",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20173018007"
       },
@@ -58060,7 +58060,7 @@
       "Check": "at least one",
       "Comment": "rh-varnish6-varnish is earlier than 0:6.0.8-2.el7.3",
       "ID": "oval:com.redhat.rhsa:tst:20237334001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20202262005"
       },
@@ -58072,7 +58072,7 @@
       "Check": "at least one",
       "Comment": "rh-varnish6-varnish-devel is earlier than 0:6.0.8-2.el7.3",
       "ID": "oval:com.redhat.rhsa:tst:20237334003",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20202262006"
       },
@@ -58084,7 +58084,7 @@
       "Check": "at least one",
       "Comment": "rh-varnish6-varnish-docs is earlier than 0:6.0.8-2.el7.3",
       "ID": "oval:com.redhat.rhsa:tst:20237334005",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20202262007"
       },
@@ -58096,7 +58096,7 @@
       "Check": "at least one",
       "Comment": "rh-varnish6-varnish-libs is earlier than 0:6.0.8-2.el7.3",
       "ID": "oval:com.redhat.rhsa:tst:20237334007",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20202262008"
       },
@@ -58468,7 +58468,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql13-postgresql is earlier than 0:13.13-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20237772001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212396001"
       },
@@ -58480,7 +58480,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql13-postgresql-contrib is earlier than 0:13.13-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20237772003",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212396002"
       },
@@ -58492,7 +58492,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql13-postgresql-contrib-syspaths is earlier than 0:13.13-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20237772005",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212396003"
       },
@@ -58504,7 +58504,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql13-postgresql-devel is earlier than 0:13.13-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20237772007",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212396004"
       },
@@ -58516,7 +58516,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql13-postgresql-docs is earlier than 0:13.13-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20237772009",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212396005"
       },
@@ -58528,7 +58528,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql13-postgresql-libs is earlier than 0:13.13-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20237772011",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212396006"
       },
@@ -58540,7 +58540,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql13-postgresql-plperl is earlier than 0:13.13-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20237772013",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212396007"
       },
@@ -58552,7 +58552,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql13-postgresql-plpython is earlier than 0:13.13-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20237772015",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212396008"
       },
@@ -58564,7 +58564,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql13-postgresql-plpython3 is earlier than 0:13.13-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20237772017",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212396009"
       },
@@ -58576,7 +58576,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql13-postgresql-pltcl is earlier than 0:13.13-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20237772019",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212396010"
       },
@@ -58588,7 +58588,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql13-postgresql-server is earlier than 0:13.13-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20237772021",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212396011"
       },
@@ -58600,7 +58600,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql13-postgresql-server-syspaths is earlier than 0:13.13-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20237772023",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212396012"
       },
@@ -58612,7 +58612,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql13-postgresql-static is earlier than 0:13.13-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20237772025",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212396013"
       },
@@ -58624,7 +58624,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql13-postgresql-syspaths is earlier than 0:13.13-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20237772027",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212396014"
       },
@@ -58636,7 +58636,7 @@
       "Check": "at least one",
       "Comment": "rh-postgresql13-postgresql-test is earlier than 0:13.13-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20237772029",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20212396015"
       },
@@ -59164,7 +59164,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs is earlier than 0:14.21.3-6.el7",
       "ID": "oval:com.redhat.rhsa:tst:20241354001",
-      "Version": "634",
+      "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421001"
       },
@@ -59176,7 +59176,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-devel is earlier than 0:14.21.3-6.el7",
       "ID": "oval:com.redhat.rhsa:tst:20241354003",
-      "Version": "634",
+      "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421002"
       },
@@ -59188,7 +59188,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-docs is earlier than 0:14.21.3-6.el7",
       "ID": "oval:com.redhat.rhsa:tst:20241354005",
-      "Version": "634",
+      "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421003"
       },
@@ -59200,7 +59200,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-nodejs-full-i18n is earlier than 0:14.21.3-6.el7",
       "ID": "oval:com.redhat.rhsa:tst:20241354007",
-      "Version": "634",
+      "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20230612005"
       },
@@ -59212,7 +59212,7 @@
       "Check": "at least one",
       "Comment": "rh-nodejs14-npm is earlier than 0:6.14.18-14.21.3.6.el7",
       "ID": "oval:com.redhat.rhsa:tst:20241354009",
-      "Version": "634",
+      "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20210421004"
       },
@@ -59284,7 +59284,7 @@
       "Check": "at least one",
       "Comment": "rh-mysql80-mysql is earlier than 0:8.0.36-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20242619001",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192484001"
       },
@@ -59296,7 +59296,7 @@
       "Check": "at least one",
       "Comment": "rh-mysql80-mysql-common is earlier than 0:8.0.36-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20242619003",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192484002"
       },
@@ -59308,7 +59308,7 @@
       "Check": "at least one",
       "Comment": "rh-mysql80-mysql-config is earlier than 0:8.0.36-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20242619005",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192484003"
       },
@@ -59320,7 +59320,7 @@
       "Check": "at least one",
       "Comment": "rh-mysql80-mysql-config-syspaths is earlier than 0:8.0.36-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20242619007",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192484004"
       },
@@ -59332,7 +59332,7 @@
       "Check": "at least one",
       "Comment": "rh-mysql80-mysql-devel is earlier than 0:8.0.36-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20242619009",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192484005"
       },
@@ -59344,7 +59344,7 @@
       "Check": "at least one",
       "Comment": "rh-mysql80-mysql-errmsg is earlier than 0:8.0.36-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20242619011",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192484006"
       },
@@ -59356,7 +59356,7 @@
       "Check": "at least one",
       "Comment": "rh-mysql80-mysql-icu-data-files is earlier than 0:8.0.36-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20242619013",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20226518007"
       },
@@ -59368,7 +59368,7 @@
       "Check": "at least one",
       "Comment": "rh-mysql80-mysql-server is earlier than 0:8.0.36-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20242619015",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192484007"
       },
@@ -59380,7 +59380,7 @@
       "Check": "at least one",
       "Comment": "rh-mysql80-mysql-server-syspaths is earlier than 0:8.0.36-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20242619017",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192484008"
       },
@@ -59392,7 +59392,7 @@
       "Check": "at least one",
       "Comment": "rh-mysql80-mysql-syspaths is earlier than 0:8.0.36-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20242619019",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192484009"
       },
@@ -59404,7 +59404,7 @@
       "Check": "at least one",
       "Comment": "rh-mysql80-mysql-test is earlier than 0:8.0.36-1.el7",
       "ID": "oval:com.redhat.rhsa:tst:20242619021",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20192484010"
       },

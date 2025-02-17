@@ -772,424 +772,6 @@
     },
     {
       "Check": "at least one",
-      "Comment": "tuned-profiles-openshift is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336001",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-openshift is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336002",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336001"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-postgresql is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336003",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336002"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-postgresql is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336004",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336002"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-cpu-partitioning is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336005",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-cpu-partitioning is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336006",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336003"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-nfv is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336007",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336004"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-nfv is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336008",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336004"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-ppd is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336009",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336005"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-ppd is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336010",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336005"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-gtk is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336011",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336006"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-gtk is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336012",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336006"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-nfv-host is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336013",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336007"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-nfv-host is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336014",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336007"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-utils-systemtap is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336015",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336008"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-utils-systemtap is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336016",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336008"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-oracle is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336017",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336009"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-oracle is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336018",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336009"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-mssql is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336019",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336010"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-mssql is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336020",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336010"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-nfv-guest is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336021",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336011"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-nfv-guest is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336022",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336011"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-utils is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336023",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336012"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-utils is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336024",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336012"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336025",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336013"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336026",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336013"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-spectrumscale is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336027",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336014"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-spectrumscale is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336028",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336014"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-atomic is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336029",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336015"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-atomic is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336030",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336015"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-realtime is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336031",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336016"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-realtime is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336032",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336016"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-sap is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336033",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336017"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-sap is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336034",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336017"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-sap-hana is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336035",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336018"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-sap-hana is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336036",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336018"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-compat is installed",
-      "ID": "oval:com.redhat.cve:tst:202452336037",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336019"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tuned-profiles-compat is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202452336038",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202452336019"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201925076001"
-      }
-    },
-    {
-      "Check": "at least one",
       "Comment": "ovn24.09-central is installed",
       "ID": "oval:com.redhat.cve:tst:20250650003",
       "Version": "636",
@@ -2406,6 +1988,894 @@
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20241394001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879001",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879002",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-gtk is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879003",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-gtk is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879004",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-ppd is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879005",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-ppd is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879006",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-atomic is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879007",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-atomic is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879008",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-compat is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879009",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-compat is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879010",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-cpu-partitioning is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879011",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-cpu-partitioning is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879012",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-mssql is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879013",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-mssql is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879014",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-nfv is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879015",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-nfv is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879016",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-nfv-guest is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879017",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-nfv-guest is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879018",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-nfv-host is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879019",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-nfv-host is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879020",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-openshift is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879021",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879011"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-openshift is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879022",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879011"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-oracle is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879023",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879012"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-oracle is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879024",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879012"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-postgresql is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879025",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879013"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-postgresql is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879026",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879013"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-realtime is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879027",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879014"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-realtime is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879028",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879014"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-sap is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879029",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879015"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-sap is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879030",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879015"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-sap-hana is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879031",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879016"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-sap-hana is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879032",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879016"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-spectrumscale is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879033",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879017"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-profiles-spectrumscale is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879034",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879017"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-utils is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879035",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879018"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-utils is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879036",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879018"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-utils-systemtap is earlier than 0:2.24.0-2.1.20240819gitc082797f.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20250879037",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879019"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20250879001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tuned-utils-systemtap is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20250879038",
+      "Version": "634",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20250879019"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201925076001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn22.03 is earlier than 0:22.03.7-11.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251089001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251089001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn22.03-central is earlier than 0:22.03.7-11.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251089003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251089001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn22.03-host is earlier than 0:22.03.7-11.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251089005",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153011"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251089001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn22.03-vtep is earlier than 0:22.03.7-11.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251089007",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251089001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn22.06 is earlier than 0:22.06.0-273.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251090001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153018"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251090001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn22.06-central is earlier than 0:22.06.0-273.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251090003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153014"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251090001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn22.06-host is earlier than 0:22.06.0-273.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251090005",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251090001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn22.06-vtep is earlier than 0:22.06.0-273.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251090007",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251090001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn22.09 is earlier than 0:22.09.2-86.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251091001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251091001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn22.09-central is earlier than 0:22.09.2-86.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251091003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251091001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn22.09-host is earlier than 0:22.09.2-86.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251091005",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251091001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn22.09-vtep is earlier than 0:22.09.2-86.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251091007",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251091001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn22.12 is earlier than 0:22.12.1-107.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251092001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251092001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn22.12-central is earlier than 0:22.12.1-107.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251092003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153016"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251092001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn22.12-host is earlier than 0:22.12.1-107.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251092005",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153020"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251092001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn22.12-vtep is earlier than 0:22.12.1-107.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251092007",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153019"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251092001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn23.03 is earlier than 0:23.03.3-22.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251093001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650022"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251093001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn23.03-central is earlier than 0:23.03.3-22.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251093003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650012"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251093001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn23.03-host is earlier than 0:23.03.3-22.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251093005",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251093001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn23.03-vtep is earlier than 0:23.03.3-22.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251093007",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650026"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251093001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn23.06 is earlier than 0:23.06.4-26.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251094001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650030"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251094001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn23.06-central is earlier than 0:23.06.4-26.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251094003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650033"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251094001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn23.06-host is earlier than 0:23.06.4-26.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251094005",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650036"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251094001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn23.06-vtep is earlier than 0:23.06.4-26.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251094007",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650029"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251094001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn23.09 is earlier than 0:23.09.6-12.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251095001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650015"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251095001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn23.09-central is earlier than 0:23.09.6-12.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251095003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650016"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251095001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn23.09-host is earlier than 0:23.09.6-12.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251095005",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650011"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251095001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn23.09-vtep is earlier than 0:23.09.6-12.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251095007",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650025"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251095001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn24.03 is earlier than 0:24.03.4-53.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251096001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650034"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251096001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn24.03-central is earlier than 0:24.03.4-53.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251096003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650032"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251096001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn24.03-host is earlier than 0:24.03.4-53.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251096005",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650019"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251096001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn24.03-vtep is earlier than 0:24.03.4-53.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251096007",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650013"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251096001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn24.09 is earlier than 0:24.09.1-66.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251097001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650020"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251097001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn24.09-central is earlier than 0:24.09.1-66.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251097003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251097001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn24.09-host is earlier than 0:24.09.1-66.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251097005",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251097001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn24.09-vtep is earlier than 0:24.09.1-66.el9fdp",
+      "ID": "oval:com.redhat.rhsa:tst:20251097007",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20250650007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20251097001"
       }
     },
     {

@@ -726,6 +726,21 @@
       "Name": "python-grpcio"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202411831002",
+      "Version": "636",
+      "Name": "nodejs-uglifyjs-webpack-plugin"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202411831003",
+      "Version": "636",
+      "Name": "nodejs-compression-webpack-plugin"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202411831004",
+      "Version": "636",
+      "Name": "nodejs-webpack"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202412801001",
       "Version": "636",
       "Name": "ch.qos.logback/logback-core"
@@ -861,11 +876,6 @@
       "Name": "python3-idna-ssl"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20244067001",
-      "Version": "636",
-      "Name": "nodejs-webpack"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20244067002",
       "Version": "636",
       "Name": "rubygem-rabl"
@@ -923,27 +933,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:20249355001",
       "Version": "636",
-      "Name": "python-qpid-proton-docs"
+      "Name": "qpid-proton-cpp-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20249355002",
       "Version": "636",
-      "Name": "qpid-proton-c"
+      "Name": "rubygem-qpid_proton"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20249355003",
       "Version": "636",
-      "Name": "qpid-proton-cpp-docs"
+      "Name": "qpid-proton-c-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20249355004",
       "Version": "636",
-      "Name": "qpid-proton-cpp-devel"
+      "Name": "qpid-proton-cpp-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20249355005",
       "Version": "636",
-      "Name": "python-qpid-proton"
+      "Name": "python-qpid-proton-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20249355006",
@@ -953,27 +963,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:20249355007",
       "Version": "636",
-      "Name": "qpid-proton-cpp"
+      "Name": "qpid-proton-tests"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20249355008",
       "Version": "636",
-      "Name": "qpid-proton-c-docs"
+      "Name": "qpid-proton-cpp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20249355009",
       "Version": "636",
-      "Name": "rubygem-qpid_proton"
+      "Name": "qpid-proton-c-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20249355010",
       "Version": "636",
-      "Name": "qpid-proton-c-devel"
+      "Name": "qpid-proton-c"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20249355011",
       "Version": "636",
-      "Name": "qpid-proton-tests"
+      "Name": "python-qpid-proton"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20214702004",

@@ -10631,6 +10631,11 @@
       "Name": "libtheora-devel"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202524031001",
+      "Version": "636",
+      "Name": "pam_pkcs11"
+    },
+    {
       "ID": "oval:com.redhat.rhba:obj:20141376001",
       "Version": "637",
       "Name": "xcb-util"
@@ -11767,32 +11772,32 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20130515001",
-      "Version": "642",
+      "Version": "643",
       "Name": "openchange"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20130515002",
-      "Version": "642",
+      "Version": "643",
       "Name": "openchange-client"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20130515003",
-      "Version": "642",
+      "Version": "643",
       "Name": "openchange-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20130515004",
-      "Version": "642",
+      "Version": "643",
       "Name": "openchange-devel-docs"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20130515005",
-      "Version": "642",
+      "Version": "643",
       "Name": "evolution-mapi"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20130515006",
-      "Version": "642",
+      "Version": "643",
       "Name": "evolution-mapi-devel"
     },
     {
@@ -13258,12 +13263,12 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:201911460001",
       "Version": "635",
-      "Name": "gnome-desktop-devel"
+      "Name": "gnome-desktop"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:201911460002",
       "Version": "635",
-      "Name": "gnome-desktop"
+      "Name": "gnome-desktop-devel"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:201919847001",

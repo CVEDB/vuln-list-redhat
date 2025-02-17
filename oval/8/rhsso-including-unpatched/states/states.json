@@ -273,7 +273,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20231044001",
-      "Version": "640",
+      "Version": "641",
       "Arch": {},
       "Evr": {
         "Text": "0:18.0.6-1.redhat_00001.1.el8sso",
@@ -284,7 +284,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20232706001",
-      "Version": "636",
+      "Version": "637",
       "Arch": {},
       "Evr": {
         "Text": "0:18.0.7-1.redhat_00001.1.el8sso",
@@ -317,7 +317,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20237483001",
-      "Version": "638",
+      "Version": "639",
       "Arch": {},
       "Evr": {
         "Text": "0:18.0.11-2.redhat_00001.1.el8sso",
@@ -350,7 +350,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20240799001",
-      "Version": "636",
+      "Version": "637",
       "Arch": {},
       "Evr": {
         "Text": "0:18.0.12-1.redhat_00001.1.el8sso",
@@ -361,7 +361,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20241861001",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:18.0.13-1.redhat_00001.1.el8sso",

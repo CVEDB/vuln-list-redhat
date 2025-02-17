@@ -163,7 +163,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:201713745001",
       "Version": "636",
-      "Name": "jasper-debugsource"
+      "Name": "jasper"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201713745002",
@@ -172,11 +172,6 @@
     },
     {
       "ID": "oval:com.redhat.cve:obj:201713745003",
-      "Version": "636",
-      "Name": "jasper"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:201713745004",
       "Version": "636",
       "Name": "jasper-libs"
     },
@@ -223,22 +218,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:201717095001",
       "Version": "636",
-      "Name": "libtiff"
+      "Name": "libtiff-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201717095002",
       "Version": "636",
-      "Name": "libtiff-debugsource"
+      "Name": "libtiff-tools"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201717095003",
       "Version": "636",
-      "Name": "libtiff-tools"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:201717095004",
-      "Version": "636",
-      "Name": "libtiff-devel"
+      "Name": "libtiff"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201717521001",
@@ -291,59 +281,64 @@
       "Name": "python2-pyyaml"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20175503001",
+      "Version": "636",
+      "Name": "jasper-debugsource"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:20176519001",
-      "Version": "636",
-      "Name": "avahi-libs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20176519002",
-      "Version": "636",
-      "Name": "avahi-gobject-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20176519003",
-      "Version": "636",
-      "Name": "avahi-ui"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20176519004",
-      "Version": "636",
-      "Name": "avahi-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20176519005",
-      "Version": "636",
-      "Name": "avahi-compat-howl"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20176519006",
-      "Version": "636",
-      "Name": "avahi-ui-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20176519007",
-      "Version": "636",
-      "Name": "avahi-glib-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20176519008",
-      "Version": "636",
-      "Name": "avahi-gobject"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20176519009",
       "Version": "636",
       "Name": "avahi-compat-howl-devel"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20176519002",
+      "Version": "636",
+      "Name": "avahi-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20176519003",
+      "Version": "636",
+      "Name": "avahi-libs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20176519004",
+      "Version": "636",
+      "Name": "python3-avahi"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20176519005",
+      "Version": "636",
+      "Name": "avahi-ui"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20176519006",
+      "Version": "636",
+      "Name": "avahi-glib"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20176519007",
+      "Version": "636",
+      "Name": "avahi"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20176519008",
+      "Version": "636",
+      "Name": "avahi-ui-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20176519009",
+      "Version": "636",
+      "Name": "avahi-gobject"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:20176519010",
       "Version": "636",
-      "Name": "avahi-autoipd"
+      "Name": "avahi-gobject-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20176519011",
       "Version": "636",
-      "Name": "avahi"
+      "Name": "avahi-autoipd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20176519012",
@@ -353,22 +348,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:20176519013",
       "Version": "636",
-      "Name": "avahi-ui-gtk3"
+      "Name": "avahi-tools"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20176519014",
       "Version": "636",
-      "Name": "python3-avahi"
+      "Name": "avahi-ui-gtk3"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20176519015",
       "Version": "636",
-      "Name": "avahi-compat-libdns_sd-devel"
+      "Name": "avahi-glib-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20176519016",
       "Version": "636",
-      "Name": "avahi-glib"
+      "Name": "avahi-compat-howl"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20176519017",
+      "Version": "636",
+      "Name": "avahi-compat-libdns_sd-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20177189001",
@@ -713,12 +713,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20181000654001",
       "Version": "636",
-      "Name": "libtasn1-tools"
+      "Name": "libtasn1"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000654002",
       "Version": "636",
-      "Name": "mingw32-libtasn1"
+      "Name": "libtasn1-tools"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000654003",
@@ -728,17 +728,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20181000654004",
       "Version": "636",
-      "Name": "mingw64-libtasn1"
+      "Name": "libtasn1-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000654005",
       "Version": "636",
-      "Name": "libtasn1"
+      "Name": "mingw32-libtasn1"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000654006",
       "Version": "636",
-      "Name": "libtasn1-devel"
+      "Name": "mingw64-libtasn1"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000667001",
@@ -778,7 +778,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:20181000879001",
       "Version": "636",
-      "Name": "libarchive-devel"
+      "Name": "libarchive"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181000879002",
@@ -788,12 +788,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:20181000879003",
       "Version": "636",
-      "Name": "libarchive"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20181000879004",
-      "Version": "636",
-      "Name": "libarchive-debugsource"
+      "Name": "libarchive-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201810111001",
@@ -853,12 +848,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20181121001",
       "Version": "636",
-      "Name": "procps-ng-i18n"
+      "Name": "procps-ng"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20181121002",
       "Version": "636",
-      "Name": "procps-ng"
+      "Name": "procps-ng-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20181121003",
+      "Version": "636",
+      "Name": "procps-ng-i18n"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201811410001",
@@ -986,7 +986,7 @@
       "Name": "mingw64-nss"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:201812697004",
+      "ID": "oval:com.redhat.cve:obj:201812700004",
       "Version": "636",
       "Name": "binutils-debugsource"
     },
@@ -1511,59 +1511,54 @@
       "Name": "mingw32-gettext-static"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:201819139001",
+      "ID": "oval:com.redhat.cve:obj:201819139002",
       "Version": "636",
       "Name": "mingw32-jasper"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:201819139004",
+      "ID": "oval:com.redhat.cve:obj:201819139005",
       "Version": "636",
       "Name": "mingw-jasper"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:201819139005",
+      "ID": "oval:com.redhat.cve:obj:201819139006",
       "Version": "636",
       "Name": "mingw64-jasper"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201819211001",
       "Version": "636",
-      "Name": "ncurses-term"
+      "Name": "ncurses-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201819211002",
       "Version": "636",
-      "Name": "ncurses-libs"
+      "Name": "ncurses"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201819211003",
       "Version": "636",
-      "Name": "ncurses-debugsource"
+      "Name": "ncurses-compat-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201819211004",
       "Version": "636",
-      "Name": "ncurses-c++-libs"
+      "Name": "ncurses-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201819211005",
       "Version": "636",
-      "Name": "ncurses"
+      "Name": "ncurses-c++-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201819211006",
       "Version": "636",
-      "Name": "ncurses-devel"
+      "Name": "ncurses-base"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201819211007",
       "Version": "636",
-      "Name": "ncurses-compat-libs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:201819211008",
-      "Version": "636",
-      "Name": "ncurses-base"
+      "Name": "ncurses-term"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201819416001",
@@ -1723,147 +1718,142 @@
     {
       "ID": "oval:com.redhat.cve:obj:201820225002",
       "Version": "636",
-      "Name": "python-pip"
+      "Name": "platform-python-pip"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820225003",
       "Version": "636",
-      "Name": "python3-pip"
+      "Name": "python-pip"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820225004",
       "Version": "636",
-      "Name": "platform-python-pip"
+      "Name": "python3-pip"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820657001",
       "Version": "636",
-      "Name": "libitm-devel"
+      "Name": "libgomp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820657002",
       "Version": "636",
-      "Name": "gcc-offload-nvptx"
+      "Name": "libstdc++-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820657003",
       "Version": "636",
-      "Name": "libatomic"
+      "Name": "cpp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820657004",
       "Version": "636",
-      "Name": "gcc-gdb-plugin"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:201820657005",
-      "Version": "636",
-      "Name": "gcc"
+      "Name": "libquadmath-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820657006",
       "Version": "636",
-      "Name": "libquadmath"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:201820657007",
-      "Version": "636",
-      "Name": "libquadmath-devel"
+      "Name": "libtsan"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820657008",
       "Version": "636",
-      "Name": "gcc-c++"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:201820657009",
-      "Version": "636",
-      "Name": "libstdc++-devel"
+      "Name": "libubsan"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820657010",
       "Version": "636",
-      "Name": "libgomp-offload-nvptx"
+      "Name": "libitm-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820657011",
       "Version": "636",
-      "Name": "liblsan"
+      "Name": "libstdc++"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201820657012",
+      "Version": "636",
+      "Name": "libatomic"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820657013",
       "Version": "636",
-      "Name": "cpp"
+      "Name": "libgfortran"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820657014",
       "Version": "636",
-      "Name": "libatomic-static"
+      "Name": "gcc-gdb-plugin"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:201820657016",
-      "Version": "636",
-      "Name": "libubsan"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:201820657018",
-      "Version": "636",
-      "Name": "libstdc++"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:201820657019",
-      "Version": "636",
-      "Name": "gcc-gfortran"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:201820657021",
+      "ID": "oval:com.redhat.cve:obj:201820657015",
       "Version": "636",
       "Name": "gcc-plugin-devel"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:201820657022",
-      "Version": "636",
-      "Name": "libstdc++-docs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:201820657023",
-      "Version": "636",
-      "Name": "libtsan"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:201820657025",
-      "Version": "636",
-      "Name": "libgomp"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:201820657026",
+      "ID": "oval:com.redhat.cve:obj:201820657016",
       "Version": "636",
       "Name": "libstdc++-static"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:201820657027",
+      "ID": "oval:com.redhat.cve:obj:201820657017",
       "Version": "636",
-      "Name": "libgcc"
+      "Name": "gcc-c++"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:201820657030",
+      "ID": "oval:com.redhat.cve:obj:201820657018",
       "Version": "636",
-      "Name": "libasan"
+      "Name": "libatomic-static"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:201820657031",
-      "Version": "636",
-      "Name": "libgfortran"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:201820657032",
+      "ID": "oval:com.redhat.cve:obj:201820657020",
       "Version": "636",
       "Name": "libitm"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:201820657034",
+      "ID": "oval:com.redhat.cve:obj:201820657021",
       "Version": "636",
-      "Name": "gcc-debugsource"
+      "Name": "libgomp-offload-nvptx"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201820657022",
+      "Version": "636",
+      "Name": "libgcc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201820657023",
+      "Version": "636",
+      "Name": "gcc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201820657024",
+      "Version": "636",
+      "Name": "gcc-gfortran"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201820657025",
+      "Version": "636",
+      "Name": "libstdc++-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201820657027",
+      "Version": "636",
+      "Name": "gcc-offload-nvptx"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201820657029",
+      "Version": "636",
+      "Name": "libasan"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201820657030",
+      "Version": "636",
+      "Name": "liblsan"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201820657031",
+      "Version": "636",
+      "Name": "libquadmath"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201820786001",
@@ -2103,17 +2093,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20185711001",
       "Version": "636",
-      "Name": "gd"
+      "Name": "gd-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20185711002",
       "Version": "636",
-      "Name": "gd-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20185711003",
-      "Version": "636",
-      "Name": "gd-debugsource"
+      "Name": "gd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20188975001",
@@ -2518,11 +2503,6 @@
     {
       "ID": "oval:com.redhat.cve:obj:201911460002",
       "Version": "636",
-      "Name": "gnome-desktop3-debugsource"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:201911460003",
-      "Version": "636",
       "Name": "gnome-desktop3"
     },
     {
@@ -2646,7 +2626,7 @@
       "Name": "libgcrypt"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:201912972001",
+      "ID": "oval:com.redhat.cve:obj:201912972003",
       "Version": "636",
       "Name": "gcc-toolset-9-binutils-devel"
     },
@@ -2704,6 +2684,21 @@
       "ID": "oval:com.redhat.cve:obj:201914249004",
       "Version": "636",
       "Name": "libdwarf-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201914250017",
+      "Version": "636",
+      "Name": "gcc-plugin-annobin"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201914250018",
+      "Version": "636",
+      "Name": "libgfortran-static"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201914250024",
+      "Version": "636",
+      "Name": "libquadmath-static"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201914274001",
@@ -3363,12 +3358,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:201917543001",
       "Version": "636",
-      "Name": "lz4-devel"
+      "Name": "lz4-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201917543002",
       "Version": "636",
-      "Name": "lz4-libs"
+      "Name": "lz4-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201917543003",
@@ -3473,12 +3468,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:201919246001",
       "Version": "636",
-      "Name": "oniguruma"
+      "Name": "oniguruma-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201919246002",
       "Version": "636",
-      "Name": "oniguruma-devel"
+      "Name": "oniguruma"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201919246010",
+      "Version": "636",
+      "Name": "rubygem-racc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201919921001",
@@ -3531,34 +3531,29 @@
       "Name": "patch"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20192201001",
+      "ID": "oval:com.redhat.cve:obj:20192201003",
       "Version": "636",
       "Name": "turbojpeg"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20192201002",
-      "Version": "636",
-      "Name": "turbojpeg-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20192201003",
-      "Version": "636",
-      "Name": "libjpeg-turbo-utils"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20192201004",
+      "Version": "636",
+      "Name": "libjpeg-turbo-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20192201005",
       "Version": "636",
       "Name": "libjpeg-turbo"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20192201006",
+      "ID": "oval:com.redhat.cve:obj:20192201008",
       "Version": "636",
-      "Name": "libjpeg-turbo-debugsource"
+      "Name": "turbojpeg-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20192201009",
       "Version": "636",
-      "Name": "libjpeg-turbo-devel"
+      "Name": "libjpeg-turbo-utils"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201925067001",
@@ -3783,27 +3778,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:20197317002",
       "Version": "636",
-      "Name": "mingw32-libpng-static"
+      "Name": "libpng"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20197317003",
       "Version": "636",
-      "Name": "libpng"
+      "Name": "libpng-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20197317004",
       "Version": "636",
-      "Name": "mingw64-libpng"
+      "Name": "mingw32-libpng-static"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20197317005",
       "Version": "636",
-      "Name": "mingw64-libpng-static"
+      "Name": "mingw64-libpng"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20197317006",
       "Version": "636",
-      "Name": "libpng-devel"
+      "Name": "mingw64-libpng-static"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20198905001",
@@ -3813,22 +3808,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20198905002",
       "Version": "636",
-      "Name": "file-debugsource"
+      "Name": "file-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20198905003",
       "Version": "636",
-      "Name": "file-devel"
+      "Name": "python3-magic"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20198905004",
       "Version": "636",
       "Name": "file-libs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20198905005",
-      "Version": "636",
-      "Name": "python3-magic"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20199674001",
@@ -4028,17 +4018,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20199704002",
       "Version": "636",
-      "Name": "cronie-anacron"
+      "Name": "cronie-noanacron"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20199704003",
       "Version": "636",
-      "Name": "cronie-noanacron"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20199923002",
-      "Version": "636",
-      "Name": "tar-debugsource"
+      "Name": "cronie-anacron"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20199928001",
@@ -4544,6 +4529,226 @@
       "ID": "oval:com.redhat.cve:obj:202010735058",
       "Version": "636",
       "Name": "python39-PyMySQL"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023001",
+      "Version": "636",
+      "Name": "python2-docs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023002",
+      "Version": "636",
+      "Name": "python-sphinx-locale"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023003",
+      "Version": "636",
+      "Name": "gcc-toolset-14-libatomic-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023004",
+      "Version": "636",
+      "Name": "cmake"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023006",
+      "Version": "636",
+      "Name": "cmake-rpm-macros"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023009",
+      "Version": "636",
+      "Name": "llvm-test"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023010",
+      "Version": "636",
+      "Name": "python3-jinja2"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023011",
+      "Version": "636",
+      "Name": "gcc-toolset-14-libstdc++-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023012",
+      "Version": "636",
+      "Name": "cmake-data"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023014",
+      "Version": "636",
+      "Name": "cmake-doc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023015",
+      "Version": "636",
+      "Name": "llvm-doc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023016",
+      "Version": "636",
+      "Name": "gcc-toolset-14-libasan-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023017",
+      "Version": "636",
+      "Name": "libasan8"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023018",
+      "Version": "636",
+      "Name": "python2-docs-info"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023019",
+      "Version": "636",
+      "Name": "doxygen"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023021",
+      "Version": "636",
+      "Name": "gcc-toolset-14-libquadmath-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023022",
+      "Version": "636",
+      "Name": "python-sphinx-latex"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023025",
+      "Version": "636",
+      "Name": "cmake-gui"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023026",
+      "Version": "636",
+      "Name": "gcc-toolset-14-gcc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023027",
+      "Version": "636",
+      "Name": "gcc-toolset-14-gcc-plugin-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023028",
+      "Version": "636",
+      "Name": "doxygen-latex"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023029",
+      "Version": "636",
+      "Name": "llvm-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023030",
+      "Version": "636",
+      "Name": "llvm-googletest"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023031",
+      "Version": "636",
+      "Name": "python2-sqlalchemy"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023032",
+      "Version": "636",
+      "Name": "python2-pygments"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023034",
+      "Version": "636",
+      "Name": "gcc-toolset-14-libgccjit-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023035",
+      "Version": "636",
+      "Name": "gcc-toolset-14-libstdc++-docs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023037",
+      "Version": "636",
+      "Name": "llvm-libs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023038",
+      "Version": "636",
+      "Name": "gcc-toolset-14-gcc-gfortran"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023039",
+      "Version": "636",
+      "Name": "gcc-toolset-14-libubsan-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023041",
+      "Version": "636",
+      "Name": "llvm"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023042",
+      "Version": "636",
+      "Name": "gcc-toolset-14-offload-nvptx"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023044",
+      "Version": "636",
+      "Name": "libtsan2"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023045",
+      "Version": "636",
+      "Name": "gcc-toolset-14-gcc-c++"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023046",
+      "Version": "636",
+      "Name": "gcc-toolset-14-libgccjit"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023048",
+      "Version": "636",
+      "Name": "gcc-toolset-14-liblsan-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023050",
+      "Version": "636",
+      "Name": "gcc-toolset-14-gcc-plugin-annobin"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023051",
+      "Version": "636",
+      "Name": "cmake-filesystem"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023052",
+      "Version": "636",
+      "Name": "gcc-toolset-14-libtsan-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023053",
+      "Version": "636",
+      "Name": "gcc-toolset-14-libitm-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023054",
+      "Version": "636",
+      "Name": "doxygen-doxywizard"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023055",
+      "Version": "636",
+      "Name": "python-jinja2"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023056",
+      "Version": "636",
+      "Name": "python3-sphinx"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202011023057",
+      "Version": "636",
+      "Name": "llvm-static"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202011078001",
@@ -5191,6 +5396,11 @@
       "Name": "postgresql-server-devel"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202021674004",
+      "Version": "636",
+      "Name": "libarchive-debugsource"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202023064001",
       "Version": "636",
       "Name": "pcs"
@@ -5268,7 +5478,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202025219001",
       "Version": "636",
-      "Name": "libproxy-webkitgtk4"
+      "Name": "libproxy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202025219002",
@@ -5278,22 +5488,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:202025219003",
       "Version": "636",
-      "Name": "libproxy-gnome"
+      "Name": "libproxy-webkitgtk4"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202025219004",
       "Version": "636",
-      "Name": "libproxy-networkmanager"
+      "Name": "libproxy-bin"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202025219005",
       "Version": "636",
-      "Name": "libproxy-bin"
+      "Name": "libproxy-gnome"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202025219006",
       "Version": "636",
-      "Name": "libproxy"
+      "Name": "libproxy-networkmanager"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202025219007",
@@ -6023,7 +6233,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202124032001",
       "Version": "636",
-      "Name": "zstd"
+      "Name": "libzstd-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202124032002",
@@ -6033,7 +6243,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202124032003",
       "Version": "636",
-      "Name": "libzstd-devel"
+      "Name": "zstd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202125317001",
@@ -7341,11 +7551,6 @@
       "Name": "python38-wheel"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202128861036",
-      "Version": "636",
-      "Name": "python-jinja2"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202128861038",
       "Version": "636",
       "Name": "python38-psycopg2"
@@ -7523,27 +7728,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:202133294004",
       "Version": "636",
-      "Name": "elfutils-libelf"
+      "Name": "elfutils-default-yama-scope"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133294005",
       "Version": "636",
-      "Name": "elfutils-default-yama-scope"
+      "Name": "elfutils-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133294006",
       "Version": "636",
-      "Name": "elfutils"
+      "Name": "elfutils-devel-static"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133294007",
       "Version": "636",
-      "Name": "elfutils-devel-static"
+      "Name": "elfutils"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133294008",
       "Version": "636",
-      "Name": "elfutils-libs"
+      "Name": "elfutils-libelf"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133430001",
@@ -7818,7 +8023,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202138593002",
       "Version": "636",
-      "Name": "qt5-rpm-macros"
+      "Name": "qt5-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138593003",
@@ -7828,7 +8033,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202138593004",
       "Version": "636",
-      "Name": "qt5-devel"
+      "Name": "qt5-rpm-macros"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213917001",
@@ -7844,11 +8049,6 @@
       "ID": "oval:com.redhat.cve:obj:20213917003",
       "Version": "636",
       "Name": "coreos-installer-bootinfra"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213927001",
-      "Version": "636",
-      "Name": "vim-debugsource"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20214048001",
@@ -7903,27 +8103,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:20214209001",
       "Version": "636",
-      "Name": "gnutls-utils"
+      "Name": "gnutls-dane"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20214209002",
       "Version": "636",
-      "Name": "gnutls-dane"
+      "Name": "gnutls-c++"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20214209003",
       "Version": "636",
-      "Name": "gnutls"
+      "Name": "gnutls-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20214209004",
       "Version": "636",
-      "Name": "gnutls-devel"
+      "Name": "gnutls"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20214209005",
       "Version": "636",
-      "Name": "gnutls-c++"
+      "Name": "gnutls-utils"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20214217001",
@@ -8118,7 +8318,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202145940001",
       "Version": "636",
-      "Name": "libbpf"
+      "Name": "libbpf-static"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202145940002",
@@ -8128,7 +8328,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202145940003",
       "Version": "636",
-      "Name": "libbpf-static"
+      "Name": "libbpf"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202145960001",
@@ -8359,6 +8559,11 @@
       "ID": "oval:com.redhat.cve:obj:20220235037",
       "Version": "636",
       "Name": "rhsm-icons"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20221619007",
+      "Version": "636",
+      "Name": "vim-debugsource"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20221705005",
@@ -8761,11 +8966,6 @@
       "Name": "conmon"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20223064001",
-      "Version": "636",
-      "Name": "rhc"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202231123007",
       "Version": "636",
       "Name": "grafana-selinux"
@@ -8883,7 +9083,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202233070001",
       "Version": "636",
-      "Name": "protobuf-c-devel"
+      "Name": "protobuf-c"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202233070002",
@@ -8893,7 +9093,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202233070003",
       "Version": "636",
-      "Name": "protobuf-c"
+      "Name": "protobuf-c-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202234301001",
@@ -8949,6 +9149,11 @@
       "ID": "oval:com.redhat.cve:obj:202237290003",
       "Version": "636",
       "Name": "nautilus-extensions"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202237660001",
+      "Version": "636",
+      "Name": "hostapd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202237703001",
@@ -9366,11 +9571,6 @@
       "Name": "python3.11-pip-wheel"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202240896009",
-      "Version": "636",
-      "Name": "python2-pygments"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202240898001",
       "Version": "636",
       "Name": "rhc-worker-playbook"
@@ -9526,24 +9726,24 @@
       "Name": "apache-ivy-javadoc"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202247007005",
+      "ID": "oval:com.redhat.cve:obj:202247007003",
       "Version": "636",
       "Name": "gdb-doc"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202247007007",
-      "Version": "636",
-      "Name": "gdb"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202247007013",
+      "ID": "oval:com.redhat.cve:obj:202247007005",
       "Version": "636",
       "Name": "gdb-gdbserver"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202247007014",
+      "ID": "oval:com.redhat.cve:obj:202247007008",
       "Version": "636",
       "Name": "gdb-headless"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202247007011",
+      "Version": "636",
+      "Name": "gdb"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202247016001",
@@ -9691,34 +9891,19 @@
       "Name": "glusterfs-cli"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202249043001",
-      "Version": "636",
-      "Name": "libxml2-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202249043002",
-      "Version": "636",
-      "Name": "libxml2"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202249043003",
-      "Version": "636",
-      "Name": "python3-libxml2"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20230464001",
       "Version": "636",
-      "Name": "openssl-perl"
+      "Name": "openssl-static"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230464002",
       "Version": "636",
-      "Name": "shim-ia32"
+      "Name": "shim"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230464003",
       "Version": "636",
-      "Name": "openssl-devel"
+      "Name": "openssl-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230464004",
@@ -9728,27 +9913,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:20230464006",
       "Version": "636",
-      "Name": "shim-x64"
+      "Name": "shim-ia32"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230464007",
       "Version": "636",
-      "Name": "openssl-static"
+      "Name": "openssl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230464008",
       "Version": "636",
-      "Name": "openssl-libs"
+      "Name": "shim-x64"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230464009",
       "Version": "636",
-      "Name": "shim"
+      "Name": "openssl-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230464010",
       "Version": "636",
-      "Name": "openssl"
+      "Name": "openssl-perl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230664001",
@@ -9824,11 +10009,6 @@
       "ID": "oval:com.redhat.cve:obj:202328736001",
       "Version": "636",
       "Name": "mdadm"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202328755028",
-      "Version": "636",
-      "Name": "rubygem-racc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202329483001",
@@ -9951,6 +10131,21 @@
       "Name": "go-toolset"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202345322001",
+      "Version": "636",
+      "Name": "python3-libxml2"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202345322002",
+      "Version": "636",
+      "Name": "libxml2-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202345322003",
+      "Version": "636",
+      "Name": "libxml2"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202349990001",
       "Version": "636",
       "Name": "espeak-ng"
@@ -10034,11 +10229,6 @@
       "ID": "oval:com.redhat.cve:obj:20235215007",
       "Version": "636",
       "Name": "libnbd-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202352424016",
-      "Version": "636",
-      "Name": "hostapd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20236129001",
@@ -10581,84 +10771,84 @@
       "Name": "cpio"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20240397001",
-      "Version": "636",
-      "Name": "python3.11-debug"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20240397003",
-      "Version": "636",
-      "Name": "python3.12"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20240397004",
-      "Version": "636",
-      "Name": "python3.12-test"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20240397005",
-      "Version": "636",
-      "Name": "python3.12-tkinter"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20240397007",
-      "Version": "636",
-      "Name": "python3.12-debug"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20240397008",
-      "Version": "636",
-      "Name": "python3.11"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20240397010",
-      "Version": "636",
-      "Name": "python3.11-libs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20240397011",
-      "Version": "636",
-      "Name": "python3.11-tkinter"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20240397012",
-      "Version": "636",
-      "Name": "python3.12-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20240397013",
-      "Version": "636",
-      "Name": "python3.12-idle"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20240397018",
-      "Version": "636",
-      "Name": "python3.12-libs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20240397019",
-      "Version": "636",
-      "Name": "python3.12-rpm-macros"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20240397020",
       "Version": "636",
       "Name": "python3.11-devel"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20240397021",
+      "ID": "oval:com.redhat.cve:obj:20240397004",
       "Version": "636",
       "Name": "python3.11-test"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20240397005",
+      "Version": "636",
+      "Name": "python3.12-debug"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20240397006",
+      "Version": "636",
+      "Name": "python3.11-debug"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20240397007",
+      "Version": "636",
+      "Name": "python3.12-rpm-macros"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20240397009",
+      "Version": "636",
+      "Name": "python3.12-idle"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20240397010",
+      "Version": "636",
+      "Name": "python3.11"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20240397011",
+      "Version": "636",
+      "Name": "python3.11-idle"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20240397013",
+      "Version": "636",
+      "Name": "python3.12-tkinter"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20240397015",
+      "Version": "636",
+      "Name": "python3.12-libs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20240397016",
+      "Version": "636",
+      "Name": "python3.12"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20240397017",
+      "Version": "636",
+      "Name": "python3.11-tkinter"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20240397019",
+      "Version": "636",
+      "Name": "python3.12-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20240397020",
+      "Version": "636",
+      "Name": "python3.12-test"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20240397022",
+      "Version": "636",
+      "Name": "python3.11-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20240397023",
       "Version": "636",
       "Name": "python3.11-rpm-macros"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20240397024",
-      "Version": "636",
-      "Name": "python3.11-idle"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20240444001",
@@ -10688,82 +10878,82 @@
     {
       "ID": "oval:com.redhat.cve:obj:202411187001",
       "Version": "636",
-      "Name": "bind9.16"
+      "Name": "bind-libs-lite"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187002",
       "Version": "636",
-      "Name": "bind9.16-devel"
+      "Name": "bind9.16-chroot"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187003",
       "Version": "636",
-      "Name": "bind-libs-lite"
+      "Name": "bind-export-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187004",
       "Version": "636",
-      "Name": "bind-libs"
+      "Name": "bind"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187005",
       "Version": "636",
-      "Name": "bind9.16-libs"
+      "Name": "bind-utils"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187006",
       "Version": "636",
-      "Name": "python3-bind"
+      "Name": "bind9.16-doc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187007",
       "Version": "636",
-      "Name": "python3-bind9.16"
+      "Name": "bind-sdb"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187008",
       "Version": "636",
-      "Name": "bind-pkcs11"
+      "Name": "bind9.16-utils"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187009",
       "Version": "636",
-      "Name": "bind-license"
+      "Name": "python3-bind9.16"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187010",
       "Version": "636",
-      "Name": "bind-devel"
+      "Name": "bind-pkcs11-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187011",
       "Version": "636",
-      "Name": "bind-sdb"
+      "Name": "bind-sdb-chroot"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187012",
       "Version": "636",
-      "Name": "bind-sdb-chroot"
+      "Name": "bind9.16-dnssec-utils"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187013",
       "Version": "636",
-      "Name": "bind9.16-chroot"
+      "Name": "bind9.16"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187014",
       "Version": "636",
-      "Name": "bind-pkcs11-libs"
+      "Name": "bind-license"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187015",
       "Version": "636",
-      "Name": "bind9.16-utils"
+      "Name": "bind-lite-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187016",
       "Version": "636",
-      "Name": "bind"
+      "Name": "bind-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187017",
@@ -10773,27 +10963,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:202411187018",
       "Version": "636",
-      "Name": "bind9.16-doc"
+      "Name": "bind9.16-license"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187019",
       "Version": "636",
-      "Name": "bind9.16-dnssec-utils"
+      "Name": "bind9.16-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187020",
       "Version": "636",
-      "Name": "bind-export-libs"
+      "Name": "python3-bind"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187021",
       "Version": "636",
-      "Name": "bind-lite-devel"
+      "Name": "bind-pkcs11-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187022",
       "Version": "636",
-      "Name": "bind-pkcs11-devel"
+      "Name": "bind-export-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187023",
@@ -10803,17 +10993,82 @@
     {
       "ID": "oval:com.redhat.cve:obj:202411187024",
       "Version": "636",
-      "Name": "bind-utils"
+      "Name": "bind9.16-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187025",
       "Version": "636",
-      "Name": "bind9.16-license"
+      "Name": "bind-pkcs11"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202411187026",
       "Version": "636",
-      "Name": "bind-export-devel"
+      "Name": "bind-libs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202411831002",
+      "Version": "636",
+      "Name": "dotnet-runtime-8.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202411831003",
+      "Version": "636",
+      "Name": "dotnet-runtime-dbg-8.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202411831004",
+      "Version": "636",
+      "Name": "aspnetcore-targeting-pack-8.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202411831007",
+      "Version": "636",
+      "Name": "aspnetcore-runtime-dbg-8.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202411831013",
+      "Version": "636",
+      "Name": "aspnetcore-runtime-8.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202411831016",
+      "Version": "636",
+      "Name": "dotnet-sdk-dbg-8.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202411831019",
+      "Version": "636",
+      "Name": "dotnet-apphost-pack-8.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202411831020",
+      "Version": "636",
+      "Name": "dotnet-hostfxr-8.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202411831027",
+      "Version": "636",
+      "Name": "dotnet8.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202411831029",
+      "Version": "636",
+      "Name": "dotnet-sdk-8.0-source-built-artifacts"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202411831032",
+      "Version": "636",
+      "Name": "dotnet-targeting-pack-8.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202411831039",
+      "Version": "636",
+      "Name": "dotnet-templates-8.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202411831040",
+      "Version": "636",
+      "Name": "dotnet-sdk-8.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202412086001",
@@ -10831,7 +11086,7 @@
       "Name": "ch.qos.logback/logback-core"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202413176014",
+      "ID": "oval:com.redhat.cve:obj:202413176003",
       "Version": "636",
       "Name": "shim-unsigned-x64"
     },
@@ -11191,11 +11446,6 @@
       "Name": "fence-agents-openstack"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202434064050",
-      "Version": "636",
-      "Name": "python3-jinja2"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202435195009",
       "Version": "636",
       "Name": "python3-requests"
@@ -11336,6 +11586,11 @@
       "Name": "perl-File-pushd"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202445336030",
+      "Version": "636",
+      "Name": "rhc"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202447177001",
       "Version": "636",
       "Name": "cups-filters-devel"
@@ -11379,11 +11634,6 @@
       "ID": "oval:com.redhat.cve:obj:20245197002",
       "Version": "636",
       "Name": "libvpx"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202452615007",
-      "Version": "636",
-      "Name": "avahi-tools"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202452949001",
@@ -12811,6 +13061,21 @@
       "Name": "glibc-langpack-hy"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20251094001",
+      "Version": "636",
+      "Name": "libpq-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20251094002",
+      "Version": "636",
+      "Name": "libpq"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202524898001",
+      "Version": "636",
+      "Name": "python3.12-cryptography"
+    },
+    {
       "ID": "oval:com.redhat.rhba:obj:20191992001",
       "Version": "635",
       "Name": "cloud-init"
@@ -13352,37 +13617,37 @@
     },
     {
       "ID": "oval:com.redhat.rhba:obj:20220348005",
-      "Version": "634",
+      "Version": "635",
       "Name": "container-selinux"
     },
     {
       "ID": "oval:com.redhat.rhba:obj:20220348008",
-      "Version": "634",
+      "Version": "635",
       "Name": "crit"
     },
     {
       "ID": "oval:com.redhat.rhba:obj:20220348009",
-      "Version": "634",
+      "Version": "635",
       "Name": "criu"
     },
     {
       "ID": "oval:com.redhat.rhba:obj:20220348010",
-      "Version": "634",
+      "Version": "635",
       "Name": "crun"
     },
     {
       "ID": "oval:com.redhat.rhba:obj:20220348011",
-      "Version": "634",
+      "Version": "635",
       "Name": "fuse-overlayfs"
     },
     {
       "ID": "oval:com.redhat.rhba:obj:20220348021",
-      "Version": "634",
+      "Version": "635",
       "Name": "python3-criu"
     },
     {
       "ID": "oval:com.redhat.rhba:obj:20220348028",
-      "Version": "634",
+      "Version": "635",
       "Name": "udica"
     },
     {
@@ -13414,16 +13679,6 @@
       "ID": "oval:com.redhat.rhba:obj:20245736001",
       "Version": "636",
       "Name": "ca-certificates"
-    },
-    {
-      "ID": "oval:com.redhat.rhea:obj:20200343001",
-      "Version": "635",
-      "Name": "libpq"
-    },
-    {
-      "ID": "oval:com.redhat.rhea:obj:20200343002",
-      "Version": "635",
-      "Name": "libpq-devel"
     },
     {
       "ID": "oval:com.redhat.rhea:obj:20204505001",
@@ -13514,16 +13769,6 @@
       "ID": "oval:com.redhat.rhsa:obj:20190981017",
       "Version": "637",
       "Name": "python2-dns"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20190981018",
-      "Version": "637",
-      "Name": "python2-docs"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20190981019",
-      "Version": "637",
-      "Name": "python2-docs-info"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20190981020",
@@ -13639,11 +13884,6 @@
       "ID": "oval:com.redhat.rhsa:obj:20190981052",
       "Version": "637",
       "Name": "python2-six"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20190981053",
-      "Version": "637",
-      "Name": "python2-sqlalchemy"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20190981057",
@@ -13937,67 +14177,67 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193390010",
-      "Version": "637",
+      "Version": "638",
       "Name": "qt5-assistant"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193390011",
-      "Version": "637",
+      "Version": "638",
       "Name": "qt5-designer"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193390012",
-      "Version": "637",
+      "Version": "638",
       "Name": "qt5-doctools"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193390013",
-      "Version": "637",
+      "Version": "638",
       "Name": "qt5-linguist"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193390014",
-      "Version": "637",
+      "Version": "638",
       "Name": "qt5-qdbusviewer"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193390015",
-      "Version": "637",
+      "Version": "638",
       "Name": "qt5-qttools"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193390016",
-      "Version": "637",
+      "Version": "638",
       "Name": "qt5-qttools-common"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193390017",
-      "Version": "637",
+      "Version": "638",
       "Name": "qt5-qttools-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193390018",
-      "Version": "637",
+      "Version": "638",
       "Name": "qt5-qttools-examples"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193390019",
-      "Version": "637",
+      "Version": "638",
       "Name": "qt5-qttools-libs-designer"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193390020",
-      "Version": "637",
+      "Version": "638",
       "Name": "qt5-qttools-libs-designercomponents"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193390021",
-      "Version": "637",
+      "Version": "638",
       "Name": "qt5-qttools-libs-help"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193390022",
-      "Version": "637",
+      "Version": "638",
       "Name": "qt5-qttools-static"
     },
     {
@@ -14782,7 +15022,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193936002",
-      "Version": "638",
+      "Version": "639",
       "Name": "kpatch-patch-4_18_0-147"
     },
     {
@@ -15462,12 +15702,12 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20202125002",
-      "Version": "637",
+      "Version": "638",
       "Name": "kpatch-patch-4_18_0-193"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20202567006",
-      "Version": "636",
+      "ID": "oval:com.redhat.rhsa:obj:20202567005",
+      "Version": "637",
       "Name": "kpatch-patch-4_18_0-193_1_2"
     },
     {
@@ -15491,8 +15731,8 @@
       "Name": "mod_auth_openidc"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20203073007",
-      "Version": "636",
+      "ID": "oval:com.redhat.rhsa:obj:20203073006",
+      "Version": "637",
       "Name": "kpatch-patch-4_18_0-193_6_3"
     },
     {
@@ -15541,18 +15781,18 @@
       "Name": "spice-gtk3-vala"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20204331008",
-      "Version": "635",
+      "ID": "oval:com.redhat.rhsa:obj:20204331007",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-193_13_2"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20204331009",
-      "Version": "635",
+      "ID": "oval:com.redhat.rhsa:obj:20204331008",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-193_14_3"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20204331010",
-      "Version": "635",
+      "ID": "oval:com.redhat.rhsa:obj:20204331009",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-193_19_1"
     },
     {
@@ -15782,12 +16022,12 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20204952001",
-      "Version": "635",
+      "Version": "636",
       "Name": "freetype"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20204952002",
-      "Version": "635",
+      "Version": "636",
       "Name": "freetype-devel"
     },
     {
@@ -16177,7 +16417,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20212165002",
-      "Version": "635",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-305"
     },
     {
@@ -16211,8 +16451,8 @@
       "Name": "libwebp-devel"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20212563006",
-      "Version": "635",
+      "ID": "oval:com.redhat.rhsa:obj:20212563005",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-305_3_1"
     },
     {
@@ -16336,13 +16576,13 @@
       "Name": "linuxptp"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20212716007",
-      "Version": "636",
+      "ID": "oval:com.redhat.rhsa:obj:20212716006",
+      "Version": "637",
       "Name": "kpatch-patch-4_18_0-305_7_1"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20213044008",
-      "Version": "635",
+      "ID": "oval:com.redhat.rhsa:obj:20213044007",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-305_10_2"
     },
     {
@@ -16356,8 +16596,8 @@
       "Name": "libuv-devel"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20213436009",
-      "Version": "636",
+      "ID": "oval:com.redhat.rhsa:obj:20213436008",
+      "Version": "637",
       "Name": "kpatch-patch-4_18_0-305_12_1"
     },
     {
@@ -16371,23 +16611,23 @@
       "Name": "libsolv-tools"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20214122010",
-      "Version": "634",
+      "ID": "oval:com.redhat.rhsa:obj:20214122009",
+      "Version": "635",
       "Name": "kpatch-patch-4_18_0-305_17_1"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20214122011",
-      "Version": "634",
+      "ID": "oval:com.redhat.rhsa:obj:20214122010",
+      "Version": "635",
       "Name": "kpatch-patch-4_18_0-305_19_1"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20214154010",
-      "Version": "636",
+      "Version": "637",
       "Name": "criu-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20214154011",
-      "Version": "636",
+      "Version": "637",
       "Name": "criu-libs"
     },
     {
@@ -16507,32 +16747,32 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20214373001",
-      "Version": "637",
+      "Version": "638",
       "Name": "pcre"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20214373002",
-      "Version": "637",
+      "Version": "638",
       "Name": "pcre-cpp"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20214373003",
-      "Version": "637",
+      "Version": "638",
       "Name": "pcre-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20214373004",
-      "Version": "637",
+      "Version": "638",
       "Name": "pcre-static"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20214373005",
-      "Version": "637",
+      "Version": "638",
       "Name": "pcre-utf16"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20214373006",
-      "Version": "637",
+      "Version": "638",
       "Name": "pcre-utf32"
     },
     {
@@ -16617,7 +16857,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20214645002",
-      "Version": "634",
+      "Version": "635",
       "Name": "kpatch-patch-4_18_0-348"
     },
     {
@@ -16671,41 +16911,6 @@
       "Name": "lldb-devel"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20214743018",
-      "Version": "636",
-      "Name": "llvm"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20214743019",
-      "Version": "636",
-      "Name": "llvm-devel"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20214743020",
-      "Version": "636",
-      "Name": "llvm-doc"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20214743021",
-      "Version": "636",
-      "Name": "llvm-googletest"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20214743022",
-      "Version": "636",
-      "Name": "llvm-libs"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20214743023",
-      "Version": "636",
-      "Name": "llvm-static"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20214743024",
-      "Version": "636",
-      "Name": "llvm-test"
-    },
-    {
       "ID": "oval:com.redhat.rhsa:obj:20214743025",
       "Version": "636",
       "Name": "llvm-toolset"
@@ -16731,13 +16936,13 @@
       "Name": "gegl04-devel"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20220232006",
-      "Version": "635",
+      "ID": "oval:com.redhat.rhsa:obj:20220232005",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-348_2_1"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20220232007",
-      "Version": "635",
+      "ID": "oval:com.redhat.rhsa:obj:20220232006",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-348_7_1"
     },
     {
@@ -16821,13 +17026,13 @@
       "Name": "aide"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20220849008",
-      "Version": "636",
+      "ID": "oval:com.redhat.rhsa:obj:20220849007",
+      "Version": "637",
       "Name": "kpatch-patch-4_18_0-348_12_2"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20221535009",
-      "Version": "635",
+      "ID": "oval:com.redhat.rhsa:obj:20221535008",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-348_20_1"
     },
     {
@@ -16882,12 +17087,12 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20221762001",
-      "Version": "637",
+      "Version": "638",
       "Name": "aardvark-dns"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20221762017",
-      "Version": "637",
+      "Version": "638",
       "Name": "netavark"
     },
     {
@@ -16982,17 +17187,17 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20225219002",
-      "Version": "635",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-372_9_1"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20225839006",
-      "Version": "635",
+      "ID": "oval:com.redhat.rhsa:obj:20225839005",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-372_13_1"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20225839007",
-      "Version": "635",
+      "ID": "oval:com.redhat.rhsa:obj:20225839006",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-372_16_1"
     },
     {
@@ -17046,13 +17251,13 @@
       "Name": "libksba-devel"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20227137008",
-      "Version": "636",
+      "ID": "oval:com.redhat.rhsa:obj:20227137007",
+      "Version": "637",
       "Name": "kpatch-patch-4_18_0-372_19_1"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20227137009",
-      "Version": "636",
+      "ID": "oval:com.redhat.rhsa:obj:20227137008",
+      "Version": "637",
       "Name": "kpatch-patch-4_18_0-372_26_1"
     },
     {
@@ -17067,32 +17272,32 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20227464001",
-      "Version": "637",
+      "Version": "638",
       "Name": "protobuf"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20227464002",
-      "Version": "637",
+      "Version": "638",
       "Name": "protobuf-compiler"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20227464003",
-      "Version": "637",
+      "Version": "638",
       "Name": "protobuf-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20227464004",
-      "Version": "637",
+      "Version": "638",
       "Name": "protobuf-lite"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20227464005",
-      "Version": "637",
+      "Version": "638",
       "Name": "protobuf-lite-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20227464006",
-      "Version": "637",
+      "Version": "638",
       "Name": "python3-protobuf"
     },
     {
@@ -17267,7 +17472,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20230123002",
-      "Version": "637",
+      "Version": "638",
       "Name": "kpatch-patch-4_18_0-425_3_1"
     },
     {
@@ -17296,8 +17501,8 @@
       "Name": "python3-setuptools-wheel"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20230839006",
-      "Version": "635",
+      "ID": "oval:com.redhat.rhsa:obj:20230839005",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-425_10_1"
     },
     {
@@ -17306,8 +17511,8 @@
       "Name": "pesign"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20231659007",
-      "Version": "638",
+      "ID": "oval:com.redhat.rhsa:obj:20231659006",
+      "Version": "639",
       "Name": "kpatch-patch-4_18_0-425_13_1"
     },
     {
@@ -17472,7 +17677,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20233351002",
-      "Version": "636",
+      "Version": "637",
       "Name": "kpatch-patch-4_18_0-477_10_1"
     },
     {
@@ -19086,13 +19291,13 @@
       "Name": "libcap-devel"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20234531006",
-      "Version": "635",
+      "ID": "oval:com.redhat.rhsa:obj:20234531005",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-477_13_1"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20234531007",
-      "Version": "635",
+      "ID": "oval:com.redhat.rhsa:obj:20234531006",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-477_15_1"
     },
     {
@@ -19106,8 +19311,8 @@
       "Name": "rust-analyzer"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20235221008",
-      "Version": "636",
+      "ID": "oval:com.redhat.rhsa:obj:20235221007",
+      "Version": "637",
       "Name": "kpatch-patch-4_18_0-477_21_1"
     },
     {
@@ -19117,42 +19322,42 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20235928001",
-      "Version": "636",
+      "Version": "637",
       "Name": "tomcat"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20235928002",
-      "Version": "636",
+      "Version": "637",
       "Name": "tomcat-admin-webapps"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20235928003",
-      "Version": "636",
+      "Version": "637",
       "Name": "tomcat-docs-webapp"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20235928004",
-      "Version": "636",
+      "Version": "637",
       "Name": "tomcat-el-3.0-api"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20235928005",
-      "Version": "636",
+      "Version": "637",
       "Name": "tomcat-jsp-2.3-api"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20235928006",
-      "Version": "636",
+      "Version": "637",
       "Name": "tomcat-lib"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20235928007",
-      "Version": "636",
+      "Version": "637",
       "Name": "tomcat-servlet-4.0-api"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20235928008",
-      "Version": "636",
+      "Version": "637",
       "Name": "tomcat-webapps"
     },
     {
@@ -19196,63 +19401,13 @@
       "Name": "tpm2-tss-devel"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20237187002",
-      "Version": "635",
-      "Name": "procps-ng-devel"
-    },
-    {
       "ID": "oval:com.redhat.rhsa:obj:20237189002",
       "Version": "636",
       "Name": "fwupd-devel"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20237254001",
-      "Version": "636",
-      "Name": "aspnetcore-runtime-8.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20237254002",
-      "Version": "636",
-      "Name": "aspnetcore-targeting-pack-8.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20237254004",
-      "Version": "636",
-      "Name": "dotnet-apphost-pack-8.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20237254006",
-      "Version": "636",
-      "Name": "dotnet-hostfxr-8.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20237254007",
-      "Version": "636",
-      "Name": "dotnet-runtime-8.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20237254008",
-      "Version": "636",
-      "Name": "dotnet-sdk-8.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20237254009",
-      "Version": "636",
-      "Name": "dotnet-sdk-8.0-source-built-artifacts"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20237254010",
-      "Version": "636",
-      "Name": "dotnet-targeting-pack-8.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20237254011",
-      "Version": "636",
-      "Name": "dotnet-templates-8.0"
-    },
-    {
       "ID": "oval:com.redhat.rhsa:obj:20237554002",
-      "Version": "638",
+      "Version": "639",
       "Name": "kpatch-patch-4_18_0-513_5_1"
     },
     {
@@ -19261,8 +19416,8 @@
       "Name": "tracker-miners"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20240089006",
-      "Version": "635",
+      "ID": "oval:com.redhat.rhsa:obj:20240089005",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-513_9_1"
     },
     {
@@ -19284,21 +19439,6 @@
       "ID": "oval:com.redhat.rhsa:obj:20240768002",
       "Version": "635",
       "Name": "libmaxminddb-devel"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20240827002",
-      "Version": "641",
-      "Name": "aspnetcore-runtime-dbg-8.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20240827009",
-      "Version": "641",
-      "Name": "dotnet-runtime-dbg-8.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20240827012",
-      "Version": "641",
-      "Name": "dotnet-sdk-dbg-8.0"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20240861005",
@@ -19351,18 +19491,18 @@
       "Name": "python2-cairo-devel"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20240876007",
-      "Version": "635",
+      "ID": "oval:com.redhat.rhsa:obj:20240876006",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-513_11_1"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:202410379001",
-      "Version": "639",
+      "Version": "640",
       "Name": "pam"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:202410379002",
-      "Version": "639",
+      "Version": "640",
       "Name": "pam-devel"
     },
     {
@@ -20632,27 +20772,27 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20245522002",
-      "Version": "635",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-553"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20245531001",
-      "Version": "636",
+      "Version": "637",
       "Name": "python3.12-setuptools"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20245531002",
-      "Version": "636",
+      "Version": "637",
       "Name": "python3.12-setuptools-wheel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20245532001",
-      "Version": "636",
+      "Version": "637",
       "Name": "python3.11-setuptools"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20245532002",
-      "Version": "636",
+      "Version": "637",
       "Name": "python3.11-setuptools-wheel"
     },
     {
@@ -20667,7 +20807,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20247429002",
-      "Version": "635",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-553_16_1"
     },
     {
@@ -20717,22 +20857,22 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20248842001",
-      "Version": "638",
+      "Version": "639",
       "Name": "python3.12-urllib3"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20248922001",
-      "Version": "636",
+      "Version": "637",
       "Name": "bzip2"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20248922002",
-      "Version": "636",
+      "Version": "637",
       "Name": "bzip2-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20248922003",
-      "Version": "636",
+      "Version": "637",
       "Name": "bzip2-libs"
     },
     {
@@ -20746,8 +20886,8 @@
       "Name": "libsoup-devel"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20250109006",
-      "Version": "635",
+      "ID": "oval:com.redhat.rhsa:obj:20250109005",
+      "Version": "636",
       "Name": "kpatch-patch-4_18_0-553_30_1"
     },
     {
@@ -20819,6 +20959,111 @@
       "ID": "oval:com.redhat.rhsa:obj:20250382015",
       "Version": "641",
       "Name": "dotnet-templates-9.0"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251215001",
+      "Version": "636",
+      "Name": "python3-tbb"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251215002",
+      "Version": "636",
+      "Name": "tbb"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251215003",
+      "Version": "636",
+      "Name": "tbb-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251215004",
+      "Version": "636",
+      "Name": "tbb-doc"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251306001",
+      "Version": "638",
+      "Name": "gcc-toolset-13-gcc"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251306002",
+      "Version": "638",
+      "Name": "gcc-toolset-13-gcc-c++"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251306003",
+      "Version": "638",
+      "Name": "gcc-toolset-13-gcc-gfortran"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251306004",
+      "Version": "638",
+      "Name": "gcc-toolset-13-gcc-plugin-annobin"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251306005",
+      "Version": "638",
+      "Name": "gcc-toolset-13-gcc-plugin-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251306006",
+      "Version": "638",
+      "Name": "gcc-toolset-13-libasan-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251306007",
+      "Version": "638",
+      "Name": "gcc-toolset-13-libatomic-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251306008",
+      "Version": "638",
+      "Name": "gcc-toolset-13-libgccjit"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251306009",
+      "Version": "638",
+      "Name": "gcc-toolset-13-libgccjit-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251306010",
+      "Version": "638",
+      "Name": "gcc-toolset-13-libitm-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251306011",
+      "Version": "638",
+      "Name": "gcc-toolset-13-liblsan-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251306012",
+      "Version": "638",
+      "Name": "gcc-toolset-13-libquadmath-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251306013",
+      "Version": "638",
+      "Name": "gcc-toolset-13-libstdc++-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251306014",
+      "Version": "638",
+      "Name": "gcc-toolset-13-libstdc++-docs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251306015",
+      "Version": "638",
+      "Name": "gcc-toolset-13-libtsan-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251306016",
+      "Version": "638",
+      "Name": "gcc-toolset-13-libubsan-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20251306017",
+      "Version": "638",
+      "Name": "gcc-toolset-13-offload-nvptx"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:19990428005",
@@ -20936,19 +21181,9 @@
       "Name": "freetype-debugsource"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:201610245001",
+      "ID": "oval:com.redhat.unaffected:obj:201610166003",
       "Version": "635",
-      "Name": "doxygen-doxywizard"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:201610245002",
-      "Version": "635",
-      "Name": "doxygen"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:201610245003",
-      "Version": "635",
-      "Name": "doxygen-latex"
+      "Name": "gd-debugsource"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:201610713001",
@@ -21101,6 +21336,11 @@
       "Name": "openslp"
     },
     {
+      "ID": "oval:com.redhat.unaffected:obj:201717942002",
+      "Version": "635",
+      "Name": "libtiff-debugsource"
+    },
+    {
       "ID": "oval:com.redhat.unaffected:obj:201718018001",
       "Version": "635",
       "Name": "coreutils-single"
@@ -21251,6 +21491,11 @@
       "Name": "lrzsz"
     },
     {
+      "ID": "oval:com.redhat.unaffected:obj:201810360002",
+      "Version": "635",
+      "Name": "file-debugsource"
+    },
+    {
       "ID": "oval:com.redhat.unaffected:obj:20181049002",
       "Version": "635",
       "Name": "systemd-debugsource"
@@ -21329,6 +21574,11 @@
       "ID": "oval:com.redhat.unaffected:obj:201810733002",
       "Version": "635",
       "Name": "libgxps-devel"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:201810754003",
+      "Version": "635",
+      "Name": "ncurses-debugsource"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:201810773001",
@@ -21516,6 +21766,11 @@
       "Name": "polkit-debugsource"
     },
     {
+      "ID": "oval:com.redhat.unaffected:obj:201811212005",
+      "Version": "635",
+      "Name": "libjpeg-turbo-debugsource"
+    },
+    {
       "ID": "oval:com.redhat.unaffected:obj:201811233009",
       "Version": "635",
       "Name": "git-debugsource"
@@ -21664,6 +21919,11 @@
       "ID": "oval:com.redhat.unaffected:obj:201812558001",
       "Version": "635",
       "Name": "perl-Email-Address"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:201812886026",
+      "Version": "635",
+      "Name": "gcc-debugsource"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:201812910001",
@@ -22211,7 +22471,7 @@
       "Name": "cockpit-debugsource"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:20195544002",
+      "ID": "oval:com.redhat.unaffected:obj:20195544001",
       "Version": "635",
       "Name": "openslp-devel"
     },
@@ -22239,6 +22499,36 @@
       "ID": "oval:com.redhat.unaffected:obj:20200605013",
       "Version": "635",
       "Name": "dotnet3.0"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202011023006",
+      "Version": "635",
+      "Name": "python-coverage"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202011023008",
+      "Version": "635",
+      "Name": "cockpit-session-recording"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202011023009",
+      "Version": "635",
+      "Name": "mpdecimal-doc"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202011023013",
+      "Version": "635",
+      "Name": "mpdecimal++"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202011023030",
+      "Version": "635",
+      "Name": "mpdecimal"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202011023034",
+      "Version": "635",
+      "Name": "mpdecimal-devel"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202014354007",
@@ -22334,31 +22624,6 @@
       "ID": "oval:com.redhat.unaffected:obj:202021913017",
       "Version": "635",
       "Name": "icu4j"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202023064006",
-      "Version": "635",
-      "Name": "tbb-devel"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202023064007",
-      "Version": "635",
-      "Name": "python3-tbb"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202023064011",
-      "Version": "635",
-      "Name": "tbb"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202023064016",
-      "Version": "635",
-      "Name": "cockpit-session-recording"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202023064019",
-      "Version": "635",
-      "Name": "tbb-doc"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202035530001",
@@ -22806,11 +23071,6 @@
       "Name": "virt-who"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202421312023",
-      "Version": "635",
-      "Name": "dotnet8.0"
-    },
-    {
       "ID": "oval:com.redhat.unaffected:obj:20242169005",
       "Version": "635",
       "Name": "tftp-server"
@@ -22871,24 +23131,19 @@
       "Name": "foomatic"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:20246345002",
+      "ID": "oval:com.redhat.unaffected:obj:20246345004",
       "Version": "635",
       "Name": "python3.12-setuptools-rust"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:20246345004",
+      "ID": "oval:com.redhat.unaffected:obj:20246345007",
       "Version": "635",
       "Name": "python-setuptools_scm"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:20246345005",
+      "ID": "oval:com.redhat.unaffected:obj:20246345009",
       "Version": "635",
       "Name": "python3.11-setuptools-rust"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:20249979001",
-      "Version": "635",
-      "Name": "python3.12-cryptography"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202523022013",
@@ -23525,7 +23780,7 @@
       }
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20240397084",
+      "ID": "oval:com.redhat.cve:obj:20240397115",
       "Version": "636",
       "Filepath": {
         "Text": "/etc/dnf/modules.d/python39-devel.module",
@@ -23606,7 +23861,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20191167027",
-      "Version": "643",
+      "Version": "644",
       "Filepath": {
         "Text": "/boot/grub2/grubenv",
         "Datatype": "string"
@@ -23618,230 +23873,6 @@
       "Instance": {
         "Text": "1",
         "Datatype": "int"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20191167028",
-      "Version": "643",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20191174015",
-      "Version": "640",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20191479028",
-      "Version": "640",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20191480015",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20191959028",
-      "Version": "640",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20191971015",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20192405015",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20192411028",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20192703028",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20192741015",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20192827028",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20192828015",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20193309015",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20193517028",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
       }
     },
     {
@@ -23861,326 +23892,6 @@
       }
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20193832028",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20193833015",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20193870015",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20193871028",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20193936005",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20194245005",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20200328015",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20200339028",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20201372028",
-      "Version": "642",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20201378015",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20201567015",
-      "Version": "641",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20201769028",
-      "Version": "640",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20202102028",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20202125005",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20202171015",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20202427028",
-      "Version": "643",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20202428015",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20202567005",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20203010028",
-      "Version": "641",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20203016015",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
       "ID": "oval:com.redhat.rhsa:obj:20203032004",
       "Version": "639",
       "Filepath": {
@@ -24194,134 +23905,6 @@
       "Instance": {
         "Text": "1",
         "Datatype": "int"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20203073005",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20203218028",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20203219015",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20204286027",
-      "Version": "643",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20204289015",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20204331005",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20204431028",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20204609015",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
       }
     },
     {
@@ -24341,38 +23924,6 @@
       }
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20204685027",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20204686015",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
       "ID": "oval:com.redhat.rhsa:obj:20204756005",
       "Version": "636",
       "Filepath": {
@@ -24386,166 +23937,6 @@
       "Instance": {
         "Text": "1",
         "Datatype": "int"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20205473026",
-      "Version": "641",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20205506015",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20210003026",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20210004015",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20210537015",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20210558027",
-      "Version": "642",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20211081015",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20211093027",
-      "Version": "644",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20211578028",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20211739015",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
       }
     },
     {
@@ -24565,86 +23956,6 @@
       }
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20212165005",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20212168027",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20212169015",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20212563005",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20212570027",
-      "Version": "640",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
       "ID": "oval:com.redhat.rhsa:obj:20212583053",
       "Version": "635",
       "Filepath": {
@@ -24658,1686 +23969,6 @@
       "Instance": {
         "Text": "1",
         "Datatype": "int"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20212599015",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20212714027",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20212715015",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20212716005",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20213044005",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20213057028",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20213088015",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20213436005",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20213440015",
-      "Version": "641",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20213447027",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20213547015",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20213548027",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20214056027",
-      "Version": "641",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20214088015",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20214122005",
-      "Version": "634",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20214140015",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20214356028",
-      "Version": "661",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20214645005",
-      "Version": "634",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20214646015",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20214647027",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20215227027",
-      "Version": "640",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20215241015",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20220176015",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20220188026",
-      "Version": "640",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20220232005",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20220819015",
-      "Version": "640",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20220825027",
-      "Version": "642",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20220849005",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20221535005",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20221550027",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20221555015",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20221975015",
-      "Version": "673",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20221988028",
-      "Version": "661",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20225219005",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20225316027",
-      "Version": "640",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20225344015",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20225564027",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20225565015",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20225819028",
-      "Version": "640",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20225834015",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20225839005",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20226437015",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20226460027",
-      "Version": "642",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20227110028",
-      "Version": "643",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20227134015",
-      "Version": "640",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20227137005",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20227444015",
-      "Version": "662",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20227683028",
-      "Version": "641",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20230101027",
-      "Version": "640",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20230114015",
-      "Version": "640",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20230123005",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20230832027",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20230839005",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20230854015",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20231566027",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20231584015",
-      "Version": "640",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20231659005",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20232736015",
-      "Version": "642",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20232951028",
-      "Version": "643",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20233349027",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20233350015",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20233351005",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20233819015",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20233847027",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20234517027",
-      "Version": "641",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20234531005",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20234541015",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20235221005",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20235244028",
-      "Version": "644",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20235255015",
-      "Version": "642",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20236901015",
-      "Version": "641",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20237077028",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20237548015",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20237549028",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20237554005",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20240089005",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20240113028",
-      "Version": "641",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20240134015",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20240876005",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20240881015",
-      "Version": "641",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20240897027",
-      "Version": "640",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:202410281028",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:202410282015",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:202410943028",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:202410944015",
-      "Version": "638",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20241607027",
-      "Version": "642",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20241612005",
-      "Version": "634",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20241614015",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20242950015",
-      "Version": "640",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20243138028",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20243618028",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20243627015",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20244211028",
-      "Version": "642",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20244352015",
-      "Version": "644",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20245101028",
-      "Version": "639",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20245102015",
-      "Version": "642",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20245522005",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20247000028",
-      "Version": "641",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20247001015",
-      "Version": "637",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20247429005",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20248856028",
-      "Version": "650",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20248870015",
-      "Version": "650",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20250065028",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20250066015",
-      "Version": "636",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
-      }
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20250109005",
-      "Version": "635",
-      "Filepath": {
-        "Text": "/boot/grub2/grub.cfg",
-        "Datatype": "string"
-      },
-      "Pattern": {
-        "Text": "^menuentry.*",
-        "Operation": "pattern match"
-      },
-      "Instance": {
-        "Datatype": "int",
-        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
       }
     },
     {
@@ -26360,7 +23991,7 @@
   "UnameObjects": [
     {
       "ID": "oval:com.redhat.rhsa:obj:20191167026",
-      "Version": "643"
+      "Version": "644"
     }
   ]
 }

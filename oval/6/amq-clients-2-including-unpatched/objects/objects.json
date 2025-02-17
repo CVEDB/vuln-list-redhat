@@ -386,11 +386,6 @@
       "Name": "vertx-web"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202324998001",
-      "Version": "635",
-      "Name": "tomcat"
-    },
-    {
       "ID": "oval:com.redhat.unaffected:obj:202325613001",
       "Version": "635",
       "Name": "kerby-backend"
@@ -441,6 +436,11 @@
       "Name": "avro"
     },
     {
+      "ID": "oval:com.redhat.unaffected:obj:202341080001",
+      "Version": "635",
+      "Name": "tomcat"
+    },
+    {
       "ID": "oval:com.redhat.unaffected:obj:202341835001",
       "Version": "635",
       "Name": "org.apache.struts-struts-core"
@@ -479,6 +479,11 @@
       "ID": "oval:com.redhat.unaffected:obj:202425710001",
       "Version": "635",
       "Name": "commons-compress"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202427137001",
+      "Version": "635",
+      "Name": "org.apache.cassandra/cassandra-all"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202429025001",

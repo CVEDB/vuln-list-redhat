@@ -2532,42 +2532,42 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20231512029",
-      "Version": "643",
+      "Version": "644",
       "Name": "eap7-netty-transport-native-epoll"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20231512054",
-      "Version": "643",
+      "Version": "644",
       "Name": "eap7-infinispan-component-annotations"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20235484092",
-      "Version": "638",
+      "Version": "639",
       "Name": "eap7-bouncycastle-pg"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20235484095",
-      "Version": "638",
+      "Version": "639",
       "Name": "eap7-bouncycastle-util"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20240710001",
-      "Version": "639",
+      "Version": "640",
       "Name": "eap7-log4j2-jboss-logmanager"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20240710024",
-      "Version": "639",
+      "Version": "640",
       "Name": "eap7-jboss-cert-helper"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20240710035",
-      "Version": "639",
+      "Version": "640",
       "Name": "eap7-insights-java-client"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20240710044",
-      "Version": "639",
+      "Version": "640",
       "Name": "eap7-protostream"
     }
   ],

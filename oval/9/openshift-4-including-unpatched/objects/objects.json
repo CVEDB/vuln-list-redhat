@@ -441,26 +441,6 @@
       "Name": "ignition-validate"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202522869001",
-      "Version": "636",
-      "Name": "podman-remote"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202522869003",
-      "Version": "636",
-      "Name": "podman-tests"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202522869016",
-      "Version": "636",
-      "Name": "podman-docker"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202522869019",
-      "Version": "636",
-      "Name": "podman-plugins"
-    },
-    {
       "ID": "oval:com.redhat.unaffected:obj:20191010083001",
       "Version": "635",
       "Name": "python-flask"
@@ -531,14 +511,34 @@
       "Name": "buildah-tests"
     },
     {
+      "ID": "oval:com.redhat.unaffected:obj:20223064010",
+      "Version": "635",
+      "Name": "podman-plugins"
+    },
+    {
       "ID": "oval:com.redhat.unaffected:obj:20223064013",
       "Version": "635",
       "Name": "skopeo-tests"
     },
     {
+      "ID": "oval:com.redhat.unaffected:obj:20223064017",
+      "Version": "635",
+      "Name": "podman-docker"
+    },
+    {
       "ID": "oval:com.redhat.unaffected:obj:20223064019",
       "Version": "635",
       "Name": "containers-common"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20223064021",
+      "Version": "635",
+      "Name": "podman-remote"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20223064025",
+      "Version": "635",
+      "Name": "podman-tests"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202325399001",

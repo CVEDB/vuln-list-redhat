@@ -1299,6 +1299,11 @@
       "ID": "oval:com.redhat.unaffected:obj:20247143002",
       "Version": "635",
       "Name": "python3-pulpcore"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20251866001",
+      "Version": "635",
+      "Name": "libwebsockets"
     }
   ],
   "RpmverifyfileObjects": [

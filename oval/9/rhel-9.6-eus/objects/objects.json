@@ -401,6 +401,111 @@
       "Name": "skopeo-tests"
     },
     {
+      "ID": "oval:com.redhat.rhsa:obj:20227958001",
+      "Version": "637",
+      "Name": "libguestfs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227958002",
+      "Version": "637",
+      "Name": "libguestfs-appliance"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227958003",
+      "Version": "637",
+      "Name": "libguestfs-bash-completion"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227958004",
+      "Version": "637",
+      "Name": "libguestfs-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227958005",
+      "Version": "637",
+      "Name": "libguestfs-gobject"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227958006",
+      "Version": "637",
+      "Name": "libguestfs-gobject-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227958007",
+      "Version": "637",
+      "Name": "libguestfs-inspect-icons"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227958008",
+      "Version": "637",
+      "Name": "libguestfs-man-pages-ja"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227958009",
+      "Version": "637",
+      "Name": "libguestfs-man-pages-uk"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227958010",
+      "Version": "637",
+      "Name": "libguestfs-rescue"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227958011",
+      "Version": "637",
+      "Name": "libguestfs-rsync"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227958012",
+      "Version": "637",
+      "Name": "libguestfs-xfs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227958013",
+      "Version": "637",
+      "Name": "lua-guestfs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227958014",
+      "Version": "637",
+      "Name": "ocaml-libguestfs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227958015",
+      "Version": "637",
+      "Name": "ocaml-libguestfs-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227958016",
+      "Version": "637",
+      "Name": "perl-Sys-Guestfs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227958017",
+      "Version": "637",
+      "Name": "php-libguestfs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227958018",
+      "Version": "637",
+      "Name": "python3-libguestfs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227958019",
+      "Version": "637",
+      "Name": "ruby-libguestfs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227959001",
+      "Version": "637",
+      "Name": "guestfs-tools"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227959002",
+      "Version": "637",
+      "Name": "virt-win-reg"
+    },
+    {
       "ID": "oval:com.redhat.rhsa:obj:20227967001",
       "Version": "637",
       "Name": "qemu-guest-agent"
@@ -509,6 +614,26 @@
       "ID": "oval:com.redhat.rhsa:obj:20227967022",
       "Version": "637",
       "Name": "qemu-pr-helper"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227968001",
+      "Version": "637",
+      "Name": "virt-v2v"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227968002",
+      "Version": "637",
+      "Name": "virt-v2v-bash-completion"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227968003",
+      "Version": "637",
+      "Name": "virt-v2v-man-pages-ja"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20227968004",
+      "Version": "637",
+      "Name": "virt-v2v-man-pages-uk"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20227979001",
@@ -899,6 +1024,11 @@
       "ID": "oval:com.redhat.rhsa:obj:20228415008",
       "Version": "636",
       "Name": "mingw64-libgcc"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20228431002",
+      "Version": "636",
+      "Name": "podman-catatonit"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20228832002",
@@ -1764,6 +1894,31 @@
       "ID": "oval:com.redhat.rhsa:obj:20236316002",
       "Version": "637",
       "Name": "pcs-snmp"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20236372001",
+      "Version": "640",
+      "Name": "gdb"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20236372002",
+      "Version": "640",
+      "Name": "gdb-doc"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20236372003",
+      "Version": "640",
+      "Name": "gdb-gdbserver"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20236372004",
+      "Version": "640",
+      "Name": "gdb-headless"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20236372005",
+      "Version": "640",
+      "Name": "gdb-minimal"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20236380001",

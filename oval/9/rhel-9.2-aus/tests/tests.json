@@ -220,7 +220,7 @@
       "Check": "at least one",
       "Comment": "expat is earlier than 0:2.2.10-12.el9_0",
       "ID": "oval:com.redhat.rhba:tst:20224046001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhba:obj:20224046001"
       },
@@ -232,7 +232,7 @@
       "Check": "at least one",
       "Comment": "expat is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhba:tst:20224046002",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhba:obj:20224046001"
       },
@@ -244,7 +244,7 @@
       "Check": "at least one",
       "Comment": "expat-devel is earlier than 0:2.2.10-12.el9_0",
       "ID": "oval:com.redhat.rhba:tst:20224046003",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhba:obj:20224046002"
       },
@@ -256,7 +256,7 @@
       "Check": "at least one",
       "Comment": "expat-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhba:tst:20224046004",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhba:obj:20224046002"
       },
@@ -15588,7 +15588,7 @@
       "Check": "at least one",
       "Comment": "qemu-guest-agent is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967001",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263001"
       },
@@ -15600,7 +15600,7 @@
       "Check": "at least one",
       "Comment": "qemu-img is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967003",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263002"
       },
@@ -15612,7 +15612,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967005",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263003"
       },
@@ -15624,7 +15624,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm-audio-pa is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967007",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263004"
       },
@@ -15636,7 +15636,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm-block-curl is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967009",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263005"
       },
@@ -15648,7 +15648,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm-block-rbd is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967011",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263006"
       },
@@ -15660,7 +15660,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm-common is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967013",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263007"
       },
@@ -15672,7 +15672,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm-core is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967015",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263008"
       },
@@ -15684,7 +15684,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm-device-display-virtio-gpu is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967017",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263009"
       },
@@ -15696,7 +15696,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm-device-display-virtio-gpu-ccw is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967019",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263010"
       },
@@ -15708,7 +15708,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm-device-display-virtio-gpu-gl is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967021",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263011"
       },
@@ -15720,7 +15720,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm-device-display-virtio-gpu-pci is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967023",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263012"
       },
@@ -15732,7 +15732,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm-device-display-virtio-gpu-pci-gl is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967025",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263013"
       },
@@ -15744,7 +15744,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm-device-display-virtio-vga is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967027",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263014"
       },
@@ -15756,7 +15756,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm-device-display-virtio-vga-gl is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967029",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263015"
       },
@@ -15768,7 +15768,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm-device-usb-host is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967031",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263016"
       },
@@ -15780,7 +15780,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm-device-usb-redirect is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967033",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263017"
       },
@@ -15792,7 +15792,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm-docs is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967035",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263018"
       },
@@ -15804,7 +15804,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm-tools is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967037",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263019"
       },
@@ -15816,7 +15816,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm-ui-egl-headless is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967039",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263020"
       },
@@ -15828,7 +15828,7 @@
       "Check": "at least one",
       "Comment": "qemu-kvm-ui-opengl is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967041",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263021"
       },
@@ -15840,7 +15840,7 @@
       "Check": "at least one",
       "Comment": "qemu-pr-helper is earlier than 17:7.0.0-13.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227967043",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225263022"
       },
@@ -16140,7 +16140,7 @@
       "Check": "at least one",
       "Comment": "speex is earlier than 0:1.2.0-11.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227979001",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20227979001"
       },
@@ -16152,7 +16152,7 @@
       "Check": "at least one",
       "Comment": "speex is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20227979002",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20227979001"
       },
@@ -16164,7 +16164,7 @@
       "Check": "at least one",
       "Comment": "speex-devel is earlier than 0:1.2.0-11.el9",
       "ID": "oval:com.redhat.rhsa:tst:20227979003",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20227979002"
       },
@@ -16176,7 +16176,7 @@
       "Check": "at least one",
       "Comment": "speex-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20227979004",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20227979002"
       },
@@ -16188,7 +16188,7 @@
       "Check": "at least one",
       "Comment": "libvirt is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003001",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003001"
       },
@@ -16200,7 +16200,7 @@
       "Check": "at least one",
       "Comment": "libvirt is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003002",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003001"
       },
@@ -16212,7 +16212,7 @@
       "Check": "at least one",
       "Comment": "libvirt-client is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003003",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003002"
       },
@@ -16224,7 +16224,7 @@
       "Check": "at least one",
       "Comment": "libvirt-client is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003004",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003002"
       },
@@ -16236,7 +16236,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003005",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003003"
       },
@@ -16248,7 +16248,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003006",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003003"
       },
@@ -16260,7 +16260,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-config-network is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003007",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003004"
       },
@@ -16272,7 +16272,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-config-network is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003008",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003004"
       },
@@ -16284,7 +16284,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-config-nwfilter is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003009",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003005"
       },
@@ -16296,7 +16296,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-config-nwfilter is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003010",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003005"
       },
@@ -16308,7 +16308,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-interface is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003011",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003006"
       },
@@ -16320,7 +16320,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-interface is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003012",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003006"
       },
@@ -16332,7 +16332,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-network is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003013",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003007"
       },
@@ -16344,7 +16344,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-network is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003014",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003007"
       },
@@ -16356,7 +16356,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-nodedev is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003015",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003008"
       },
@@ -16368,7 +16368,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-nodedev is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003016",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003008"
       },
@@ -16380,7 +16380,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-nwfilter is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003017",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003009"
       },
@@ -16392,7 +16392,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-nwfilter is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003018",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003009"
       },
@@ -16404,7 +16404,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-qemu is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003019",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003010"
       },
@@ -16416,7 +16416,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-qemu is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003020",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003010"
       },
@@ -16428,7 +16428,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-secret is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003021",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003011"
       },
@@ -16440,7 +16440,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-secret is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003022",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003011"
       },
@@ -16452,7 +16452,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-storage is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003023",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003012"
       },
@@ -16464,7 +16464,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-storage is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003024",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003012"
       },
@@ -16476,7 +16476,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-storage-core is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003025",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003013"
       },
@@ -16488,7 +16488,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-storage-core is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003026",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003013"
       },
@@ -16500,7 +16500,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-storage-disk is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003027",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003014"
       },
@@ -16512,7 +16512,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-storage-disk is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003028",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003014"
       },
@@ -16524,7 +16524,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-storage-iscsi is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003029",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003015"
       },
@@ -16536,7 +16536,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-storage-iscsi is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003030",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003015"
       },
@@ -16548,7 +16548,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-storage-logical is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003031",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003016"
       },
@@ -16560,7 +16560,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-storage-logical is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003032",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003016"
       },
@@ -16572,7 +16572,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-storage-mpath is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003033",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003017"
       },
@@ -16584,7 +16584,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-storage-mpath is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003034",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003017"
       },
@@ -16596,7 +16596,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-storage-rbd is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003035",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003018"
       },
@@ -16608,7 +16608,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-storage-rbd is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003036",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003018"
       },
@@ -16620,7 +16620,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-storage-scsi is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003037",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003019"
       },
@@ -16632,7 +16632,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-driver-storage-scsi is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003038",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003019"
       },
@@ -16644,7 +16644,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-kvm is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003039",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003020"
       },
@@ -16656,7 +16656,7 @@
       "Check": "at least one",
       "Comment": "libvirt-daemon-kvm is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003040",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003020"
       },
@@ -16668,7 +16668,7 @@
       "Check": "at least one",
       "Comment": "libvirt-devel is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003041",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003021"
       },
@@ -16680,7 +16680,7 @@
       "Check": "at least one",
       "Comment": "libvirt-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003042",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003021"
       },
@@ -16692,7 +16692,7 @@
       "Check": "at least one",
       "Comment": "libvirt-docs is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003043",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003022"
       },
@@ -16704,7 +16704,7 @@
       "Check": "at least one",
       "Comment": "libvirt-docs is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003044",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003022"
       },
@@ -16716,7 +16716,7 @@
       "Check": "at least one",
       "Comment": "libvirt-libs is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003045",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003023"
       },
@@ -16728,7 +16728,7 @@
       "Check": "at least one",
       "Comment": "libvirt-libs is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003046",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003023"
       },
@@ -16740,7 +16740,7 @@
       "Check": "at least one",
       "Comment": "libvirt-lock-sanlock is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003047",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003024"
       },
@@ -16752,7 +16752,7 @@
       "Check": "at least one",
       "Comment": "libvirt-lock-sanlock is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003048",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003024"
       },
@@ -16764,7 +16764,7 @@
       "Check": "at least one",
       "Comment": "libvirt-nss is earlier than 0:8.5.0-7.el9_1",
       "ID": "oval:com.redhat.rhsa:tst:20228003049",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003025"
       },
@@ -16776,7 +16776,7 @@
       "Check": "at least one",
       "Comment": "libvirt-nss is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228003050",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228003025"
       },
@@ -17796,7 +17796,7 @@
       "Check": "at least one",
       "Comment": "swtpm is earlier than 0:0.7.0-3.20211109gitb79fd91.el9",
       "ID": "oval:com.redhat.rhsa:tst:20228100001",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228100001"
       },
@@ -17808,7 +17808,7 @@
       "Check": "at least one",
       "Comment": "swtpm is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228100002",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228100001"
       },
@@ -17820,7 +17820,7 @@
       "Check": "at least one",
       "Comment": "swtpm-libs is earlier than 0:0.7.0-3.20211109gitb79fd91.el9",
       "ID": "oval:com.redhat.rhsa:tst:20228100003",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228100002"
       },
@@ -17832,7 +17832,7 @@
       "Check": "at least one",
       "Comment": "swtpm-libs is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228100004",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228100002"
       },
@@ -17844,7 +17844,7 @@
       "Check": "at least one",
       "Comment": "swtpm-tools is earlier than 0:0.7.0-3.20211109gitb79fd91.el9",
       "ID": "oval:com.redhat.rhsa:tst:20228100005",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228100003"
       },
@@ -17856,7 +17856,7 @@
       "Check": "at least one",
       "Comment": "swtpm-tools is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228100006",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228100003"
       },
@@ -20868,7 +20868,7 @@
       "Check": "at least one",
       "Comment": "mingw32-cpp is earlier than 0:12.0.1-11.2.el9",
       "ID": "oval:com.redhat.rhsa:tst:20228415001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228415001"
       },
@@ -20880,7 +20880,7 @@
       "Check": "at least one",
       "Comment": "mingw32-cpp is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228415002",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228415001"
       },
@@ -20892,7 +20892,7 @@
       "Check": "at least one",
       "Comment": "mingw32-gcc is earlier than 0:12.0.1-11.2.el9",
       "ID": "oval:com.redhat.rhsa:tst:20228415003",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228415002"
       },
@@ -20904,7 +20904,7 @@
       "Check": "at least one",
       "Comment": "mingw32-gcc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228415004",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228415002"
       },
@@ -20916,7 +20916,7 @@
       "Check": "at least one",
       "Comment": "mingw32-gcc-c++ is earlier than 0:12.0.1-11.2.el9",
       "ID": "oval:com.redhat.rhsa:tst:20228415005",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228415003"
       },
@@ -20928,7 +20928,7 @@
       "Check": "at least one",
       "Comment": "mingw32-gcc-c++ is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228415006",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228415003"
       },
@@ -20940,7 +20940,7 @@
       "Check": "at least one",
       "Comment": "mingw32-libgcc is earlier than 0:12.0.1-11.2.el9",
       "ID": "oval:com.redhat.rhsa:tst:20228415007",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228415004"
       },
@@ -20952,7 +20952,7 @@
       "Check": "at least one",
       "Comment": "mingw32-libgcc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228415008",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228415004"
       },
@@ -20964,7 +20964,7 @@
       "Check": "at least one",
       "Comment": "mingw64-cpp is earlier than 0:12.0.1-11.2.el9",
       "ID": "oval:com.redhat.rhsa:tst:20228415009",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228415005"
       },
@@ -20976,7 +20976,7 @@
       "Check": "at least one",
       "Comment": "mingw64-cpp is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228415010",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228415005"
       },
@@ -20988,7 +20988,7 @@
       "Check": "at least one",
       "Comment": "mingw64-gcc is earlier than 0:12.0.1-11.2.el9",
       "ID": "oval:com.redhat.rhsa:tst:20228415011",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228415006"
       },
@@ -21000,7 +21000,7 @@
       "Check": "at least one",
       "Comment": "mingw64-gcc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228415012",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228415006"
       },
@@ -21012,7 +21012,7 @@
       "Check": "at least one",
       "Comment": "mingw64-gcc-c++ is earlier than 0:12.0.1-11.2.el9",
       "ID": "oval:com.redhat.rhsa:tst:20228415013",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228415007"
       },
@@ -21024,7 +21024,7 @@
       "Check": "at least one",
       "Comment": "mingw64-gcc-c++ is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228415014",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228415007"
       },
@@ -21036,7 +21036,7 @@
       "Check": "at least one",
       "Comment": "mingw64-libgcc is earlier than 0:12.0.1-11.2.el9",
       "ID": "oval:com.redhat.rhsa:tst:20228415015",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228415008"
       },
@@ -21048,7 +21048,7 @@
       "Check": "at least one",
       "Comment": "mingw64-libgcc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20228415016",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20228415008"
       },

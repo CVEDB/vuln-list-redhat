@@ -13927,17 +13927,17 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20192722001",
-      "Version": "637",
+      "Version": "638",
       "Name": "libwmf"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20192722002",
-      "Version": "637",
+      "Version": "638",
       "Name": "libwmf-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20192722003",
-      "Version": "637",
+      "Version": "638",
       "Name": "libwmf-lite"
     },
     {
@@ -14782,17 +14782,17 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193703001",
-      "Version": "636",
+      "Version": "637",
       "Name": "libvorbis"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193703002",
-      "Version": "636",
+      "Version": "637",
       "Name": "libvorbis-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193703003",
-      "Version": "636",
+      "Version": "637",
       "Name": "libvorbis-devel-docs"
     },
     {

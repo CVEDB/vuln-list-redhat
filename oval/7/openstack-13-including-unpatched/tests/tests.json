@@ -7472,7 +7472,7 @@
       "Check": "at least one",
       "Comment": "redis is earlier than 0:3.2.8-3.el7ost",
       "ID": "oval:com.redhat.rhsa:tst:20190094001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202129478001"
       },

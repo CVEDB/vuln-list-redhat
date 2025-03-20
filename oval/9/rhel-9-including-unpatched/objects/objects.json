@@ -2613,32 +2613,32 @@
     {
       "ID": "oval:com.redhat.cve:obj:202012413001",
       "Version": "636",
-      "Name": "nspr"
+      "Name": "nss-sysinit"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202012413002",
       "Version": "636",
-      "Name": "nss-util"
+      "Name": "nspr-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202012413003",
       "Version": "636",
-      "Name": "nss-softokn-freebl-devel"
+      "Name": "nss-util"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202012413004",
       "Version": "636",
-      "Name": "nss-devel"
+      "Name": "nss-softokn-freebl-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202012413005",
       "Version": "636",
-      "Name": "nss-softokn"
+      "Name": "nss-softokn-freebl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202012413006",
       "Version": "636",
-      "Name": "nss-softokn-freebl"
+      "Name": "nss-softokn"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202012413007",
@@ -2648,7 +2648,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202012413008",
       "Version": "636",
-      "Name": "nss-sysinit"
+      "Name": "nss-tools"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202012413009",
@@ -2658,17 +2658,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:202012413010",
       "Version": "636",
-      "Name": "nspr-devel"
+      "Name": "nss-softokn-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202012413011",
       "Version": "636",
-      "Name": "nss-tools"
+      "Name": "nspr"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202012413012",
       "Version": "636",
-      "Name": "nss-softokn-devel"
+      "Name": "nss-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202014347001",
@@ -7938,12 +7938,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202423254002",
       "Version": "636",
-      "Name": "webkit2gtk3-jsc-devel"
+      "Name": "webkit2gtk3"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202423254003",
       "Version": "636",
-      "Name": "webkit2gtk3"
+      "Name": "webkit2gtk3-jsc-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202423254004",
@@ -9926,18 +9926,18 @@
       "Name": "dotnet-templates-9.0"
     },
     {
-      "ID": "oval:com.redhat.rhea:obj:20237252002",
-      "Version": "636",
+      "ID": "oval:com.redhat.rhea:obj:20236529002",
+      "Version": "638",
       "Name": "nodejs-devel"
     },
     {
-      "ID": "oval:com.redhat.rhea:obj:20237252006",
-      "Version": "636",
+      "ID": "oval:com.redhat.rhea:obj:20236529006",
+      "Version": "638",
       "Name": "nodejs-packaging"
     },
     {
-      "ID": "oval:com.redhat.rhea:obj:20237252007",
-      "Version": "636",
+      "ID": "oval:com.redhat.rhea:obj:20236529007",
+      "Version": "638",
       "Name": "nodejs-packaging-bundler"
     },
     {
@@ -10742,17 +10742,17 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20228643001",
-      "Version": "635",
+      "Version": "636",
       "Name": "varnish"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20228643002",
-      "Version": "635",
+      "Version": "636",
       "Name": "varnish-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20228643003",
-      "Version": "635",
+      "Version": "636",
       "Name": "varnish-docs"
     },
     {
@@ -12177,27 +12177,27 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20242199001",
-      "Version": "637",
+      "Version": "638",
       "Name": "pmix"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20242199002",
-      "Version": "637",
+      "Version": "638",
       "Name": "pmix-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20242199003",
-      "Version": "637",
+      "Version": "638",
       "Name": "pmix-pmi"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20242199004",
-      "Version": "637",
+      "Version": "638",
       "Name": "pmix-pmi-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20242199005",
-      "Version": "637",
+      "Version": "638",
       "Name": "pmix-tools"
     },
     {
@@ -14179,6 +14179,11 @@
       "ID": "oval:com.redhat.rhsa:obj:20251613010",
       "Version": "636",
       "Name": "v8-12.4-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20253048005",
+      "Version": "636",
+      "Name": "kpatch-patch-5_14_0-503_26_1"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20020059002",

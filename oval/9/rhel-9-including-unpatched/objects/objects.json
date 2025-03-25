@@ -8058,22 +8058,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:202444192001",
       "Version": "636",
-      "Name": "webkit2gtk3"
+      "Name": "webkit2gtk3-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202444192002",
       "Version": "636",
-      "Name": "webkit2gtk3-jsc"
+      "Name": "webkit2gtk3-jsc-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202444192003",
       "Version": "636",
-      "Name": "webkit2gtk3-jsc-devel"
+      "Name": "webkit2gtk3"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202444192004",
       "Version": "636",
-      "Name": "webkit2gtk3-devel"
+      "Name": "webkit2gtk3-jsc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202445336030",
@@ -14451,14 +14451,14 @@
       "Name": "python3-sphinx"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202011023030",
+      "ID": "oval:com.redhat.unaffected:obj:202011023029",
       "Version": "635",
-      "Name": "mpdecimal-devel"
+      "Name": "python3-sphinx-latex"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202011023033",
       "Version": "635",
-      "Name": "python3-sphinx-latex"
+      "Name": "mpdecimal-devel"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202011023036",
@@ -14471,7 +14471,7 @@
       "Name": "cockpit-session-recording"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202011023043",
+      "ID": "oval:com.redhat.unaffected:obj:202011023044",
       "Version": "635",
       "Name": "mpdecimal++"
     },

@@ -4956,6 +4956,26 @@
       "Name": "python3.12-urllib3"
     },
     {
+      "ID": "oval:com.redhat.rhsa:obj:20250210001",
+      "Version": "639",
+      "Name": "dpdk"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20250210002",
+      "Version": "639",
+      "Name": "dpdk-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20250210003",
+      "Version": "639",
+      "Name": "dpdk-doc"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20250210004",
+      "Version": "639",
+      "Name": "dpdk-tools"
+    },
+    {
       "ID": "oval:com.redhat.rhsa:obj:20250324001",
       "Version": "636",
       "Name": "rsync"

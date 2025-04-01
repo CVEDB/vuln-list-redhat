@@ -4711,6 +4711,26 @@
       "Name": "python3.12-urllib3"
     },
     {
+      "ID": "oval:com.redhat.rhsa:obj:20250209001",
+      "Version": "639",
+      "Name": "dpdk"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20250209002",
+      "Version": "639",
+      "Name": "dpdk-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20250209003",
+      "Version": "639",
+      "Name": "dpdk-doc"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20250209004",
+      "Version": "639",
+      "Name": "dpdk-tools"
+    },
+    {
       "ID": "oval:com.redhat.rhsa:obj:20250399001",
       "Version": "638",
       "Name": "redis"

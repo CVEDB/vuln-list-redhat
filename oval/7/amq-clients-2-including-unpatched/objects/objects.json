@@ -86,6 +86,11 @@
       "Name": "ch.qos.logback/logback-core"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202413009001",
+      "Version": "636",
+      "Name": "jetty-server"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202427316001",
       "Version": "636",
       "Name": "HTTP-2"
@@ -156,11 +161,6 @@
       "Name": "spring-boot"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202524970001",
-      "Version": "636",
-      "Name": "io.netty/netty-handler"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202527391001",
       "Version": "636",
       "Name": "artemis-core-client"
@@ -171,48 +171,73 @@
       "Name": "activemq-openwire-legacy"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202548734001",
+      "Version": "636",
+      "Name": "commons-beanutils-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202548734002",
+      "Version": "636",
+      "Name": "commons-beanutils"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202548976001",
+      "Version": "636",
+      "Name": "commons-fileupload"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20254949001",
+      "Version": "636",
+      "Name": "org.eclipse.jgit"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20254949002",
+      "Version": "636",
+      "Name": "org.eclipse.jgit.http.apache"
+    },
+    {
       "ID": "oval:com.redhat.rhsa:obj:20190886001",
-      "Version": "638",
+      "Version": "639",
       "Name": "python-qpid-proton"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20190886002",
-      "Version": "638",
+      "Version": "639",
       "Name": "python-qpid-proton-docs"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20190886003",
-      "Version": "638",
+      "Version": "639",
       "Name": "qpid-proton-c"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20190886004",
-      "Version": "638",
+      "Version": "639",
       "Name": "qpid-proton-c-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20190886005",
-      "Version": "638",
+      "Version": "639",
       "Name": "qpid-proton-c-docs"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20190886006",
-      "Version": "638",
+      "Version": "639",
       "Name": "qpid-proton-cpp"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20190886007",
-      "Version": "638",
+      "Version": "639",
       "Name": "qpid-proton-cpp-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20190886008",
-      "Version": "638",
+      "Version": "639",
       "Name": "qpid-proton-cpp-docs"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20190886009",
-      "Version": "638",
+      "Version": "639",
       "Name": "qpid-proton-tests"
     },
     {
@@ -309,11 +334,6 @@
       "ID": "oval:com.redhat.unaffected:obj:20222048001",
       "Version": "635",
       "Name": "http2-server"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:20222191001",
-      "Version": "635",
-      "Name": "jetty-server"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202222950001",
@@ -563,22 +583,42 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:202453677001",
       "Version": "635",
-      "Name": "org.apache.struts/struts-taglib"
+      "Name": "org.apache.struts/struts-tiles"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202453677002",
       "Version": "635",
-      "Name": "org.apache.struts/struts-core"
+      "Name": "org.apache.struts/struts-taglib"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202453677003",
       "Version": "635",
-      "Name": "org.apache.struts/struts-tiles"
+      "Name": "org.apache.struts/struts-core"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20246762001",
       "Version": "635",
       "Name": "org.eclipse.jetty/jetty-servlets"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202524970001",
+      "Version": "635",
+      "Name": "io.netty/netty-handler"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202527817001",
+      "Version": "635",
+      "Name": "kafka-clients"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202535036001",
+      "Version": "635",
+      "Name": "hibernate-validator"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202549128001",
+      "Version": "635",
+      "Name": "jackson-core"
     }
   ],
   "RpmverifyfileObjects": [

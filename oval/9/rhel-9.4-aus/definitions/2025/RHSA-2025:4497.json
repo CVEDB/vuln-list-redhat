@@ -38,7 +38,7 @@
       "Cves": [
         {
           "CveID": "CVE-2025-21927",
-          "Cvss3": "8.1/CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
+          "Cvss3": "8.0/CVSS:3.1/AV:A/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-119",
           "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2025-21927",
@@ -67,7 +67,7 @@
     "Criterions": [
       {
         "Comment": "Red Hat Enterprise Linux must be installed",
-        "TestRef": "oval:com.redhat.rhba:tst:20223991004"
+        "TestRef": "oval:com.redhat.rhba:tst:20223945012"
       }
     ],
     "Criterias": [
@@ -76,7 +76,7 @@
         "Criterions": [
           {
             "Comment": "Red Hat Enterprise Linux 9 is installed",
-            "TestRef": "oval:com.redhat.rhba:tst:20223991003"
+            "TestRef": "oval:com.redhat.rhba:tst:20223945011"
           }
         ],
         "Criterias": [
@@ -148,11 +148,11 @@
                     "Criterions": [
                       {
                         "Comment": "kernel version 0:5.14.0-427.31.1.el9_4 is currently running",
-                        "TestRef": "oval:com.redhat.rhsa:tst:20251434012"
+                        "TestRef": "oval:com.redhat.rhsa:tst:20246242012"
                       },
                       {
                         "Comment": "kernel version 0:5.14.0-427.31.1.el9_4 is set to boot up on next boot",
-                        "TestRef": "oval:com.redhat.rhsa:tst:20251434013"
+                        "TestRef": "oval:com.redhat.rhsa:tst:20246242013"
                       }
                     ]
                   },
@@ -161,7 +161,7 @@
                     "Criterions": [
                       {
                         "Comment": "kernel version equals 0:5.14.0-427.31.1.el9_4",
-                        "TestRef": "oval:com.redhat.rhsa:tst:20251434008"
+                        "TestRef": "oval:com.redhat.rhsa:tst:20246242008"
                       },
                       {
                         "Comment": "kernel is signed with Red Hat redhatrelease2 key",
@@ -174,7 +174,7 @@
                         "Criterions": [
                           {
                             "Comment": "kpatch-patch not installed for 0:5.14.0-427.31.1.el9_4",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20251434009"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20246242009"
                           }
                         ],
                         "Criterias": [
@@ -187,7 +187,7 @@
                               },
                               {
                                 "Comment": "kpatch-patch-5_14_0-427_31_1 is signed with Red Hat redhatrelease2 key",
-                                "TestRef": "oval:com.redhat.rhsa:tst:20251434011"
+                                "TestRef": "oval:com.redhat.rhsa:tst:20246242011"
                               }
                             ]
                           }
@@ -205,11 +205,11 @@
                     "Criterions": [
                       {
                         "Comment": "kernel version 0:5.14.0-427.44.1.el9_4 is currently running",
-                        "TestRef": "oval:com.redhat.rhsa:tst:20251434018"
+                        "TestRef": "oval:com.redhat.rhsa:tst:20250052018"
                       },
                       {
                         "Comment": "kernel version 0:5.14.0-427.44.1.el9_4 is set to boot up on next boot",
-                        "TestRef": "oval:com.redhat.rhsa:tst:20251434019"
+                        "TestRef": "oval:com.redhat.rhsa:tst:20250052019"
                       }
                     ]
                   },
@@ -218,7 +218,7 @@
                     "Criterions": [
                       {
                         "Comment": "kernel version equals 0:5.14.0-427.44.1.el9_4",
-                        "TestRef": "oval:com.redhat.rhsa:tst:20251434014"
+                        "TestRef": "oval:com.redhat.rhsa:tst:20250052014"
                       },
                       {
                         "Comment": "kernel is signed with Red Hat redhatrelease2 key",
@@ -231,7 +231,7 @@
                         "Criterions": [
                           {
                             "Comment": "kpatch-patch not installed for 0:5.14.0-427.44.1.el9_4",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20251434015"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20250052015"
                           }
                         ],
                         "Criterias": [
@@ -244,7 +244,7 @@
                               },
                               {
                                 "Comment": "kpatch-patch-5_14_0-427_44_1 is signed with Red Hat redhatrelease2 key",
-                                "TestRef": "oval:com.redhat.rhsa:tst:20251434017"
+                                "TestRef": "oval:com.redhat.rhsa:tst:20250052017"
                               }
                             ]
                           }
@@ -262,11 +262,11 @@
                     "Criterions": [
                       {
                         "Comment": "kernel version 0:5.14.0-427.55.1.el9_4 is currently running",
-                        "TestRef": "oval:com.redhat.rhsa:tst:20253097024"
+                        "TestRef": "oval:com.redhat.rhsa:tst:202510979024"
                       },
                       {
                         "Comment": "kernel version 0:5.14.0-427.55.1.el9_4 is set to boot up on next boot",
-                        "TestRef": "oval:com.redhat.rhsa:tst:20253097025"
+                        "TestRef": "oval:com.redhat.rhsa:tst:202510979025"
                       }
                     ]
                   },
@@ -275,7 +275,7 @@
                     "Criterions": [
                       {
                         "Comment": "kernel version equals 0:5.14.0-427.55.1.el9_4",
-                        "TestRef": "oval:com.redhat.rhsa:tst:20253097020"
+                        "TestRef": "oval:com.redhat.rhsa:tst:202510979020"
                       },
                       {
                         "Comment": "kernel is signed with Red Hat redhatrelease2 key",
@@ -288,7 +288,7 @@
                         "Criterions": [
                           {
                             "Comment": "kpatch-patch not installed for 0:5.14.0-427.55.1.el9_4",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20253097021"
+                            "TestRef": "oval:com.redhat.rhsa:tst:202510979021"
                           }
                         ],
                         "Criterias": [
@@ -301,7 +301,7 @@
                               },
                               {
                                 "Comment": "kpatch-patch-5_14_0-427_55_1 is signed with Red Hat redhatrelease2 key",
-                                "TestRef": "oval:com.redhat.rhsa:tst:20253097023"
+                                "TestRef": "oval:com.redhat.rhsa:tst:202510979023"
                               }
                             ]
                           }

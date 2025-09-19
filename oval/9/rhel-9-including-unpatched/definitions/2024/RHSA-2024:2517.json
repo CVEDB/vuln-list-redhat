@@ -1,7 +1,7 @@
 {
   "Class": "patch",
   "ID": "oval:com.redhat.rhsa:def:20242517",
-  "Version": "636",
+  "Version": "637",
   "Metadata": {
     "Title": "RHSA-2024:2517: wpa_supplicant security update (Moderate)",
     "AffectedList": [
@@ -92,7 +92,7 @@
           },
           {
             "Comment": "wpa_supplicant is signed with Red Hat redhatrelease2 key",
-            "TestRef": "oval:com.redhat.cve:tst:202352424026"
+            "TestRef": "oval:com.redhat.cve:tst:202352424028"
           }
         ]
       }

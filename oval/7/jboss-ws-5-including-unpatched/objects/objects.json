@@ -36,6 +36,26 @@
       "Name": "org.apache.tomcat/tomcat"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202548924001",
+      "Version": "636",
+      "Name": "commons-lang3"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202548924002",
+      "Version": "636",
+      "Name": "commons-lang"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202555668001",
+      "Version": "636",
+      "Name": "jws5-mod_cluster"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202555668002",
+      "Version": "636",
+      "Name": "jws5-mod_cluster-tomcat"
+    },
+    {
       "ID": "oval:com.redhat.rhea:obj:20182188001",
       "Version": "636",
       "Name": "jws5"
@@ -64,16 +84,6 @@
       "ID": "oval:com.redhat.rhea:obj:20182188006",
       "Version": "636",
       "Name": "jws5-tomcat-vault-javadoc"
-    },
-    {
-      "ID": "oval:com.redhat.rhea:obj:20182188007",
-      "Version": "636",
-      "Name": "jws5-mod_cluster"
-    },
-    {
-      "ID": "oval:com.redhat.rhea:obj:20182188008",
-      "Version": "636",
-      "Name": "jws5-mod_cluster-tomcat"
     },
     {
       "ID": "oval:com.redhat.rhea:obj:20182188009",
@@ -213,17 +223,22 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:202453677001",
       "Version": "635",
-      "Name": "org.apache.struts/struts-taglib"
+      "Name": "org.apache.struts/struts-tiles"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202453677002",
       "Version": "635",
-      "Name": "org.apache.struts/struts-core"
+      "Name": "org.apache.struts/struts-taglib"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202453677003",
       "Version": "635",
-      "Name": "org.apache.struts/struts-tiles"
+      "Name": "org.apache.struts/struts-core"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202548734001",
+      "Version": "635",
+      "Name": "commons-beanutils"
     }
   ],
   "RpmverifyfileObjects": [

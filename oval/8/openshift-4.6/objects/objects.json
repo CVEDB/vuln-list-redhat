@@ -17,12 +17,12 @@
     },
     {
       "ID": "oval:com.redhat.rhba:obj:20212407001",
-      "Version": "635",
+      "Version": "636",
       "Name": "jenkins-2-plugins"
     },
     {
       "ID": "oval:com.redhat.rhba:obj:20213396001",
-      "Version": "635",
+      "Version": "636",
       "Name": "jenkins"
     },
     {
@@ -82,27 +82,27 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20205615001",
-      "Version": "637",
+      "Version": "638",
       "Name": "network-scripts-openvswitch2.13"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20205615002",
-      "Version": "637",
+      "Version": "638",
       "Name": "openvswitch2.13"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20205615003",
-      "Version": "637",
+      "Version": "638",
       "Name": "openvswitch2.13-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20205615004",
-      "Version": "637",
+      "Version": "638",
       "Name": "openvswitch2.13-test"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20205615005",
-      "Version": "637",
+      "Version": "638",
       "Name": "python3-openvswitch2.13"
     },
     {
@@ -127,12 +127,12 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20220024001",
-      "Version": "637",
+      "Version": "638",
       "Name": "haproxy20"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20224947002",
-      "Version": "639",
+      "Version": "640",
       "Name": "conmon"
     }
   ],

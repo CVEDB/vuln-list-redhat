@@ -906,7 +906,7 @@
       "Check": "at least one",
       "Comment": "apache-commons-daemon-jsvc-eap6 is earlier than 1:1.0.15-9.redhat_2.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945001",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945001"
       },
@@ -918,7 +918,7 @@
       "Check": "at least one",
       "Comment": "apache-commons-daemon-jsvc-eap6 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945002",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945001"
       },
@@ -930,7 +930,7 @@
       "Check": "at least one",
       "Comment": "tomcat-native is earlier than 0:1.1.32-2.redhat_2.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945003",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945002"
       },
@@ -942,7 +942,7 @@
       "Check": "at least one",
       "Comment": "tomcat-native is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945004",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945002"
       },
@@ -954,7 +954,7 @@
       "Check": "at least one",
       "Comment": "mod_rt is earlier than 0:2.4.1-11.GA.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945005",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945003"
       },
@@ -966,7 +966,7 @@
       "Check": "at least one",
       "Comment": "mod_rt is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945006",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945003"
       },
@@ -978,7 +978,7 @@
       "Check": "at least one",
       "Comment": "mod_auth_kerb-eap6 is earlier than 0:5.4-30.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945007",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945004"
       },
@@ -990,7 +990,7 @@
       "Check": "at least one",
       "Comment": "mod_auth_kerb-eap6 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945008",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945004"
       },
@@ -1002,7 +1002,7 @@
       "Check": "at least one",
       "Comment": "apr-jws3 is earlier than 0:1.4.8-6.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945009",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945005"
       },
@@ -1014,7 +1014,7 @@
       "Check": "at least one",
       "Comment": "apr-jws3 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945010",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945005"
       },
@@ -1026,7 +1026,7 @@
       "Check": "at least one",
       "Comment": "apr-jws3-devel is earlier than 0:1.4.8-6.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945011",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945006"
       },
@@ -1038,7 +1038,7 @@
       "Check": "at least one",
       "Comment": "apr-jws3-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945012",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945006"
       },
@@ -1050,7 +1050,7 @@
       "Check": "at least one",
       "Comment": "apr-util-jws3 is earlier than 0:1.5.2-8.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945013",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945007"
       },
@@ -1062,7 +1062,7 @@
       "Check": "at least one",
       "Comment": "apr-util-jws3 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945014",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945007"
       },
@@ -1074,7 +1074,7 @@
       "Check": "at least one",
       "Comment": "apr-util-jws3-devel is earlier than 0:1.5.2-8.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945015",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945008"
       },
@@ -1086,7 +1086,7 @@
       "Check": "at least one",
       "Comment": "apr-util-jws3-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945016",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945008"
       },
@@ -1098,7 +1098,7 @@
       "Check": "at least one",
       "Comment": "apr-util-jws3-ldap is earlier than 0:1.5.2-8.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945017",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945009"
       },
@@ -1110,7 +1110,7 @@
       "Check": "at least one",
       "Comment": "apr-util-jws3-ldap is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945018",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945009"
       },
@@ -1122,7 +1122,7 @@
       "Check": "at least one",
       "Comment": "apr-util-jws3-mysql is earlier than 0:1.5.2-8.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945019",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945010"
       },
@@ -1134,7 +1134,7 @@
       "Check": "at least one",
       "Comment": "apr-util-jws3-mysql is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945020",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945010"
       },
@@ -1146,7 +1146,7 @@
       "Check": "at least one",
       "Comment": "apr-util-jws3-nss is earlier than 0:1.5.2-8.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945021",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945011"
       },
@@ -1158,7 +1158,7 @@
       "Check": "at least one",
       "Comment": "apr-util-jws3-nss is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945022",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945011"
       },
@@ -1170,7 +1170,7 @@
       "Check": "at least one",
       "Comment": "apr-util-jws3-odbc is earlier than 0:1.5.2-8.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945023",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945012"
       },
@@ -1182,7 +1182,7 @@
       "Check": "at least one",
       "Comment": "apr-util-jws3-odbc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945024",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945012"
       },
@@ -1194,7 +1194,7 @@
       "Check": "at least one",
       "Comment": "apr-util-jws3-openssl is earlier than 0:1.5.2-8.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945025",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945013"
       },
@@ -1206,7 +1206,7 @@
       "Check": "at least one",
       "Comment": "apr-util-jws3-openssl is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945026",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945013"
       },
@@ -1218,7 +1218,7 @@
       "Check": "at least one",
       "Comment": "apr-util-jws3-pgsql is earlier than 0:1.5.2-8.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945027",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945014"
       },
@@ -1230,7 +1230,7 @@
       "Check": "at least one",
       "Comment": "apr-util-jws3-pgsql is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945028",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945014"
       },
@@ -1242,7 +1242,7 @@
       "Check": "at least one",
       "Comment": "apr-util-jws3-sqlite is earlier than 0:1.5.2-8.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945029",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945015"
       },
@@ -1254,7 +1254,7 @@
       "Check": "at least one",
       "Comment": "apr-util-jws3-sqlite is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945030",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945015"
       },
@@ -1266,7 +1266,7 @@
       "Check": "at least one",
       "Comment": "mod_security-jws3 is earlier than 0:2.8.0-5.GA.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945031",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945016"
       },
@@ -1278,7 +1278,7 @@
       "Check": "at least one",
       "Comment": "mod_security-jws3 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945032",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945016"
       },
@@ -1290,7 +1290,7 @@
       "Check": "at least one",
       "Comment": "jboss-logging is earlier than 0:3.1.4-2.GA_redhat_2.1.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945033",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945017"
       },
@@ -1302,7 +1302,7 @@
       "Check": "at least one",
       "Comment": "jboss-logging is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945034",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945017"
       },
@@ -1314,7 +1314,7 @@
       "Check": "at least one",
       "Comment": "storeconfig-tc7 is earlier than 0:0.0.1-7.Alpha3_redhat_12.5.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945035",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945018"
       },
@@ -1326,7 +1326,7 @@
       "Check": "at least one",
       "Comment": "storeconfig-tc7 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945036",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945018"
       },
@@ -1338,7 +1338,7 @@
       "Check": "at least one",
       "Comment": "apache-commons-collections-eap6 is earlier than 0:3.2.1-15.redhat_3.1.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945037",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945019"
       },
@@ -1350,7 +1350,7 @@
       "Check": "at least one",
       "Comment": "apache-commons-collections-eap6 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945038",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945019"
       },
@@ -1362,7 +1362,7 @@
       "Check": "at least one",
       "Comment": "apache-commons-collections-tomcat-eap6 is earlier than 0:3.2.1-15.redhat_3.1.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945039",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945020"
       },
@@ -1374,7 +1374,7 @@
       "Check": "at least one",
       "Comment": "apache-commons-collections-tomcat-eap6 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945040",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945020"
       },
@@ -1386,7 +1386,7 @@
       "Check": "at least one",
       "Comment": "apache-commons-pool-eap6 is earlier than 0:1.6.0-1.redhat_7.1.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945041",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945021"
       },
@@ -1398,7 +1398,7 @@
       "Check": "at least one",
       "Comment": "apache-commons-pool-eap6 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945042",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945021"
       },
@@ -1410,7 +1410,7 @@
       "Check": "at least one",
       "Comment": "apache-commons-pool-tomcat-eap6 is earlier than 0:1.6.0-1.redhat_7.1.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945043",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945022"
       },
@@ -1422,7 +1422,7 @@
       "Check": "at least one",
       "Comment": "apache-commons-pool-tomcat-eap6 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945044",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945022"
       },
@@ -1434,7 +1434,7 @@
       "Check": "at least one",
       "Comment": "apache-commons-dbcp-eap6 is earlier than 0:1.4-13.1.redhat_2.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945045",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945023"
       },
@@ -1446,7 +1446,7 @@
       "Check": "at least one",
       "Comment": "apache-commons-dbcp-eap6 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945046",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945023"
       },
@@ -1458,7 +1458,7 @@
       "Check": "at least one",
       "Comment": "apache-commons-dbcp-tomcat-eap6 is earlier than 0:1.4-13.1.redhat_2.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945047",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945024"
       },
@@ -1470,7 +1470,7 @@
       "Check": "at least one",
       "Comment": "apache-commons-dbcp-tomcat-eap6 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945048",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945024"
       },
@@ -1482,7 +1482,7 @@
       "Check": "at least one",
       "Comment": "mchange-commons-java is earlier than 0:0.2.9-2.redhat_2.1.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945049",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945025"
       },
@@ -1494,7 +1494,7 @@
       "Check": "at least one",
       "Comment": "mchange-commons-java is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945050",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945025"
       },
@@ -1506,7 +1506,7 @@
       "Check": "at least one",
       "Comment": "c3p0 is earlier than 0:0.9.5-7.redhat_1.1.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945051",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201820433001"
       },
@@ -1518,7 +1518,7 @@
       "Check": "at least one",
       "Comment": "mod_bmx is earlier than 0:0.9.5-4.GA.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945053",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945027"
       },
@@ -1530,7 +1530,7 @@
       "Check": "at least one",
       "Comment": "mod_bmx is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945054",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945027"
       },
@@ -1542,7 +1542,7 @@
       "Check": "at least one",
       "Comment": "hibernate4-c3p0-eap6 is earlier than 0:4.2.18-2.Final_redhat_2.1.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945055",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945028"
       },
@@ -1554,7 +1554,7 @@
       "Check": "at least one",
       "Comment": "hibernate4-c3p0-eap6 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945056",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945028"
       },
@@ -1566,7 +1566,7 @@
       "Check": "at least one",
       "Comment": "hibernate4-core-eap6 is earlier than 0:4.2.18-2.Final_redhat_2.1.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945057",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945029"
       },
@@ -1578,7 +1578,7 @@
       "Check": "at least one",
       "Comment": "hibernate4-core-eap6 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945058",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945029"
       },
@@ -1590,7 +1590,7 @@
       "Check": "at least one",
       "Comment": "hibernate4-eap6 is earlier than 0:4.2.18-2.Final_redhat_2.1.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945059",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945030"
       },
@@ -1602,7 +1602,7 @@
       "Check": "at least one",
       "Comment": "hibernate4-eap6 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945060",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945030"
       },
@@ -1614,7 +1614,7 @@
       "Check": "at least one",
       "Comment": "hibernate4-entitymanager-eap6 is earlier than 0:4.2.18-2.Final_redhat_2.1.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945061",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945031"
       },
@@ -1626,7 +1626,7 @@
       "Check": "at least one",
       "Comment": "hibernate4-entitymanager-eap6 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945062",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945031"
       },
@@ -1638,7 +1638,7 @@
       "Check": "at least one",
       "Comment": "hibernate4-envers-eap6 is earlier than 0:4.2.18-2.Final_redhat_2.1.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945063",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945032"
       },
@@ -1650,7 +1650,7 @@
       "Check": "at least one",
       "Comment": "hibernate4-envers-eap6 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945064",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945032"
       },
@@ -1662,7 +1662,7 @@
       "Check": "at least one",
       "Comment": "hibernate3-commons-annotations is earlier than 0:4.0.2-1.Final_redhat_1.1.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945065",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945033"
       },
@@ -1674,7 +1674,7 @@
       "Check": "at least one",
       "Comment": "hibernate3-commons-annotations is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945066",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945033"
       },
@@ -1686,7 +1686,7 @@
       "Check": "at least one",
       "Comment": "hibernate3-commons-annotations-javadoc is earlier than 0:4.0.2-1.Final_redhat_1.1.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945067",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945034"
       },
@@ -1698,7 +1698,7 @@
       "Check": "at least one",
       "Comment": "hibernate3-commons-annotations-javadoc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945068",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945034"
       },
@@ -1710,7 +1710,7 @@
       "Check": "at least one",
       "Comment": "dom4j-eap6 is earlier than 0:1.6.1-20.redhat_6.1.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945069",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945035"
       },
@@ -1722,7 +1722,7 @@
       "Check": "at least one",
       "Comment": "dom4j-eap6 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945070",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945035"
       },
@@ -1734,7 +1734,7 @@
       "Check": "at least one",
       "Comment": "javassist-eap6 is earlier than 0:3.18.1-6.GA_redhat_1.1.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945071",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945036"
       },
@@ -1746,7 +1746,7 @@
       "Check": "at least one",
       "Comment": "javassist-eap6 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945072",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945036"
       },
@@ -1758,7 +1758,7 @@
       "Check": "at least one",
       "Comment": "hibernate-jpa-2.0-api is earlier than 0:1.0.1-6.Final_redhat_3.1.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945073",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945037"
       },
@@ -1770,7 +1770,7 @@
       "Check": "at least one",
       "Comment": "hibernate-jpa-2.0-api is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945074",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945037"
       },
@@ -1782,7 +1782,7 @@
       "Check": "at least one",
       "Comment": "mod_jk-ap24 is earlier than 0:1.2.40-7.redhat_1.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945075",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20166808001"
       },
@@ -1794,7 +1794,7 @@
       "Check": "at least one",
       "Comment": "mod_jk-manual is earlier than 0:1.2.40-7.redhat_1.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945077",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20166808003"
       },
@@ -1806,7 +1806,7 @@
       "Check": "at least one",
       "Comment": "ecj-eap6 is earlier than 0:4.4.2-1.redhat_1.1.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945079",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945040"
       },
@@ -1818,7 +1818,7 @@
       "Check": "at least one",
       "Comment": "ecj-eap6 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945080",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945040"
       },
@@ -1830,7 +1830,7 @@
       "Check": "at least one",
       "Comment": "apache-commons-daemon-eap6 is earlier than 1:1.0.15-8.redhat_1.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945081",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945041"
       },
@@ -1842,7 +1842,7 @@
       "Check": "at least one",
       "Comment": "apache-commons-daemon-eap6 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945082",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945041"
       },
@@ -1854,7 +1854,7 @@
       "Check": "at least one",
       "Comment": "log4j-eap6 is earlier than 0:1.2.16-11.redhat_2.ep6.el6.4",
       "ID": "oval:com.redhat.rhea:tst:20150945083",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20209488001"
       },
@@ -1866,7 +1866,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster-native is earlier than 0:1.3.1-5.Final_redhat_2.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945085",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945043"
       },
@@ -1878,7 +1878,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster-native is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945086",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945043"
       },
@@ -1890,7 +1890,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster is earlier than 0:1.3.1-5.Final_redhat_2.1.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945087",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945044"
       },
@@ -1902,7 +1902,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945088",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945044"
       },
@@ -1914,7 +1914,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster-demo is earlier than 0:1.3.1-5.Final_redhat_2.1.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945089",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945045"
       },
@@ -1926,7 +1926,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster-demo is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945090",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945045"
       },
@@ -1938,7 +1938,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster-tomcat7 is earlier than 0:1.3.1-5.Final_redhat_2.1.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945091",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945046"
       },
@@ -1950,7 +1950,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster-tomcat7 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945092",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945046"
       },
@@ -1962,7 +1962,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster-tomcat8 is earlier than 0:1.3.1-5.Final_redhat_2.1.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945093",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945047"
       },
@@ -1974,7 +1974,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster-tomcat8 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945094",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945047"
       },
@@ -1986,7 +1986,7 @@
       "Check": "at least one",
       "Comment": "jboss-transaction-api_1.1_spec is earlier than 0:1.0.1-13.Final_redhat_3.1.ep6.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945095",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945048"
       },
@@ -1998,7 +1998,7 @@
       "Check": "at least one",
       "Comment": "jboss-transaction-api_1.1_spec is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhea:tst:20150945096",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945048"
       },
@@ -2010,7 +2010,7 @@
       "Check": "at least one",
       "Comment": "httpd24 is earlier than 0:2.4.6-56.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945097",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736003"
       },
@@ -2022,7 +2022,7 @@
       "Check": "at least one",
       "Comment": "httpd24-devel is earlier than 0:2.4.6-56.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945099",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736001"
       },
@@ -2034,7 +2034,7 @@
       "Check": "at least one",
       "Comment": "httpd24-manual is earlier than 0:2.4.6-56.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945101",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736002"
       },
@@ -2046,7 +2046,7 @@
       "Check": "at least one",
       "Comment": "httpd24-tools is earlier than 0:2.4.6-56.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945103",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736006"
       },
@@ -2058,7 +2058,7 @@
       "Check": "at least one",
       "Comment": "mod_ldap24 is earlier than 0:2.4.6-56.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945105",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736004"
       },
@@ -2070,7 +2070,7 @@
       "Check": "at least one",
       "Comment": "mod_proxy24_html is earlier than 1:2.4.6-56.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945107",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736008"
       },
@@ -2082,7 +2082,7 @@
       "Check": "at least one",
       "Comment": "mod_session24 is earlier than 0:2.4.6-56.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945109",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736007"
       },
@@ -2094,7 +2094,7 @@
       "Check": "at least one",
       "Comment": "mod_ssl24 is earlier than 1:2.4.6-56.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945111",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736005"
       },
@@ -2106,7 +2106,7 @@
       "Check": "at least one",
       "Comment": "tomcat8 is earlier than 0:8.0.18-15_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945113",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056008"
       },
@@ -2118,7 +2118,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-admin-webapps is earlier than 0:8.0.18-15_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945115",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056011"
       },
@@ -2130,7 +2130,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-docs-webapp is earlier than 0:8.0.18-15_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945117",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056024"
       },
@@ -2142,7 +2142,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-el-2.2-api is earlier than 0:8.0.18-15_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945119",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056010"
       },
@@ -2154,7 +2154,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-javadoc is earlier than 0:8.0.18-15_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945121",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056019"
       },
@@ -2166,7 +2166,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-jsp-2.3-api is earlier than 0:8.0.18-15_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945123",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056017"
       },
@@ -2178,7 +2178,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-lib is earlier than 0:8.0.18-15_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945125",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056004"
       },
@@ -2190,7 +2190,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-log4j is earlier than 0:8.0.18-15_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945127",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056023"
       },
@@ -2202,7 +2202,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-servlet-3.1-api is earlier than 0:8.0.18-15_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945129",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056006"
       },
@@ -2214,7 +2214,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-webapps is earlier than 0:8.0.18-15_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945131",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056003"
       },
@@ -2226,7 +2226,7 @@
       "Check": "at least one",
       "Comment": "tomcat7 is earlier than 0:7.0.59-16_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945133",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056001"
       },
@@ -2238,7 +2238,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-admin-webapps is earlier than 0:7.0.59-16_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945135",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056015"
       },
@@ -2250,7 +2250,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-docs-webapp is earlier than 0:7.0.59-16_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945137",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056013"
       },
@@ -2262,7 +2262,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-el-2.2-api is earlier than 0:7.0.59-16_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945139",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056007"
       },
@@ -2274,7 +2274,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-javadoc is earlier than 0:7.0.59-16_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945141",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056020"
       },
@@ -2286,7 +2286,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-jsp-2.2-api is earlier than 0:7.0.59-16_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945143",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056021"
       },
@@ -2298,7 +2298,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-lib is earlier than 0:7.0.59-16_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945145",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056014"
       },
@@ -2310,7 +2310,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-log4j is earlier than 0:7.0.59-16_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945147",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056016"
       },
@@ -2322,7 +2322,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-servlet-3.0-api is earlier than 0:7.0.59-16_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945149",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056002"
       },
@@ -2334,7 +2334,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-webapps is earlier than 0:7.0.59-16_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20150945151",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056022"
       },
@@ -2346,7 +2346,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster is earlier than 0:1.3.1-8.Final_redhat_3.1.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945044"
       },
@@ -2358,7 +2358,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster-tomcat7 is earlier than 0:1.3.1-8.Final_redhat_3.1.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771003",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945046"
       },
@@ -2370,7 +2370,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster-tomcat8 is earlier than 0:1.3.1-8.Final_redhat_3.1.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771005",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945047"
       },
@@ -2382,7 +2382,7 @@
       "Check": "at least one",
       "Comment": "mod_bmx is earlier than 0:0.9.5-5.GA.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771007",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945027"
       },
@@ -2394,7 +2394,7 @@
       "Check": "at least one",
       "Comment": "mod_jk-ap24 is earlier than 0:1.2.40-8.redhat_1.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771009",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20166808001"
       },
@@ -2406,7 +2406,7 @@
       "Check": "at least one",
       "Comment": "mod_jk-manual is earlier than 0:1.2.40-8.redhat_1.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771011",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20166808003"
       },
@@ -2418,7 +2418,7 @@
       "Check": "at least one",
       "Comment": "tomcat8 is earlier than 0:8.0.18-25_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771013",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056008"
       },
@@ -2430,7 +2430,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-admin-webapps is earlier than 0:8.0.18-25_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771015",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056011"
       },
@@ -2442,7 +2442,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-docs-webapp is earlier than 0:8.0.18-25_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771017",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056024"
       },
@@ -2454,7 +2454,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-el-2.2-api is earlier than 0:8.0.18-25_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771019",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056010"
       },
@@ -2466,7 +2466,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-javadoc is earlier than 0:8.0.18-25_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771021",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056019"
       },
@@ -2478,7 +2478,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-jsp-2.3-api is earlier than 0:8.0.18-25_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771023",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056017"
       },
@@ -2490,7 +2490,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-lib is earlier than 0:8.0.18-25_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771025",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056004"
       },
@@ -2502,7 +2502,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-log4j is earlier than 0:8.0.18-25_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771027",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056023"
       },
@@ -2514,7 +2514,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-servlet-3.1-api is earlier than 0:8.0.18-25_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771029",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056006"
       },
@@ -2526,7 +2526,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-webapps is earlier than 0:8.0.18-25_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771031",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056003"
       },
@@ -2538,7 +2538,7 @@
       "Check": "at least one",
       "Comment": "mod_security-jws3 is earlier than 0:2.8.0-6.GA.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771033",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945016"
       },
@@ -2550,7 +2550,7 @@
       "Check": "at least one",
       "Comment": "tomcat7 is earlier than 0:7.0.59-26_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771035",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056001"
       },
@@ -2562,7 +2562,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-admin-webapps is earlier than 0:7.0.59-26_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771037",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056015"
       },
@@ -2574,7 +2574,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-docs-webapp is earlier than 0:7.0.59-26_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771039",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056013"
       },
@@ -2586,7 +2586,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-el-2.2-api is earlier than 0:7.0.59-26_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771041",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056007"
       },
@@ -2598,7 +2598,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-javadoc is earlier than 0:7.0.59-26_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771043",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056020"
       },
@@ -2610,7 +2610,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-jsp-2.2-api is earlier than 0:7.0.59-26_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771045",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056021"
       },
@@ -2622,7 +2622,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-lib is earlier than 0:7.0.59-26_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771047",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056014"
       },
@@ -2634,7 +2634,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-log4j is earlier than 0:7.0.59-26_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771049",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056016"
       },
@@ -2646,7 +2646,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-servlet-3.0-api is earlier than 0:7.0.59-26_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771051",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056002"
       },
@@ -2658,7 +2658,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-webapps is earlier than 0:7.0.59-26_patch_00.ep7.el6",
       "ID": "oval:com.redhat.rhea:tst:20151771053",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056022"
       },
@@ -2670,7 +2670,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster-native is earlier than 0:1.3.1-6.Final_redhat_2.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659001",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945043"
       },
@@ -2682,7 +2682,7 @@
       "Check": "at least one",
       "Comment": "tomcat-vault is earlier than 0:1.0.8-4.Final_redhat_4.1.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659003",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20152659002"
       },
@@ -2694,7 +2694,7 @@
       "Check": "at least one",
       "Comment": "tomcat-vault is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20152659004",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20152659002"
       },
@@ -2706,7 +2706,7 @@
       "Check": "at least one",
       "Comment": "mod_bmx is earlier than 0:0.9.5-7.GA.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659005",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945027"
       },
@@ -2718,7 +2718,7 @@
       "Check": "at least one",
       "Comment": "httpd24 is earlier than 0:2.4.6-59.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659007",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736003"
       },
@@ -2730,7 +2730,7 @@
       "Check": "at least one",
       "Comment": "httpd24-devel is earlier than 0:2.4.6-59.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659009",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736001"
       },
@@ -2742,7 +2742,7 @@
       "Check": "at least one",
       "Comment": "httpd24-manual is earlier than 0:2.4.6-59.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659011",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736002"
       },
@@ -2754,7 +2754,7 @@
       "Check": "at least one",
       "Comment": "httpd24-tools is earlier than 0:2.4.6-59.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659013",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736006"
       },
@@ -2766,7 +2766,7 @@
       "Check": "at least one",
       "Comment": "mod_ldap24 is earlier than 0:2.4.6-59.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659015",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736004"
       },
@@ -2778,7 +2778,7 @@
       "Check": "at least one",
       "Comment": "mod_proxy24_html is earlier than 1:2.4.6-59.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659017",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736008"
       },
@@ -2790,7 +2790,7 @@
       "Check": "at least one",
       "Comment": "mod_session24 is earlier than 0:2.4.6-59.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659019",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736007"
       },
@@ -2802,7 +2802,7 @@
       "Check": "at least one",
       "Comment": "mod_ssl24 is earlier than 1:2.4.6-59.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659021",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736005"
       },
@@ -2814,7 +2814,7 @@
       "Check": "at least one",
       "Comment": "tomcat7 is earlier than 0:7.0.59-42_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659023",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056001"
       },
@@ -2826,7 +2826,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-admin-webapps is earlier than 0:7.0.59-42_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659025",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056015"
       },
@@ -2838,7 +2838,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-docs-webapp is earlier than 0:7.0.59-42_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659027",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056013"
       },
@@ -2850,7 +2850,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-el-2.2-api is earlier than 0:7.0.59-42_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659029",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056007"
       },
@@ -2862,7 +2862,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-javadoc is earlier than 0:7.0.59-42_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659031",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056020"
       },
@@ -2874,7 +2874,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-jsp-2.2-api is earlier than 0:7.0.59-42_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659033",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056021"
       },
@@ -2886,7 +2886,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-lib is earlier than 0:7.0.59-42_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659035",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056014"
       },
@@ -2898,7 +2898,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-log4j is earlier than 0:7.0.59-42_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659037",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056016"
       },
@@ -2910,7 +2910,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-servlet-3.0-api is earlier than 0:7.0.59-42_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659039",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056002"
       },
@@ -2922,7 +2922,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-webapps is earlier than 0:7.0.59-42_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659041",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056022"
       },
@@ -2934,7 +2934,7 @@
       "Check": "at least one",
       "Comment": "tomcat8 is earlier than 0:8.0.18-52_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659043",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056008"
       },
@@ -2946,7 +2946,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-admin-webapps is earlier than 0:8.0.18-52_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659045",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056011"
       },
@@ -2958,7 +2958,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-docs-webapp is earlier than 0:8.0.18-52_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659047",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056024"
       },
@@ -2970,7 +2970,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-el-2.2-api is earlier than 0:8.0.18-52_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659049",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056010"
       },
@@ -2982,7 +2982,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-javadoc is earlier than 0:8.0.18-52_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659051",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056019"
       },
@@ -2994,7 +2994,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-jsp-2.3-api is earlier than 0:8.0.18-52_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659053",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056017"
       },
@@ -3006,7 +3006,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-lib is earlier than 0:8.0.18-52_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659055",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056004"
       },
@@ -3018,7 +3018,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-log4j is earlier than 0:8.0.18-52_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659057",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056023"
       },
@@ -3030,7 +3030,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-servlet-3.1-api is earlier than 0:8.0.18-52_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659059",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056006"
       },
@@ -3042,7 +3042,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-webapps is earlier than 0:8.0.18-52_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659061",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056003"
       },
@@ -3054,7 +3054,7 @@
       "Check": "at least one",
       "Comment": "apache-commons-collections-eap6 is earlier than 0:3.2.1-18.redhat_7.1.ep6.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659063",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945019"
       },
@@ -3066,7 +3066,7 @@
       "Check": "at least one",
       "Comment": "apache-commons-collections-tomcat-eap6 is earlier than 0:3.2.1-18.redhat_7.1.ep6.el6",
       "ID": "oval:com.redhat.rhsa:tst:20152659065",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945020"
       },
@@ -3078,7 +3078,7 @@
       "Check": "at least one",
       "Comment": "httpd24 is earlier than 0:2.4.6-61.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087001",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736003"
       },
@@ -3090,7 +3090,7 @@
       "Check": "at least one",
       "Comment": "httpd24-devel is earlier than 0:2.4.6-61.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087003",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736001"
       },
@@ -3102,7 +3102,7 @@
       "Check": "at least one",
       "Comment": "httpd24-manual is earlier than 0:2.4.6-61.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087005",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736002"
       },
@@ -3114,7 +3114,7 @@
       "Check": "at least one",
       "Comment": "httpd24-tools is earlier than 0:2.4.6-61.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087007",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736006"
       },
@@ -3126,7 +3126,7 @@
       "Check": "at least one",
       "Comment": "mod_ldap24 is earlier than 0:2.4.6-61.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087009",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736004"
       },
@@ -3138,7 +3138,7 @@
       "Check": "at least one",
       "Comment": "mod_proxy24_html is earlier than 1:2.4.6-61.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087011",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736008"
       },
@@ -3150,7 +3150,7 @@
       "Check": "at least one",
       "Comment": "mod_session24 is earlier than 0:2.4.6-61.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087013",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736007"
       },
@@ -3162,7 +3162,7 @@
       "Check": "at least one",
       "Comment": "mod_ssl24 is earlier than 1:2.4.6-61.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087015",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736005"
       },
@@ -3174,7 +3174,7 @@
       "Check": "at least one",
       "Comment": "mod_security-jws3 is earlier than 0:2.8.0-7.GA.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087017",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945016"
       },
@@ -3186,7 +3186,7 @@
       "Check": "at least one",
       "Comment": "tomcat7 is earlier than 0:7.0.59-50_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087019",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056001"
       },
@@ -3198,7 +3198,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-admin-webapps is earlier than 0:7.0.59-50_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087021",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056015"
       },
@@ -3210,7 +3210,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-docs-webapp is earlier than 0:7.0.59-50_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087023",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056013"
       },
@@ -3222,7 +3222,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-el-2.2-api is earlier than 0:7.0.59-50_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087025",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056007"
       },
@@ -3234,7 +3234,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-javadoc is earlier than 0:7.0.59-50_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087027",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056020"
       },
@@ -3246,7 +3246,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-jsp-2.2-api is earlier than 0:7.0.59-50_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087029",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056021"
       },
@@ -3258,7 +3258,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-lib is earlier than 0:7.0.59-50_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087031",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056014"
       },
@@ -3270,7 +3270,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-log4j is earlier than 0:7.0.59-50_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087033",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056016"
       },
@@ -3282,7 +3282,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-servlet-3.0-api is earlier than 0:7.0.59-50_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087035",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056002"
       },
@@ -3294,7 +3294,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-webapps is earlier than 0:7.0.59-50_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087037",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056022"
       },
@@ -3306,7 +3306,7 @@
       "Check": "at least one",
       "Comment": "tomcat8 is earlier than 0:8.0.18-61_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087039",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056008"
       },
@@ -3318,7 +3318,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-admin-webapps is earlier than 0:8.0.18-61_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087041",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056011"
       },
@@ -3330,7 +3330,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-docs-webapp is earlier than 0:8.0.18-61_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087043",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056024"
       },
@@ -3342,7 +3342,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-el-2.2-api is earlier than 0:8.0.18-61_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087045",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056010"
       },
@@ -3354,7 +3354,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-javadoc is earlier than 0:8.0.18-61_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087047",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056019"
       },
@@ -3366,7 +3366,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-jsp-2.3-api is earlier than 0:8.0.18-61_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087049",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056017"
       },
@@ -3378,7 +3378,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-lib is earlier than 0:8.0.18-61_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087051",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056004"
       },
@@ -3390,7 +3390,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-log4j is earlier than 0:8.0.18-61_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087053",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056023"
       },
@@ -3402,7 +3402,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-servlet-3.1-api is earlier than 0:8.0.18-61_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087055",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056006"
       },
@@ -3414,7 +3414,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-webapps is earlier than 0:8.0.18-61_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161087057",
-      "Version": "645",
+      "Version": "646",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056003"
       },
@@ -3426,7 +3426,7 @@
       "Check": "at least one",
       "Comment": "tomcat7 is earlier than 0:7.0.59-51_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636001",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056001"
       },
@@ -3438,7 +3438,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-admin-webapps is earlier than 0:7.0.59-51_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636003",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056015"
       },
@@ -3450,7 +3450,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-docs-webapp is earlier than 0:7.0.59-51_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636005",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056013"
       },
@@ -3462,7 +3462,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-el-2.2-api is earlier than 0:7.0.59-51_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636007",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056007"
       },
@@ -3474,7 +3474,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-javadoc is earlier than 0:7.0.59-51_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636009",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056020"
       },
@@ -3486,7 +3486,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-jsp-2.2-api is earlier than 0:7.0.59-51_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636011",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056021"
       },
@@ -3498,7 +3498,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-lib is earlier than 0:7.0.59-51_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636013",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056014"
       },
@@ -3510,7 +3510,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-log4j is earlier than 0:7.0.59-51_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636015",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056016"
       },
@@ -3522,7 +3522,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-servlet-3.0-api is earlier than 0:7.0.59-51_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636017",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056002"
       },
@@ -3534,7 +3534,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-webapps is earlier than 0:7.0.59-51_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636019",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056022"
       },
@@ -3546,7 +3546,7 @@
       "Check": "at least one",
       "Comment": "tomcat8 is earlier than 0:8.0.18-62_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636021",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056008"
       },
@@ -3558,7 +3558,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-admin-webapps is earlier than 0:8.0.18-62_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636023",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056011"
       },
@@ -3570,7 +3570,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-docs-webapp is earlier than 0:8.0.18-62_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636025",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056024"
       },
@@ -3582,7 +3582,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-el-2.2-api is earlier than 0:8.0.18-62_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636027",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056010"
       },
@@ -3594,7 +3594,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-javadoc is earlier than 0:8.0.18-62_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636029",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056019"
       },
@@ -3606,7 +3606,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-jsp-2.3-api is earlier than 0:8.0.18-62_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636031",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056017"
       },
@@ -3618,7 +3618,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-lib is earlier than 0:8.0.18-62_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636033",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056004"
       },
@@ -3630,7 +3630,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-log4j is earlier than 0:8.0.18-62_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636035",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056023"
       },
@@ -3642,7 +3642,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-servlet-3.1-api is earlier than 0:8.0.18-62_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636037",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056006"
       },
@@ -3654,7 +3654,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-webapps is earlier than 0:8.0.18-62_patch_01.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636039",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056003"
       },
@@ -3666,7 +3666,7 @@
       "Check": "at least one",
       "Comment": "httpd24 is earlier than 0:2.4.6-62.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636041",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736003"
       },
@@ -3678,7 +3678,7 @@
       "Check": "at least one",
       "Comment": "httpd24-devel is earlier than 0:2.4.6-62.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636043",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736001"
       },
@@ -3690,7 +3690,7 @@
       "Check": "at least one",
       "Comment": "httpd24-manual is earlier than 0:2.4.6-62.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636045",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736002"
       },
@@ -3702,7 +3702,7 @@
       "Check": "at least one",
       "Comment": "httpd24-tools is earlier than 0:2.4.6-62.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636047",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736006"
       },
@@ -3714,7 +3714,7 @@
       "Check": "at least one",
       "Comment": "mod_ldap24 is earlier than 0:2.4.6-62.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636049",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736004"
       },
@@ -3726,7 +3726,7 @@
       "Check": "at least one",
       "Comment": "mod_proxy24_html is earlier than 1:2.4.6-62.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636051",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736008"
       },
@@ -3738,7 +3738,7 @@
       "Check": "at least one",
       "Comment": "mod_session24 is earlier than 0:2.4.6-62.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636053",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736007"
       },
@@ -3750,7 +3750,7 @@
       "Check": "at least one",
       "Comment": "mod_ssl24 is earlier than 1:2.4.6-62.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20161636055",
-      "Version": "643",
+      "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20160736005"
       },
@@ -3762,7 +3762,7 @@
       "Check": "at least one",
       "Comment": "hibernate4-c3p0-eap6 is earlier than 0:4.2.23-1.Final_redhat_1.1.ep6.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455001",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945028"
       },
@@ -3774,7 +3774,7 @@
       "Check": "at least one",
       "Comment": "hibernate4-core-eap6 is earlier than 0:4.2.23-1.Final_redhat_1.1.ep6.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455003",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945029"
       },
@@ -3786,7 +3786,7 @@
       "Check": "at least one",
       "Comment": "hibernate4-eap6 is earlier than 0:4.2.23-1.Final_redhat_1.1.ep6.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455005",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945030"
       },
@@ -3798,7 +3798,7 @@
       "Check": "at least one",
       "Comment": "hibernate4-entitymanager-eap6 is earlier than 0:4.2.23-1.Final_redhat_1.1.ep6.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455007",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945031"
       },
@@ -3810,7 +3810,7 @@
       "Check": "at least one",
       "Comment": "hibernate4-envers-eap6 is earlier than 0:4.2.23-1.Final_redhat_1.1.ep6.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455009",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945032"
       },
@@ -3822,7 +3822,7 @@
       "Check": "at least one",
       "Comment": "jbcs-httpd24-apache-commons-daemon-jsvc is earlier than 1:1.0.15-17.redhat_2.jbcs.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455011",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20170455006"
       },
@@ -3834,7 +3834,7 @@
       "Check": "at least one",
       "Comment": "jbcs-httpd24-apache-commons-daemon-jsvc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20170455012",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20170455006"
       },
@@ -3846,7 +3846,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster is earlier than 0:1.3.5-2.Final_redhat_2.1.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455013",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945044"
       },
@@ -3858,7 +3858,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster-tomcat7 is earlier than 0:1.3.5-2.Final_redhat_2.1.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455015",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945046"
       },
@@ -3870,7 +3870,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster-tomcat8 is earlier than 0:1.3.5-2.Final_redhat_2.1.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455017",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945047"
       },
@@ -3882,7 +3882,7 @@
       "Check": "at least one",
       "Comment": "jbcs-httpd24-apache-commons-daemon is earlier than 0:1.0.15-1.redhat_2.1.jbcs.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455019",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20170455010"
       },
@@ -3894,7 +3894,7 @@
       "Check": "at least one",
       "Comment": "jbcs-httpd24-apache-commons-daemon is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20170455020",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20170455010"
       },
@@ -3906,7 +3906,7 @@
       "Check": "at least one",
       "Comment": "jbcs-httpd24-runtime is earlier than 0:1-3.jbcs.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455021",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20170455011"
       },
@@ -3918,7 +3918,7 @@
       "Check": "at least one",
       "Comment": "jbcs-httpd24-runtime is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20170455022",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20170455011"
       },
@@ -3930,7 +3930,7 @@
       "Check": "at least one",
       "Comment": "tomcat-vault is earlier than 0:1.0.8-9.Final_redhat_2.1.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455023",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20152659002"
       },
@@ -3942,7 +3942,7 @@
       "Check": "at least one",
       "Comment": "tomcat7 is earlier than 0:7.0.70-16.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455025",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056001"
       },
@@ -3954,7 +3954,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-admin-webapps is earlier than 0:7.0.70-16.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455027",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056015"
       },
@@ -3966,7 +3966,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-docs-webapp is earlier than 0:7.0.70-16.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455029",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056013"
       },
@@ -3978,7 +3978,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-el-2.2-api is earlier than 0:7.0.70-16.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455031",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056007"
       },
@@ -3990,7 +3990,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-javadoc is earlier than 0:7.0.70-16.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455033",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056020"
       },
@@ -4002,7 +4002,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-jsp-2.2-api is earlier than 0:7.0.70-16.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455035",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056021"
       },
@@ -4014,7 +4014,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-jsvc is earlier than 0:7.0.70-16.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455037",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056012"
       },
@@ -4026,7 +4026,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-lib is earlier than 0:7.0.70-16.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455039",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056014"
       },
@@ -4038,7 +4038,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-log4j is earlier than 0:7.0.70-16.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455041",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056016"
       },
@@ -4050,7 +4050,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-selinux is earlier than 0:7.0.70-16.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455043",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056009"
       },
@@ -4062,7 +4062,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-servlet-3.0-api is earlier than 0:7.0.70-16.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455045",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056002"
       },
@@ -4074,7 +4074,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-webapps is earlier than 0:7.0.70-16.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455047",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056022"
       },
@@ -4086,7 +4086,7 @@
       "Check": "at least one",
       "Comment": "tomcat8 is earlier than 0:8.0.36-17.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455049",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056008"
       },
@@ -4098,7 +4098,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-admin-webapps is earlier than 0:8.0.36-17.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455051",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056011"
       },
@@ -4110,7 +4110,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-docs-webapp is earlier than 0:8.0.36-17.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455053",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056024"
       },
@@ -4122,7 +4122,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-el-2.2-api is earlier than 0:8.0.36-17.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455055",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056010"
       },
@@ -4134,7 +4134,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-javadoc is earlier than 0:8.0.36-17.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455057",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056019"
       },
@@ -4146,7 +4146,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-jsp-2.3-api is earlier than 0:8.0.36-17.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455059",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056017"
       },
@@ -4158,7 +4158,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-jsvc is earlier than 0:8.0.36-17.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455061",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056018"
       },
@@ -4170,7 +4170,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-lib is earlier than 0:8.0.36-17.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455063",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056004"
       },
@@ -4182,7 +4182,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-log4j is earlier than 0:8.0.36-17.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455065",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056023"
       },
@@ -4194,7 +4194,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-selinux is earlier than 0:8.0.36-17.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455067",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056005"
       },
@@ -4206,7 +4206,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-servlet-3.1-api is earlier than 0:8.0.36-17.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455069",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056006"
       },
@@ -4218,7 +4218,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-webapps is earlier than 0:8.0.36-17.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455071",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056003"
       },
@@ -4230,7 +4230,7 @@
       "Check": "at least one",
       "Comment": "tomcat-native is earlier than 0:1.2.8-9.redhat_9.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20170455073",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945002"
       },
@@ -4554,7 +4554,7 @@
       "Check": "at least one",
       "Comment": "tomcat-native is earlier than 0:1.2.8-11.redhat_11.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945002"
       },
@@ -4566,7 +4566,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster is earlier than 0:1.3.8-2.Final_redhat_2.1.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466003",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945044"
       },
@@ -4578,7 +4578,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster-tomcat7 is earlier than 0:1.3.8-2.Final_redhat_2.1.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466005",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945046"
       },
@@ -4590,7 +4590,7 @@
       "Check": "at least one",
       "Comment": "mod_cluster-tomcat8 is earlier than 0:1.3.8-2.Final_redhat_2.1.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466007",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945047"
       },
@@ -4602,7 +4602,7 @@
       "Check": "at least one",
       "Comment": "tomcat-vault is earlier than 0:1.1.6-1.Final_redhat_1.1.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466009",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20152659002"
       },
@@ -4614,7 +4614,7 @@
       "Check": "at least one",
       "Comment": "tomcat-vault-tomcat7 is earlier than 0:1.1.6-1.Final_redhat_1.1.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466011",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20180466006"
       },
@@ -4626,7 +4626,7 @@
       "Check": "at least one",
       "Comment": "tomcat-vault-tomcat7 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20180466012",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20180466006"
       },
@@ -4638,7 +4638,7 @@
       "Check": "at least one",
       "Comment": "tomcat-vault-tomcat8 is earlier than 0:1.1.6-1.Final_redhat_1.1.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466013",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20180466007"
       },
@@ -4650,7 +4650,7 @@
       "Check": "at least one",
       "Comment": "tomcat-vault-tomcat8 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20180466014",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20180466007"
       },
@@ -4662,7 +4662,7 @@
       "Check": "at least one",
       "Comment": "tomcat7 is earlier than 0:7.0.70-25.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466015",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056001"
       },
@@ -4674,7 +4674,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-admin-webapps is earlier than 0:7.0.70-25.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466017",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056015"
       },
@@ -4686,7 +4686,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-docs-webapp is earlier than 0:7.0.70-25.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466019",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056013"
       },
@@ -4698,7 +4698,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-el-2.2-api is earlier than 0:7.0.70-25.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466021",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056007"
       },
@@ -4710,7 +4710,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-javadoc is earlier than 0:7.0.70-25.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466023",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056020"
       },
@@ -4722,7 +4722,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-jsp-2.2-api is earlier than 0:7.0.70-25.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466025",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056021"
       },
@@ -4734,7 +4734,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-jsvc is earlier than 0:7.0.70-25.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466027",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056012"
       },
@@ -4746,7 +4746,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-lib is earlier than 0:7.0.70-25.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466029",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056014"
       },
@@ -4758,7 +4758,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-log4j is earlier than 0:7.0.70-25.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466031",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056016"
       },
@@ -4770,7 +4770,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-selinux is earlier than 0:7.0.70-25.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466033",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056009"
       },
@@ -4782,7 +4782,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-servlet-3.0-api is earlier than 0:7.0.70-25.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466035",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056002"
       },
@@ -4794,7 +4794,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-webapps is earlier than 0:7.0.70-25.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466037",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056022"
       },
@@ -4806,7 +4806,7 @@
       "Check": "at least one",
       "Comment": "tomcat8 is earlier than 0:8.0.36-29.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466039",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056008"
       },
@@ -4818,7 +4818,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-admin-webapps is earlier than 0:8.0.36-29.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466041",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056011"
       },
@@ -4830,7 +4830,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-docs-webapp is earlier than 0:8.0.36-29.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466043",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056024"
       },
@@ -4842,7 +4842,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-el-2.2-api is earlier than 0:8.0.36-29.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466045",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056010"
       },
@@ -4854,7 +4854,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-javadoc is earlier than 0:8.0.36-29.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466047",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056019"
       },
@@ -4866,7 +4866,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-jsp-2.3-api is earlier than 0:8.0.36-29.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466049",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056017"
       },
@@ -4878,7 +4878,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-jsvc is earlier than 0:8.0.36-29.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466051",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056018"
       },
@@ -4890,7 +4890,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-lib is earlier than 0:8.0.36-29.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466053",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056004"
       },
@@ -4902,7 +4902,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-log4j is earlier than 0:8.0.36-29.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466055",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056023"
       },
@@ -4914,7 +4914,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-selinux is earlier than 0:8.0.36-29.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466057",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056005"
       },
@@ -4926,7 +4926,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-servlet-3.1-api is earlier than 0:8.0.36-29.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466059",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056006"
       },
@@ -4938,7 +4938,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-webapps is earlier than 0:8.0.36-29.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20180466061",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056003"
       },
@@ -5838,7 +5838,7 @@
       "Check": "at least one",
       "Comment": "tomcat-native is earlier than 0:1.2.17-19.redhat_19.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711001",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhea:obj:20150945002"
       },
@@ -5850,7 +5850,7 @@
       "Check": "at least one",
       "Comment": "tomcat7 is earlier than 0:7.0.70-34.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711003",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056001"
       },
@@ -5862,7 +5862,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-admin-webapps is earlier than 0:7.0.70-34.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711005",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056015"
       },
@@ -5874,7 +5874,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-docs-webapp is earlier than 0:7.0.70-34.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711007",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056013"
       },
@@ -5886,7 +5886,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-el-2.2-api is earlier than 0:7.0.70-34.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711009",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056007"
       },
@@ -5898,7 +5898,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-javadoc is earlier than 0:7.0.70-34.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711011",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056020"
       },
@@ -5910,7 +5910,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-jsp-2.2-api is earlier than 0:7.0.70-34.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711013",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056021"
       },
@@ -5922,7 +5922,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-jsvc is earlier than 0:7.0.70-34.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711015",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056012"
       },
@@ -5934,7 +5934,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-lib is earlier than 0:7.0.70-34.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711017",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056014"
       },
@@ -5946,7 +5946,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-log4j is earlier than 0:7.0.70-34.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711019",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056016"
       },
@@ -5958,7 +5958,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-selinux is earlier than 0:7.0.70-34.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711021",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056009"
       },
@@ -5970,7 +5970,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-servlet-3.0-api is earlier than 0:7.0.70-34.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711023",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056002"
       },
@@ -5982,7 +5982,7 @@
       "Check": "at least one",
       "Comment": "tomcat7-webapps is earlier than 0:7.0.70-34.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711025",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056022"
       },
@@ -5994,7 +5994,7 @@
       "Check": "at least one",
       "Comment": "tomcat8 is earlier than 0:8.0.36-39.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711027",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056008"
       },
@@ -6006,7 +6006,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-admin-webapps is earlier than 0:8.0.36-39.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711029",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056011"
       },
@@ -6018,7 +6018,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-docs-webapp is earlier than 0:8.0.36-39.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711031",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056024"
       },
@@ -6030,7 +6030,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-el-2.2-api is earlier than 0:8.0.36-39.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711033",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056010"
       },
@@ -6042,7 +6042,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-javadoc is earlier than 0:8.0.36-39.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711035",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056019"
       },
@@ -6054,7 +6054,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-jsp-2.3-api is earlier than 0:8.0.36-39.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711037",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056017"
       },
@@ -6066,7 +6066,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-jsvc is earlier than 0:8.0.36-39.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711039",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056018"
       },
@@ -6078,7 +6078,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-lib is earlier than 0:8.0.36-39.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711041",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056004"
       },
@@ -6090,7 +6090,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-log4j is earlier than 0:8.0.36-39.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711043",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056023"
       },
@@ -6102,7 +6102,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-selinux is earlier than 0:8.0.36-39.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711045",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056005"
       },
@@ -6114,7 +6114,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-servlet-3.1-api is earlier than 0:8.0.36-39.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711047",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056006"
       },
@@ -6126,7 +6126,7 @@
       "Check": "at least one",
       "Comment": "tomcat8-webapps is earlier than 0:8.0.36-39.ep7.el6",
       "ID": "oval:com.redhat.rhsa:tst:20191711049",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20176056003"
       },
@@ -7133,19 +7133,8 @@
     },
     {
       "Check": "at least one",
-      "Comment": "tomcat is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20166817002",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202124122001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "tomcat8-jsp-2.3-api is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20168747002",
+      "ID": "oval:com.redhat.unaffected:tst:20166817002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -7155,19 +7144,8 @@
     },
     {
       "Check": "at least one",
-      "Comment": "tomcat8-jsvc is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20168747004",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20176056018"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "tomcat8-el-2.2-api is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20168747006",
+      "ID": "oval:com.redhat.unaffected:tst:20166817004",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -7177,19 +7155,30 @@
     },
     {
       "Check": "at least one",
-      "Comment": "tomcat8-admin-webapps is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20168747008",
+      "Comment": "tomcat8-selinux is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20166817006",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20176056011"
+        "ObjectRef": "oval:com.redhat.cve:obj:20176056005"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat8 is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20166817008",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20176056008"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "tomcat8-javadoc is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20168747010",
+      "ID": "oval:com.redhat.unaffected:tst:20166817010",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -7200,7 +7189,7 @@
     {
       "Check": "at least one",
       "Comment": "tomcat8-webapps is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20168747012",
+      "ID": "oval:com.redhat.unaffected:tst:20166817012",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -7210,30 +7199,8 @@
     },
     {
       "Check": "at least one",
-      "Comment": "tomcat8-lib is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20168747014",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20176056004"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tomcat8-selinux is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20168747016",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20176056005"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "tomcat8-servlet-3.1-api is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20168747018",
+      "ID": "oval:com.redhat.unaffected:tst:20166817014",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -7243,19 +7210,8 @@
     },
     {
       "Check": "at least one",
-      "Comment": "tomcat8-log4j is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20168747020",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20176056023"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "tomcat8-docs-webapp is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20168747022",
+      "ID": "oval:com.redhat.unaffected:tst:20166817016",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -7265,12 +7221,45 @@
     },
     {
       "Check": "at least one",
-      "Comment": "tomcat8 is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20168747024",
+      "Comment": "tomcat8-lib is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20166817018",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20176056008"
+        "ObjectRef": "oval:com.redhat.cve:obj:20176056004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat8-jsvc is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20166817020",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20176056018"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat8-admin-webapps is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20166817022",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20176056011"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat8-log4j is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20166817024",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20176056023"
       },
       "State": {}
     },
@@ -7436,6 +7425,17 @@
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20166808002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20181199002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202124122001"
       },
       "State": {}
     },

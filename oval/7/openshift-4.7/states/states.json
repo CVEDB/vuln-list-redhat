@@ -102,7 +102,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20210958001",
-      "Version": "640",
+      "Version": "641",
       "Arch": {
         "Text": "x86_64",
         "Datatype": "string",
@@ -117,7 +117,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20210958003",
-      "Version": "640",
+      "Version": "641",
       "Arch": {
         "Text": "x86_64",
         "Datatype": "string",
@@ -222,7 +222,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20211562001",
-      "Version": "640",
+      "Version": "641",
       "Arch": {
         "Text": "x86_64",
         "Datatype": "string",
@@ -297,7 +297,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20213635001",
-      "Version": "637",
+      "Version": "638",
       "Arch": {
         "Text": "x86_64",
         "Datatype": "string",
@@ -327,7 +327,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20220870001",
-      "Version": "636",
+      "Version": "637",
       "Arch": {
         "Text": "x86_64",
         "Datatype": "string",
@@ -342,7 +342,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20221336001",
-      "Version": "638",
+      "Version": "639",
       "Arch": {
         "Text": "x86_64",
         "Datatype": "string",
@@ -357,7 +357,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20224965001",
-      "Version": "640",
+      "Version": "641",
       "Arch": {
         "Text": "x86_64",
         "Datatype": "string",
@@ -372,7 +372,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20224965003",
-      "Version": "640",
+      "Version": "641",
       "Arch": {
         "Text": "x86_64",
         "Datatype": "string",

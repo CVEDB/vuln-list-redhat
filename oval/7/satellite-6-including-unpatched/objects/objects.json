@@ -208,12 +208,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:201920444001",
       "Version": "636",
-      "Name": "candlepin-selinux"
+      "Name": "candlepin"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201920444002",
       "Version": "636",
-      "Name": "candlepin"
+      "Name": "candlepin-selinux"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202010108001",
@@ -731,6 +731,16 @@
       "Name": "python-grpcio"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202412224001",
+      "Version": "636",
+      "Name": "python-maturin"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202412224002",
+      "Version": "636",
+      "Name": "python3.12-maturin"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202412801001",
       "Version": "636",
       "Name": "ch.qos.logback/logback-core"
@@ -783,12 +793,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202426130001",
       "Version": "636",
-      "Name": "python3-cryptography"
+      "Name": "python-cryptography"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202426130002",
       "Version": "636",
-      "Name": "python-cryptography"
+      "Name": "python3-cryptography"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202426144001",
@@ -838,22 +848,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:20243651002",
       "Version": "636",
-      "Name": "ansiblerole-foreman_scap_client"
+      "Name": "python3-idna"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20243651003",
       "Version": "636",
-      "Name": "python-idna-ssl"
+      "Name": "python3-idna-ssl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20243651004",
       "Version": "636",
-      "Name": "python3-idna-ssl"
+      "Name": "python-idna-ssl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20243651005",
       "Version": "636",
-      "Name": "python3-idna"
+      "Name": "ansiblerole-foreman_scap_client"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20244067001",
@@ -866,12 +876,12 @@
       "Name": "rubygem-rabl"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202441946004",
+      "ID": "oval:com.redhat.cve:obj:202441946002",
       "Version": "636",
       "Name": "foreman-proxy"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202441946014",
+      "ID": "oval:com.redhat.cve:obj:202441946007",
       "Version": "636",
       "Name": "foreman-proxy-journald"
     },
@@ -879,6 +889,16 @@
       "ID": "oval:com.redhat.cve:obj:202445614001",
       "Version": "636",
       "Name": "rubygem-puma"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202447081001",
+      "Version": "636",
+      "Name": "python3-requests"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202447081002",
+      "Version": "636",
+      "Name": "python-requests"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202447220001",
@@ -918,12 +938,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20249355001",
       "Version": "636",
-      "Name": "qpid-proton-c"
+      "Name": "qpid-proton-cpp-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20249355002",
       "Version": "636",
-      "Name": "python-qpid-proton"
+      "Name": "qpid-proton-c-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20249355003",
@@ -933,42 +953,42 @@
     {
       "ID": "oval:com.redhat.cve:obj:20249355004",
       "Version": "636",
-      "Name": "rubygem-qpid_proton"
+      "Name": "python-qpid-proton-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20249355005",
       "Version": "636",
-      "Name": "qpid-proton-c-docs"
+      "Name": "python-qpid-proton"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20249355006",
       "Version": "636",
-      "Name": "qpid-proton"
+      "Name": "qpid-proton-cpp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20249355007",
       "Version": "636",
-      "Name": "python-qpid-proton-docs"
+      "Name": "qpid-proton-c-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20249355008",
       "Version": "636",
-      "Name": "qpid-proton-tests"
+      "Name": "qpid-proton-c"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20249355009",
       "Version": "636",
-      "Name": "qpid-proton-cpp-docs"
+      "Name": "qpid-proton"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20249355010",
       "Version": "636",
-      "Name": "qpid-proton-c-devel"
+      "Name": "rubygem-qpid_proton"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20249355011",
       "Version": "636",
-      "Name": "qpid-proton-cpp"
+      "Name": "qpid-proton-tests"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202527407001",
@@ -976,14 +996,29 @@
       "Name": "rubygem-graphql"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20254432001",
+      "ID": "oval:com.redhat.cve:obj:202545768001",
       "Version": "636",
-      "Name": "python-maturin"
+      "Name": "python-pyjwt"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20254432002",
+      "ID": "oval:com.redhat.cve:obj:202545768002",
       "Version": "636",
-      "Name": "python3.12-maturin"
+      "Name": "python3-pyjwt"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202547273001",
+      "Version": "636",
+      "Name": "satellite/iop-advisor-engine-rhel9"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202553643001",
+      "Version": "636",
+      "Name": "python3-aiohttp-xmlrpc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202553643002",
+      "Version": "636",
+      "Name": "python-aiohttp-xmlrpc"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20214702004",
@@ -1106,11 +1141,6 @@
       "Name": "tfm-rubygem-secure_headers"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:20207921001",
-      "Version": "635",
-      "Name": "mongodb"
-    },
-    {
       "ID": "oval:com.redhat.unaffected:obj:20208163001",
       "Version": "635",
       "Name": "tfm-ror52-rubygem-rails"
@@ -1171,16 +1201,6 @@
       "Name": "tfm-rubygem-amazing_print"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202229217001",
-      "Version": "635",
-      "Name": "python-pyjwt"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202229217002",
-      "Version": "635",
-      "Name": "python3-pyjwt"
-    },
-    {
       "ID": "oval:com.redhat.unaffected:obj:202232287001",
       "Version": "635",
       "Name": "lucene4"
@@ -1206,7 +1226,7 @@
       "Name": "nodejs-decode-uri-component"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202238900003",
+      "ID": "oval:com.redhat.unaffected:obj:202238900002",
       "Version": "635",
       "Name": "nodejs-babel-cli"
     },
@@ -1266,17 +1286,12 @@
       "Name": "python-gitdb"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202411831001",
+      "ID": "oval:com.redhat.unaffected:obj:202411831002",
       "Version": "635",
       "Name": "nodejs-compression-webpack-plugin"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202412840001",
-      "Version": "635",
-      "Name": "security"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202421538001",
+      "ID": "oval:com.redhat.unaffected:obj:202421538002",
       "Version": "635",
       "Name": "nodejs-webpack-cli"
     },
@@ -1319,6 +1334,21 @@
       "ID": "oval:com.redhat.unaffected:obj:202543859001",
       "Version": "635",
       "Name": "python-h11"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202548734001",
+      "Version": "635",
+      "Name": "commons-beanutils"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202548945001",
+      "Version": "635",
+      "Name": "python3-pycares"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202548945002",
+      "Version": "635",
+      "Name": "python-pycares"
     }
   ],
   "RpmverifyfileObjects": [
@@ -1391,8 +1421,8 @@
       }
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:20246861016",
-      "Version": "635",
+      "ID": "oval:com.redhat.cve:obj:20259572015",
+      "Version": "636",
       "Filepath": {
         "Text": "/etc/dnf/modules.d/satellite-utils.module",
         "Datatype": "string"

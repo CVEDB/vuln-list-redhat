@@ -1,7 +1,7 @@
 {
   "RpminfoState": [
     {
-      "ID": "oval:com.redhat.cve:ste:201714623001",
+      "ID": "oval:com.redhat.cve:ste:20169840001",
       "Version": "636",
       "Arch": {},
       "Evr": {},
@@ -11,7 +11,52 @@
       }
     },
     {
-      "ID": "oval:com.redhat.rhsa:ste:20251908001",
+      "ID": "oval:com.redhat.rhba:ste:202514817001",
+      "Version": "636",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:4.19.0-202508252101.p2.g425c1c5.assembly.stream.el9",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhba:ste:202514817003",
+      "Version": "636",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:4.19.0-202508252101.p2.g7109d6b.assembly.stream.el9",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhba:ste:202514817004",
+      "Version": "636",
+      "Arch": {
+        "Text": "ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:4.19.0-202508252101.p2.gd8d3aeb.assembly.stream.el9",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:202510291001",
       "Version": "637",
       "Arch": {
         "Text": "aarch64|ppc64le|s390x|x86_64",
@@ -19,14 +64,14 @@
         "Operation": "pattern match"
       },
       "Evr": {
-        "Text": "2:1.33.12-1.rhaos4.18.el9",
+        "Text": "0:3.13.0-2.rhaos4.20.el9",
         "Datatype": "evr_string",
         "Operation": "less than"
       },
       "SignatureKeyID": {}
     },
     {
-      "ID": "oval:com.redhat.rhsa:ste:20251908003",
+      "ID": "oval:com.redhat.rhsa:ste:202515291001",
       "Version": "637",
       "Arch": {
         "Text": "aarch64|ppc64le|s390x|x86_64",
@@ -34,48 +79,134 @@
         "Operation": "pattern match"
       },
       "Evr": {
-        "Text": "0:1.31.5-5.rhaos4.18.git6dfa0a6.el9",
+        "Text": "0:4.19.0-202509011627.p2.g169f654.assembly.stream.el9",
         "Datatype": "evr_string",
         "Operation": "less than"
       },
       "SignatureKeyID": {}
     },
     {
-      "ID": "oval:com.redhat.rhsa:ste:20253068001",
-      "Version": "638",
+      "ID": "oval:com.redhat.rhsa:ste:20259279001",
+      "Version": "637",
       "Arch": {
         "Text": "aarch64|ppc64le|s390x|x86_64",
         "Datatype": "string",
         "Operation": "pattern match"
       },
       "Evr": {
-        "Text": "5:5.2.2-6.rhaos4.18.el9",
+        "Text": "0:1.32.5-3.rhaos4.19.git9607a04.el9",
         "Datatype": "evr_string",
         "Operation": "less than"
       },
       "SignatureKeyID": {}
     },
     {
-      "ID": "oval:com.redhat.rhsa:ste:20253068003",
-      "Version": "638",
+      "ID": "oval:com.redhat.rhsa:ste:20259279003",
+      "Version": "637",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:1.32.0-2.el9",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259279004",
+      "Version": "637",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:4.19.0-202506161807.p0.gfa1fd95.assembly.stream.el9",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259279005",
+      "Version": "637",
+      "Arch": {
+        "Text": "x86_64",
+        "Datatype": "string",
+        "Operation": "equals"
+      },
+      "Evr": {
+        "Text": "0:4.19.0-202506161807.p0.gfa1fd95.assembly.stream.el9",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259279006",
+      "Version": "637",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "5:5.4.0-5.rhaos4.19.el9",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259279007",
+      "Version": "637",
       "Arch": {},
       "Evr": {
-        "Text": "5:5.2.2-6.rhaos4.18.el9",
+        "Text": "5:5.4.0-5.rhaos4.19.el9",
         "Datatype": "evr_string",
         "Operation": "less than"
       },
       "SignatureKeyID": {}
     },
     {
-      "ID": "oval:com.redhat.rhsa:ste:20253068004",
-      "Version": "638",
+      "ID": "oval:com.redhat.rhsa:ste:20259279008",
+      "Version": "637",
       "Arch": {
         "Text": "aarch64|ppc64le|s390x|x86_64",
         "Datatype": "string",
         "Operation": "pattern match"
       },
       "Evr": {
-        "Text": "2:1.16.1-1.rhaos4.18.el9",
+        "Text": "2:1.18.1-2.rhaos4.19.el9",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259751001",
+      "Version": "637",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "5:5.4.0-6.rhaos4.19.el9",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259751003",
+      "Version": "637",
+      "Arch": {},
+      "Evr": {
+        "Text": "5:5.4.0-6.rhaos4.19.el9",
         "Datatype": "evr_string",
         "Operation": "less than"
       },
@@ -84,7 +215,7 @@
   ],
   "RpmverifyfileStates": [
     {
-      "ID": "oval:com.redhat.cve:ste:201714623002",
+      "ID": "oval:com.redhat.cve:ste:20169840002",
       "AttrVersion": "636",
       "Name": {
         "Text": "^redhat-release",
@@ -96,7 +227,7 @@
       }
     },
     {
-      "ID": "oval:com.redhat.cve:ste:201714623003",
+      "ID": "oval:com.redhat.cve:ste:20169840003",
       "AttrVersion": "636",
       "Name": {
         "Text": "^redhat-release",

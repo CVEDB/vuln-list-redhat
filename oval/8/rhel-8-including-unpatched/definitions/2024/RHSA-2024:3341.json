@@ -1,7 +1,7 @@
 {
   "Class": "patch",
   "ID": "oval:com.redhat.rhsa:def:20243341",
-  "Version": "635",
+  "Version": "636",
   "Metadata": {
     "Title": "RHSA-2024:3341: gdk-pixbuf2 security update (Moderate)",
     "AffectedList": [
@@ -107,7 +107,7 @@
                   },
                   {
                     "Comment": "gdk-pixbuf2 is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20193553164"
+                    "TestRef": "oval:com.redhat.cve:tst:20256199010"
                   }
                 ]
               },
@@ -120,7 +120,7 @@
                   },
                   {
                     "Comment": "gdk-pixbuf2-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20193553166"
+                    "TestRef": "oval:com.redhat.cve:tst:20256199004"
                   }
                 ]
               },
@@ -133,7 +133,7 @@
                   },
                   {
                     "Comment": "gdk-pixbuf2-modules is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20193553168"
+                    "TestRef": "oval:com.redhat.cve:tst:20256199006"
                   }
                 ]
               },
@@ -146,7 +146,7 @@
                   },
                   {
                     "Comment": "gdk-pixbuf2-xlib is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20193553170"
+                    "TestRef": "oval:com.redhat.cve:tst:20256199008"
                   }
                 ]
               },
@@ -159,7 +159,7 @@
                   },
                   {
                     "Comment": "gdk-pixbuf2-xlib-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20193553172"
+                    "TestRef": "oval:com.redhat.cve:tst:20256199002"
                   }
                 ]
               }

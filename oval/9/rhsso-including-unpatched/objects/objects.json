@@ -6,6 +6,11 @@
       "Name": "rh-sso7-keycloak-server"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:201712161002",
+      "Version": "636",
+      "Name": "rh-sso7-keycloak"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:201920921001",
       "Version": "636",
       "Name": "keycloak-theme"
@@ -106,11 +111,6 @@
       "Name": "angularjs"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202326464001",
-      "Version": "636",
-      "Name": "log4j"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202334042001",
       "Version": "636",
       "Name": "spring-security-config"
@@ -166,11 +166,6 @@
       "Name": "org.keycloak/keycloak-core"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202410234001",
-      "Version": "636",
-      "Name": "org.wildfly.core/wildfly-core-management-client"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202410270001",
       "Version": "636",
       "Name": "org.keycloak/keycloak-services"
@@ -221,7 +216,7 @@
       "Name": "snappy"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202438819001",
+      "ID": "oval:com.redhat.cve:obj:202438828001",
       "Version": "636",
       "Name": "org.springframework/spring-webmvc"
     },
@@ -331,9 +326,84 @@
       "Name": "camel-http-common"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20227411001",
-      "Version": "639",
-      "Name": "rh-sso7-keycloak"
+      "ID": "oval:com.redhat.cve:obj:202541242001",
+      "Version": "636",
+      "Name": "spring-webmvc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202541248001",
+      "Version": "636",
+      "Name": "spring-security-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202541249001",
+      "Version": "636",
+      "Name": "spring-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202541249002",
+      "Version": "636",
+      "Name": "org.springframework/spring-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202548924001",
+      "Version": "636",
+      "Name": "commons-lang3"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202548924002",
+      "Version": "636",
+      "Name": "commons-lang"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202548988001",
+      "Version": "636",
+      "Name": "tomcat-catalina"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202549128001",
+      "Version": "636",
+      "Name": "jackson-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20254949001",
+      "Version": "636",
+      "Name": "org.eclipse.jgit.ssh.apache"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20254949002",
+      "Version": "636",
+      "Name": "org.eclipse.jgit"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20255115001",
+      "Version": "636",
+      "Name": "netty-codec-http2"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20258885001",
+      "Version": "636",
+      "Name": "bcpg-jdk15on"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20258885002",
+      "Version": "636",
+      "Name": "bcprov-jdk15on"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20258885003",
+      "Version": "636",
+      "Name": "bcpkix-jdk15on"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20258885004",
+      "Version": "636",
+      "Name": "bcmail-jdk15on"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20259784001",
+      "Version": "636",
+      "Name": "undertow-core"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20227411003",
@@ -369,6 +439,11 @@
       "ID": "oval:com.redhat.unaffected:obj:201820200001",
       "Version": "635",
       "Name": "okhttp"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:201917571001",
+      "Version": "635",
+      "Name": "log4j"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:201917632001",
@@ -541,7 +616,7 @@
       "Name": "babel"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202345669002",
+      "ID": "oval:com.redhat.unaffected:obj:202345669001",
       "Version": "635",
       "Name": "com.webauthn4j-webauthn4j"
     },
@@ -579,6 +654,11 @@
       "ID": "oval:com.redhat.unaffected:obj:20241102001",
       "Version": "635",
       "Name": "jberet-core"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202413009001",
+      "Version": "635",
+      "Name": "jetty-server"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202423076001",
@@ -643,17 +723,12 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:202453677002",
       "Version": "635",
-      "Name": "org.apache.struts/struts-tiles"
+      "Name": "org.apache.struts/struts-taglib"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202453677003",
       "Version": "635",
-      "Name": "org.apache.struts/struts-taglib"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202522223001",
-      "Version": "635",
-      "Name": "spring-security-core"
+      "Name": "org.apache.struts/struts-tiles"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202527636001",
@@ -669,11 +744,21 @@
       "ID": "oval:com.redhat.unaffected:obj:202531335001",
       "Version": "635",
       "Name": "opensaml-core"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202548734001",
+      "Version": "635",
+      "Name": "commons-beanutils"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20257962001",
+      "Version": "635",
+      "Name": "jakarta.mail"
     }
   ],
   "RpmverifyfileObjects": [
     {
-      "ID": "oval:com.redhat.cve:obj:201712161002",
+      "ID": "oval:com.redhat.cve:obj:201712161003",
       "AttrVersion": "636",
       "Behaviors": {
         "Noconfigfiles": "true",

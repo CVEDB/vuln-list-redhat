@@ -22,17 +22,17 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20203207001",
-      "Version": "637",
+      "Version": "638",
       "Name": "jenkins-2-plugins"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20203453001",
-      "Version": "638",
+      "Version": "639",
       "Name": "python2-rsa"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20203519001",
-      "Version": "639",
+      "Version": "640",
       "Name": "jenkins"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20210034001",
-      "Version": "642",
+      "Version": "643",
       "Name": "python2-urllib3"
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20212057002",
-      "Version": "638",
+      "Version": "639",
       "Name": "runc"
     }
   ],

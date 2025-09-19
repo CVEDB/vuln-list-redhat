@@ -454,7 +454,7 @@
         },
         {
           "CveID": "CVE-2024-35937",
-          "Cvss3": "5.8/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:L/I:L/A:H",
+          "Cvss3": "7.1/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:H",
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2024-35937",
           "Public": "20240519"
@@ -836,7 +836,7 @@
     "Criterions": [
       {
         "Comment": "Red Hat Enterprise Linux must be installed",
-        "TestRef": "oval:com.redhat.rhba:tst:20223991004"
+        "TestRef": "oval:com.redhat.rhba:tst:20223945012"
       }
     ],
     "Criterias": [
@@ -845,7 +845,7 @@
         "Criterions": [
           {
             "Comment": "Red Hat Enterprise Linux 9 is installed",
-            "TestRef": "oval:com.redhat.rhba:tst:20223991003"
+            "TestRef": "oval:com.redhat.rhba:tst:20223945011"
           }
         ],
         "Criterias": [

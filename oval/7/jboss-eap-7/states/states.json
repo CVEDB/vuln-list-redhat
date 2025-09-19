@@ -23,7 +23,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839001",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:1.3.3-1.Final_redhat_1.1.ep7.el7",
@@ -34,7 +34,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839003",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:3.1.6-1.redhat_1.1.ep7.el7",
@@ -45,7 +45,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839004",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:2.0.6-1.redhat_1.1.ep7.el7",
@@ -56,7 +56,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839005",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:2.1.5-1.redhat_1.1.ep7.el7",
@@ -67,7 +67,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839006",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:1.1.3-1.Final_redhat_1.1.ep7.el7",
@@ -78,7 +78,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839007",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:3.1.2-1.Final_redhat_1.1.ep7.el7",
@@ -89,7 +89,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839008",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:3.1.3-1.Final_redhat_1.1.ep7.el7",
@@ -100,7 +100,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839009",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:3.6.10-1.Final_redhat_1.1.ep7.el7",
@@ -111,7 +111,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839010",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:5.1.5-1.Final_redhat_1.1.ep7.el7",
@@ -122,7 +122,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839011",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:1.2.1-1.Final_redhat_1.1.ep7.el7",
@@ -133,7 +133,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839012",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:2.7.1-25.redhat_11.1.ep7.el7",
@@ -144,7 +144,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839013",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:2.8.27-1.Final_redhat_1.1.ep7.el7",
@@ -155,7 +155,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839014",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:4.9.7-1.Final_redhat_1.1.ep7.el7",
@@ -166,7 +166,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839015",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:3.0.3-1.Final_redhat_1.1.ep7.el7",
@@ -177,7 +177,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839016",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:1.1.0-15.SP18_redhat_1.1.ep7.el7",
@@ -188,7 +188,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839017",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:2.5.5-3.SP3_redhat_1.1.ep7.el7",
@@ -199,7 +199,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839018",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:1.3.24-1.Final_redhat_1.1.ep7.el7",
@@ -210,7 +210,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839019",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:3.0.18-1.Final_redhat_1.1.ep7.el7",
@@ -221,7 +221,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839020",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:7.0.2-1.GA_redhat_1.1.ep7.el7",
@@ -232,7 +232,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161839021",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:7.0.2-2.GA_redhat_1.1.ep7.el7",
@@ -243,7 +243,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20161840001",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:7.0.2-2.GA_redhat_1.ep7.el7",
@@ -254,7 +254,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20162641001",
-      "Version": "639",
+      "Version": "640",
       "Arch": {},
       "Evr": {
         "Text": "0:2.11.0-24.SP5_redhat_1.1.ep7.el7",
@@ -265,7 +265,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20162641003",
-      "Version": "639",
+      "Version": "640",
       "Arch": {},
       "Evr": {
         "Text": "0:1.3.25-1.Final_redhat_1.1.ep7.el7",
@@ -276,7 +276,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20162641004",
-      "Version": "639",
+      "Version": "640",
       "Arch": {},
       "Evr": {
         "Text": "0:5.0.11-1.Final_redhat_1.1.ep7.el7",
@@ -287,7 +287,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20162641005",
-      "Version": "639",
+      "Version": "640",
       "Arch": {},
       "Evr": {
         "Text": "0:4.0.21-1.Final_redhat_1.1.ep7.el7",
@@ -298,7 +298,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20162641006",
-      "Version": "639",
+      "Version": "640",
       "Arch": {},
       "Evr": {
         "Text": "0:3.4.0-1.Final_redhat_1.1.ep7.el7",
@@ -309,7 +309,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20162641007",
-      "Version": "639",
+      "Version": "640",
       "Arch": {},
       "Evr": {
         "Text": "0:7.0.3-2.GA_redhat_3.1.ep7.el7",
@@ -320,7 +320,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20162641008",
-      "Version": "639",
+      "Version": "640",
       "Arch": {},
       "Evr": {
         "Text": "0:7.0.3-4.GA_redhat_2.1.ep7.el7",
@@ -331,7 +331,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20162642001",
-      "Version": "638",
+      "Version": "639",
       "Arch": {},
       "Evr": {
         "Text": "0:7.0.3-3.GA_redhat_2.ep7.el7",
@@ -342,7 +342,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20170171001",
-      "Version": "640",
+      "Version": "641",
       "Arch": {},
       "Evr": {
         "Text": "0:2.1.7-1.Final_redhat_1.1.ep7.el7",
@@ -353,7 +353,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20170171003",
-      "Version": "640",
+      "Version": "641",
       "Arch": {},
       "Evr": {
         "Text": "0:8.1.6-1.Final_redhat_1.1.ep7.el7",
@@ -364,7 +364,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20170171004",
-      "Version": "640",
+      "Version": "641",
       "Arch": {},
       "Evr": {
         "Text": "0:7.3.0-2.SP1_redhat_1.1.ep7.el7",
@@ -375,7 +375,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20170171005",
-      "Version": "640",
+      "Version": "641",
       "Arch": {},
       "Evr": {
         "Text": "0:2.8.28-1.Final_redhat_1.1.ep7.el7",
@@ -386,7 +386,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20170171006",
-      "Version": "640",
+      "Version": "641",
       "Arch": {},
       "Evr": {
         "Text": "0:2.5.5-4.SP4_redhat_1.1.ep7.el7",
@@ -397,7 +397,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20170171007",
-      "Version": "640",
+      "Version": "641",
       "Arch": {},
       "Evr": {
         "Text": "0:1.3.5-1.Final_redhat_1.1.ep7.el7",
@@ -408,7 +408,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20170171008",
-      "Version": "640",
+      "Version": "641",
       "Arch": {},
       "Evr": {
         "Text": "0:0.66.12-1.redhat_1.1.ep7.el7",
@@ -419,7 +419,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20170171009",
-      "Version": "640",
+      "Version": "641",
       "Arch": {},
       "Evr": {
         "Text": "0:2.0.7-2.redhat_1.1.ep7.el7",
@@ -430,7 +430,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20170171010",
-      "Version": "640",
+      "Version": "641",
       "Arch": {},
       "Evr": {
         "Text": "0:1.0.8-2.Final_redhat_1.1.ep7.el7",
@@ -441,7 +441,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20170171011",
-      "Version": "640",
+      "Version": "641",
       "Arch": {},
       "Evr": {
         "Text": "0:3.4.1-2.Final_redhat_1.1.ep7.el7",
@@ -452,7 +452,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20170171012",
-      "Version": "640",
+      "Version": "641",
       "Arch": {},
       "Evr": {
         "Text": "0:3.0.19-2.Final_redhat_1.1.ep7.el7",
@@ -463,7 +463,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20170171013",
-      "Version": "640",
+      "Version": "641",
       "Arch": {},
       "Evr": {
         "Text": "0:2.1.7-2.redhat_1.1.ep7.el7",
@@ -474,7 +474,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20170171014",
-      "Version": "640",
+      "Version": "641",
       "Arch": {},
       "Evr": {
         "Text": "0:3.1.8-3.redhat_1.1.ep7.el7",
@@ -485,7 +485,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20170171015",
-      "Version": "640",
+      "Version": "641",
       "Arch": {},
       "Evr": {
         "Text": "0:5.2.21-1.Final_redhat_1.1.ep7.el7",
@@ -496,7 +496,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20170171016",
-      "Version": "640",
+      "Version": "641",
       "Arch": {},
       "Evr": {
         "Text": "0:7.0.4-2.GA_redhat_3.1.ep7.el7",
@@ -507,7 +507,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20170171017",
-      "Version": "640",
+      "Version": "641",
       "Arch": {},
       "Evr": {
         "Text": "0:7.0.4-4.GA_redhat_2.1.ep7.el7",
@@ -518,7 +518,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20170173001",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:7.0.4-5.GA_redhat_2.ep7.el7",
@@ -698,7 +698,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20170834001",
-      "Version": "636",
+      "Version": "637",
       "Arch": {},
       "Evr": {
         "Text": "0:7.0.5-1.GA_redhat_1.ep7.el7",
@@ -3042,7 +3042,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20180628001",
-      "Version": "639",
+      "Version": "640",
       "Arch": {},
       "Evr": {
         "Text": "0:1.7.22-3.redhat_2.1.ep7.el7",
@@ -3053,7 +3053,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247001",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:2.0.4-1.Final_redhat_1.1.ep7.el7",
@@ -3064,7 +3064,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247003",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:1.4.18-5.SP5_redhat_1.1.ep7.el7",
@@ -3075,7 +3075,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247004",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:2.2.13-5.SP2_redhat_1.1.ep7.el7",
@@ -3086,7 +3086,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247005",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:3.5.5-1.Final_redhat_1.1.ep7.el7",
@@ -3097,7 +3097,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247006",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:5.0.3-1.Final_redhat_1.1.ep7.el7",
@@ -3108,7 +3108,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247007",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:2.4.0-3.SP2_redhat_1.1.ep7.el7",
@@ -3119,7 +3119,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247008",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:1.4.8-1.Final_redhat_1.1.ep7.el7",
@@ -3130,7 +3130,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247009",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:1.1.9-1.Final_redhat_1.1.ep7.el7",
@@ -3141,7 +3141,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247010",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:1.0.6-1.Final_redhat_1.1.ep7.el7",
@@ -3152,7 +3152,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247011",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:3.6.14-1.Final_redhat_1.1.ep7.el7",
@@ -3163,7 +3163,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247012",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:4.0.10-1.Final_redhat_1.1.ep7.el7",
@@ -3174,7 +3174,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247013",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:8.2.10-1.Final_redhat_1.1.ep7.el7",
@@ -3185,7 +3185,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247014",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:1.3.9-1.Final_redhat_1.1.ep7.el7",
@@ -3196,7 +3196,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247015",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:2.4.7-1.Final_redhat_1.1.ep7.el7",
@@ -3207,7 +3207,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247016",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:2.9.16-2.Final_redhat_1.2.ep7.el7",
@@ -3218,7 +3218,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247017",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:2.5.5-11.SP10_redhat_1.1.ep7.el7",
@@ -3229,7 +3229,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247018",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:5.1.13-1.Final_redhat_1.1.ep7.el7",
@@ -3240,7 +3240,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247020",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:1.5.5.010-1.redhat_1.1.ep7.el7",
@@ -3251,7 +3251,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181247021",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:7.1.2-1.GA_redhat_1.1.ep7.el7",
@@ -3262,7 +3262,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20181249001",
-      "Version": "639",
+      "Version": "640",
       "Arch": {},
       "Evr": {
         "Text": "0:7.1.2-1.GA_redhat_1.ep7.el7",
@@ -3706,7 +3706,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528001",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:1.4.11-1.Final_redhat_00001.1.ep7.el7",
@@ -3717,7 +3717,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528003",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:1.1.11-1.Final_redhat_00001.1.ep7.el7",
@@ -3728,7 +3728,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528004",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:1.0.8-1.Final_redhat_00001.1.ep7.el7",
@@ -3739,7 +3739,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528005",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:2.2.13-7.SP6_redhat_00001.1.ep7.el7",
@@ -3750,7 +3750,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528006",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:1.0.2-1.Final_redhat_00001.1.ep7.el7",
@@ -3761,7 +3761,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528007",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:1.1.6-1.Final_redhat_00001.1.ep7.el7",
@@ -3772,7 +3772,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528008",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:1.0.1-1.Final_redhat_00001.1.ep7.el7",
@@ -3783,7 +3783,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528009",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:3.5.6-1.Final_redhat_00001.1.ep7.el7",
@@ -3794,7 +3794,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528010",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:3.2.13-1.Final_redhat_1.1.ep7.el7",
@@ -3805,7 +3805,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528011",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:1.6.5-1.Final_redhat_00001.1.ep7.el7",
@@ -3816,7 +3816,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528012",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:5.1.16-1.Final_redhat_00001.1.ep7.el7",
@@ -3827,7 +3827,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528013",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:3.1.6-1.Final_redhat_00001.1.ep7.el7",
@@ -3838,7 +3838,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528014",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:5.1.11-1.Final_redhat_00001.1.ep7.el7",
@@ -3849,7 +3849,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528015",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:1.4.18-8.SP9_redhat_00001.1.ep7.el7",
@@ -3860,7 +3860,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528016",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:2.0.6-1.Final_redhat_00001.1.ep7.el7",
@@ -3871,7 +3871,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528017",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:2.5.5-14.SP12_redhat_2.1.ep7.el7",
@@ -3882,7 +3882,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528018",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:5.0.3-2.Final_redhat_3.1.ep7.el7",
@@ -3893,7 +3893,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528019",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:1.5.5.014-1.redhat_00001.1.ep7.el7",
@@ -3904,7 +3904,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528020",
-      "Version": "637",
+      "Version": "638",
       "Arch": {
         "Text": "x86_64",
         "Datatype": "string",
@@ -3919,7 +3919,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528021",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:1.0.6-2.Final_redhat_2.1.ep7.el7",
@@ -3930,7 +3930,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528022",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:1.0.7-1.Final_redhat_00001.1.ep7.el7",
@@ -3941,7 +3941,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528023",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:7.1.5-4.GA_redhat_00002.1.ep7.el7",
@@ -3952,7 +3952,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20183528024",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:7.1.5-2.GA_redhat_00002.1.ep7.el7",
@@ -6648,7 +6648,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420001",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:3.0.11-1.Final_redhat_00001.1.el7eap",
@@ -6659,7 +6659,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420003",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:1.11.0-2.redhat_00001.1.el7eap",
@@ -6670,7 +6670,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420004",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:5.3.10-1.Final_redhat_00001.1.el7eap",
@@ -6681,7 +6681,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420005",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:2.4.7-7.Final_redhat_2.1.el7eap",
@@ -6692,7 +6692,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420006",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:4.0.18-1.Final_redhat_00001.1.el7eap",
@@ -6703,7 +6703,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420007",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:1.8.8-1.Final_redhat_00001.1.el7eap",
@@ -6714,7 +6714,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420008",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:1.4.16-2.Final_redhat_00001.1.el7eap",
@@ -6725,7 +6725,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420009",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:3.23.2-2.GA_redhat_00001.1.el7eap",
@@ -6736,7 +6736,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420011",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:8.1.3-1.Final_redhat_00001.1.el7eap",
@@ -6747,7 +6747,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420012",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:5.0.9-1.Final_redhat_00001.1.el7eap",
@@ -6758,7 +6758,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420013",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:3.6.6-1.Final_redhat_00001.1.el7eap",
@@ -6769,7 +6769,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420014",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:4.0.19-1.Final_redhat_00001.1.el7eap",
@@ -6780,7 +6780,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420015",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:1.0.10-1.Final_redhat_00001.1.el7eap",
@@ -6791,7 +6791,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420016",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:1.0.15-1.Final_redhat_00001.1.el7eap",
@@ -6802,7 +6802,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420017",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:3.0.6-1.Final_redhat_00001.1.el7eap",
@@ -6813,7 +6813,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420019",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:2.5.5-17.SP12_redhat_00005.1.el7eap",
@@ -6824,7 +6824,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420020",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:2.0.20-1.Final_redhat_00001.1.el7eap",
@@ -6835,7 +6835,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420021",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:3.6.1-5.SP5_redhat_00001.1.el7eap",
@@ -6846,7 +6846,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420022",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:1.5.1-1.Final_redhat_00001.1.el7eap",
@@ -6857,7 +6857,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420023",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:1.3.1-2.Final_redhat_00002.1.el7eap",
@@ -6868,7 +6868,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420024",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:3.2.7-2.redhat_00002.1.el7eap",
@@ -6879,7 +6879,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20191420025",
-      "Version": "641",
+      "Version": "642",
       "Arch": {},
       "Evr": {
         "Text": "0:7.2.2-2.GA_redhat_00001.1.el7eap",
@@ -7209,7 +7209,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20192973001",
-      "Version": "638",
+      "Version": "639",
       "Arch": {},
       "Evr": {
         "Text": "0:1.6.4-3.Final_redhat_00002.1.el7eap",
@@ -7220,7 +7220,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20193049001",
-      "Version": "636",
+      "Version": "637",
       "Arch": {},
       "Evr": {
         "Text": "0:4.8.13-1.Final_redhat_00001.1.el7eap",
@@ -7231,7 +7231,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20193082001",
-      "Version": "639",
+      "Version": "640",
       "Arch": {},
       "Evr": {
         "Text": "0:7.2.4-2.SP1_redhat_00001.1.el7eap",
@@ -8878,7 +8878,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20202814001",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:9.0.4-1.redhat_00001.1.el7eap",
@@ -9575,7 +9575,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20204256001",
-      "Version": "634",
+      "Version": "635",
       "Arch": {
         "Text": "x86_64",
         "Datatype": "string",
@@ -9601,7 +9601,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20204922001",
-      "Version": "635",
+      "Version": "636",
       "Arch": {
         "Text": "x86_64",
         "Datatype": "string",
@@ -13057,6 +13057,175 @@
       "SignatureKeyID": {}
     },
     {
+      "ID": "oval:com.redhat.rhsa:ste:202510924001",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:2.3.14-9.SP10_redhat_00001.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:202510924003",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:1.9.6-1.Final_redhat_00001.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:202510924004",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:1.15.26-1.Final_redhat_00001.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:202510924005",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:3.3.27-1.Final_redhat_00001.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:202510924006",
+      "Version": "638",
+      "Arch": {
+        "Text": "x86_64",
+        "Datatype": "string",
+        "Operation": "equals"
+      },
+      "Evr": {
+        "Text": "1:1.0.2-5.redhat_00004.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:202510924007",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:5.4.15-1.Final_redhat_00001.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:202510924008",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:3.5.10-1.redhat_00001.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:202510924009",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:1.5.21-1.Final_redhat_00001.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:202510924010",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:1.10.0-42.Final_redhat_00042.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:202510924011",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:2.16.0-21.redhat_00055.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:202510924012",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:6.0.23-3.SP2_redhat_00001.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:202510924013",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:7.4.23-3.GA_redhat_00002.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:202511473001",
+      "Version": "637",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:2.12.7-2.redhat_00004.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:202511473003",
+      "Version": "637",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:2.12.7-2.SP1_redhat_00001.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:202511473004",
+      "Version": "637",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:7.4.23-4.GA_redhat_00003.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
       "ID": "oval:com.redhat.rhsa:ste:20251636001",
       "Version": "636",
       "Arch": {},
@@ -13576,6 +13745,230 @@
       "Arch": {},
       "Evr": {
         "Text": "0:2.16.1-1.redhat_00001.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259115001",
+      "Version": "636",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:1.11.0-1.redhat_00001.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259582001",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:4.1.63-2.Final_redhat_00003.1.ep7.el7",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259582003",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:1.4.18-16.SP14_redhat_00001.1.ep7.el7",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259582004",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:2.8.11.6-3.SP1_redhat_00003.1.ep7.el7",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259582005",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:5.1.17-3.Final_redhat_00004.1.ep7.el7",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259582006",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:1.1.14-1.Final_redhat_00001.1.ep7.el7",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259582007",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:1.0.12-1.Final_redhat_00001.1.ep7.el7",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259582009",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:4.0.12-1.Final_redhat_00002.1.ep7.el7",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259582010",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:3.0.1-4.b08_redhat_00005.1.ep7.el7",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259582011",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:1.0.21-1.Final_redhat_00001.1.ep7.el7",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259582012",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:7.1.11-4.GA_redhat_00002.1.ep7.el7",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259582013",
+      "Version": "638",
+      "Arch": {
+        "Text": "x86_64",
+        "Datatype": "string",
+        "Operation": "equals"
+      },
+      "Evr": {
+        "Text": "0:1.0.12-6.Final_redhat_00001.1.ep7.el7",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259583001",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:2.10.4-3.redhat_00006.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259583003",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:2.10.4-5.redhat_00006.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259583004",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:4.1.63-5.Final_redhat_00003.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259583005",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:2.0.41-4.SP5_redhat_00001.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259583006",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:2.10.4-2.redhat_00006.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259583007",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:1.10.17-1.Final_redhat_00001.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259583008",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:7.3.14-3.GA_redhat_00002.1.el7eap",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259583009",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:1.7.2-16.Final_redhat_00017.1.el7eap",
         "Datatype": "evr_string",
         "Operation": "less than"
       },

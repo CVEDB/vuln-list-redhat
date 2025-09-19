@@ -25,11 +25,6 @@
       },
       {
         "Source": "CVE",
-        "RefID": "CVE-2025-23367",
-        "RefURL": "https://access.redhat.com/security/cve/CVE-2025-23367"
-      },
-      {
-        "Source": "CVE",
         "RefID": "CVE-2025-24970",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2025-24970"
       },
@@ -60,14 +55,6 @@
           "Public": "20241112:1550"
         },
         {
-          "CveID": "CVE-2025-23367",
-          "Cvss3": "6.5/CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
-          "Cwe": "CWE-284",
-          "Impact": "moderate",
-          "Href": "https://access.redhat.com/security/cve/CVE-2025-23367",
-          "Public": "20250130"
-        },
-        {
           "CveID": "CVE-2025-24970",
           "Cvss3": "7.5/CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
           "Cwe": "CWE-20",
@@ -90,10 +77,6 @@
           "ID": "2325538"
         },
         {
-          "Href": "https://bugzilla.redhat.com/2337620",
-          "ID": "2337620"
-        },
-        {
           "Href": "https://bugzilla.redhat.com/2344787",
           "ID": "2344787"
         },
@@ -104,7 +87,9 @@
       ],
       "AffectedCpeList": [
         "cpe:/a:redhat:jboss_enterprise_application_platform:7.4",
-        "cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el9"
+        "cpe:/a:redhat:jboss_enterprise_application_platform:7.4::el9",
+        "cpe:/a:redhat:jboss_enterprise_application_platform_els:7.4",
+        "cpe:/a:redhat:jboss_enterprise_application_platform_els:7.4::el9"
       ],
       "Affected": {
         "Resolution": {}

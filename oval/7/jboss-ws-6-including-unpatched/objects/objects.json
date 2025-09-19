@@ -31,6 +31,36 @@
       "Name": "org.eclipse.jetty/jetty-http"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202548924001",
+      "Version": "636",
+      "Name": "commons-lang3"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202548924002",
+      "Version": "636",
+      "Name": "commons-lang"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202549125001",
+      "Version": "636",
+      "Name": "tomcat-catalina"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202555668001",
+      "Version": "636",
+      "Name": "jws6-mod_cluster"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202555668003",
+      "Version": "636",
+      "Name": "tomcat-catalina-ant"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202555668004",
+      "Version": "636",
+      "Name": "tomcat-catalina-ha"
+    },
+    {
       "ID": "oval:com.redhat.unaffected:obj:202236033001",
       "Version": "635",
       "Name": "org.jsoup/jsoup"
@@ -41,9 +71,9 @@
       "Name": "logback"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202423076001",
+      "ID": "oval:com.redhat.unaffected:obj:202413009001",
       "Version": "635",
-      "Name": "jws6-mod_cluster"
+      "Name": "jetty-server"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202423076002",
@@ -63,17 +93,17 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:202453677001",
       "Version": "635",
-      "Name": "org.apache.struts/struts-taglib"
+      "Name": "org.apache.struts/struts-tiles"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202453677002",
       "Version": "635",
-      "Name": "org.apache.struts/struts-core"
+      "Name": "org.apache.struts/struts-taglib"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202453677003",
       "Version": "635",
-      "Name": "org.apache.struts/struts-tiles"
+      "Name": "org.apache.struts/struts-core"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20248184001",
@@ -84,6 +114,11 @@
       "ID": "oval:com.redhat.unaffected:obj:202527820001",
       "Version": "635",
       "Name": "httpclient5"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202548734001",
+      "Version": "635",
+      "Name": "commons-beanutils"
     }
   ],
   "RpmverifyfileObjects": [

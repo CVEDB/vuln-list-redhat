@@ -65,6 +65,16 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2021-47639",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2021-47639"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2021-47646",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2021-47646"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2021-47649",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2021-47649"
       },
@@ -270,6 +280,11 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-48735",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-48735"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-48738",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-48738"
       },
@@ -320,8 +335,28 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-49057",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49057"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-49060",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49060"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49066",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49066"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49086",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49086"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49090",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49090"
       },
       {
         "Source": "CVE",
@@ -340,13 +375,38 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-49122",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49122"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-49123",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49123"
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-49129",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49129"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-49130",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49130"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49142",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49142"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49145",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49145"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49147",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49147"
       },
       {
         "Source": "CVE",
@@ -365,8 +425,33 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-49158",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49158"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-49160",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49160"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49175",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49175"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49179",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49179"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49180",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49180"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49188",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49188"
       },
       {
         "Source": "CVE",
@@ -385,6 +470,16 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-49228",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49228"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49229",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49229"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-49235",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49235"
       },
@@ -395,8 +490,38 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-49247",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49247"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49253",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49253"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49259",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49259"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49263",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49263"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-49264",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49264"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49268",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49268"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49270",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49270"
       },
       {
         "Source": "CVE",
@@ -420,8 +545,28 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-49292",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49292"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49297",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49297"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-49306",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49306"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49325",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49325"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49330",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49330"
       },
       {
         "Source": "CVE",
@@ -435,6 +580,11 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-49340",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49340"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-49343",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49343"
       },
@@ -442,6 +592,16 @@
         "Source": "CVE",
         "RefID": "CVE-2022-49347",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49347"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49348",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49348"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49349",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49349"
       },
       {
         "Source": "CVE",
@@ -460,6 +620,16 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-49394",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49394"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49398",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49398"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-49404",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49404"
       },
@@ -467,6 +637,31 @@
         "Source": "CVE",
         "RefID": "CVE-2022-49408",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49408"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49409",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49409"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49412",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49412"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49413",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49413"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49426",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49426"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49433",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49433"
       },
       {
         "Source": "CVE",
@@ -505,8 +700,23 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-49537",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49537"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-49538",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49538"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49543",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49543"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49545",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49545"
       },
       {
         "Source": "CVE",
@@ -515,13 +725,58 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-49559",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49559"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49561",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49561"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49584",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49584"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49605",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49605"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49606",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49606"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-49615",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49615"
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-49625",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49625"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49626",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49626"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49663",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49663"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-49664",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49664"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49669",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49669"
       },
       {
         "Source": "CVE",
@@ -535,8 +790,18 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-49691",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49691"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-49695",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49695"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49697",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49697"
       },
       {
         "Source": "CVE",
@@ -557,6 +822,81 @@
         "Source": "CVE",
         "RefID": "CVE-2022-49710",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49710"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49732",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49732"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-50000",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-50000"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-50001",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-50001"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-50027",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-50027"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-50030",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-50030"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-50048",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-50048"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-50085",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-50085"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-50092",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-50092"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-50095",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-50095"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-50115",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-50115"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-50178",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-50178"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-50179",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-50179"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-50187",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-50187"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-50212",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-50212"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-50213",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-50213"
       },
       {
         "Source": "CVE",
@@ -661,6 +1001,21 @@
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2021-47580",
           "Public": "20240619"
+        },
+        {
+          "CveID": "CVE-2021-47639",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2021-47639",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2021-47646",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-416",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2021-47646",
+          "Public": "20250226"
         },
         {
           "CveID": "CVE-2021-47649",
@@ -989,6 +1344,14 @@
           "Public": "20220922"
         },
         {
+          "CveID": "CVE-2022-48735",
+          "Cvss3": "6.8/CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:L/I:H/A:H",
+          "Cwe": "CWE-416",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-48735",
+          "Public": "20240620"
+        },
+        {
           "CveID": "CVE-2022-48738",
           "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
           "Cwe": "CWE-125",
@@ -1068,11 +1431,40 @@
           "Public": "20240822"
         },
         {
+          "CveID": "CVE-2022-49057",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49057",
+          "Public": "20250226"
+        },
+        {
           "CveID": "CVE-2022-49060",
           "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
           "Cwe": "CWE-476",
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-49060",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49066",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49066",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49086",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-401",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49086",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49090",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49090",
           "Public": "20250226"
         },
         {
@@ -1100,6 +1492,13 @@
           "Public": "20250226"
         },
         {
+          "CveID": "CVE-2022-49122",
+          "Cvss3": "7.3/CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:L",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49122",
+          "Public": "20250226"
+        },
+        {
           "CveID": "CVE-2022-49123",
           "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
           "Cwe": "CWE-667",
@@ -1108,11 +1507,40 @@
           "Public": "20250226"
         },
         {
+          "CveID": "CVE-2022-49129",
+          "Cvss3": "6.0/CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:H",
+          "Cwe": "CWE-416",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49129",
+          "Public": "20250226"
+        },
+        {
           "CveID": "CVE-2022-49130",
           "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
           "Cwe": "CWE-476",
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-49130",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49142",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49142",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49145",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49145",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49147",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49147",
           "Public": "20250226"
         },
         {
@@ -1140,10 +1568,47 @@
           "Public": "20250226"
         },
         {
+          "CveID": "CVE-2022-49158",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49158",
+          "Public": "20250226"
+        },
+        {
           "CveID": "CVE-2022-49160",
           "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-49160",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49175",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49175",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49179",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49179",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49180",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-807",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49180",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49188",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-401",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49188",
           "Public": "20250226"
         },
         {
@@ -1171,6 +1636,20 @@
           "Public": "20250226"
         },
         {
+          "CveID": "CVE-2022-49228",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49228",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49229",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49229",
+          "Public": "20250226"
+        },
+        {
           "CveID": "CVE-2022-49235",
           "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
           "Cwe": "CWE-908",
@@ -1186,10 +1665,55 @@
           "Public": "20250226"
         },
         {
+          "CveID": "CVE-2022-49247",
+          "Cvss3": "3.3/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L",
+          "Cwe": "CWE-394",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49247",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49253",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49253",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49259",
+          "Cvss3": "2.3/CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:L",
+          "Cwe": "CWE-459",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49259",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49263",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49263",
+          "Public": "20250226"
+        },
+        {
           "CveID": "CVE-2022-49264",
           "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-49264",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49268",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49268",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49270",
+          "Cvss3": "6.7/CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H",
+          "Cwe": "CWE-416",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49270",
           "Public": "20250226"
         },
         {
@@ -1224,10 +1748,40 @@
           "Public": "20250226"
         },
         {
+          "CveID": "CVE-2022-49292",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-770",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49292",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49297",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49297",
+          "Public": "20250226"
+        },
+        {
           "CveID": "CVE-2022-49306",
           "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-49306",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49325",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-99",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49325",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49330",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49330",
           "Public": "20250226"
         },
         {
@@ -1247,6 +1801,13 @@
           "Public": "20250226"
         },
         {
+          "CveID": "CVE-2022-49340",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49340",
+          "Public": "20250226"
+        },
+        {
           "CveID": "CVE-2022-49343",
           "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
           "Impact": "low",
@@ -1258,6 +1819,21 @@
           "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-49347",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49348",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-617",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49348",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49349",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49349",
           "Public": "20250226"
         },
         {
@@ -1284,6 +1860,21 @@
           "Public": "20250226"
         },
         {
+          "CveID": "CVE-2022-49394",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-99",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49394",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49398",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49398",
+          "Public": "20250226"
+        },
+        {
           "CveID": "CVE-2022-49404",
           "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
           "Cwe": "CWE-190",
@@ -1297,6 +1888,42 @@
           "Cwe": "CWE-401",
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-49408",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49409",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49409",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49412",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49412",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49413",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49413",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49426",
+          "Cvss3": "6.7/CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H",
+          "Cwe": "CWE-416",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49426",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49433",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49433",
           "Public": "20250226"
         },
         {
@@ -1354,6 +1981,14 @@
           "Public": "20250226"
         },
         {
+          "CveID": "CVE-2022-49537",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-362",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49537",
+          "Public": "20250226"
+        },
+        {
           "CveID": "CVE-2022-49538",
           "Cvss3": "4.4/CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H",
           "Cwe": "CWE-476",
@@ -1362,10 +1997,60 @@
           "Public": "20250226"
         },
         {
+          "CveID": "CVE-2022-49543",
+          "Cvss3": "4.4/CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-20",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49543",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49545",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49545",
+          "Public": "20250226"
+        },
+        {
           "CveID": "CVE-2022-49557",
           "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
           "Impact": "low",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-49557",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49559",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49559",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49561",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49561",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49584",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49584",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49605",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49605",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49606",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49606",
           "Public": "20250226"
         },
         {
@@ -1377,11 +2062,39 @@
           "Public": "20250226"
         },
         {
+          "CveID": "CVE-2022-49625",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49625",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49626",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49626",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49663",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49663",
+          "Public": "20250226"
+        },
+        {
           "CveID": "CVE-2022-49664",
           "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
           "Cwe": "CWE-476",
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-49664",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49669",
+          "Cvss3": "7.8/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+          "Impact": "important",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49669",
           "Public": "20250226"
         },
         {
@@ -1401,11 +2114,25 @@
           "Public": "20250226"
         },
         {
+          "CveID": "CVE-2022-49691",
+          "Cvss3": "5.3/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49691",
+          "Public": "20250226"
+        },
+        {
           "CveID": "CVE-2022-49695",
           "Cvss3": "6.7/CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-416",
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-49695",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49697",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49697",
           "Public": "20250226"
         },
         {
@@ -1438,6 +2165,118 @@
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-49710",
           "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49732",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49732",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-50000",
+          "Cvss3": "7.0/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
+          "Cwe": "CWE-820",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-50000",
+          "Public": "20250618"
+        },
+        {
+          "CveID": "CVE-2022-50001",
+          "Cvss3": "7.0/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-50001",
+          "Public": "20250618"
+        },
+        {
+          "CveID": "CVE-2022-50027",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-401",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-50027",
+          "Public": "20250618"
+        },
+        {
+          "CveID": "CVE-2022-50030",
+          "Cvss3": "7.0/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
+          "Cwe": "CWE-787",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-50030",
+          "Public": "20250618"
+        },
+        {
+          "CveID": "CVE-2022-50048",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-50048",
+          "Public": "20250618"
+        },
+        {
+          "CveID": "CVE-2022-50085",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-50085",
+          "Public": "20250618"
+        },
+        {
+          "CveID": "CVE-2022-50092",
+          "Cvss3": "6.0/CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:U/C:L/I:H/A:H",
+          "Cwe": "CWE-763",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-50092",
+          "Public": "20250618"
+        },
+        {
+          "CveID": "CVE-2022-50095",
+          "Cvss3": "7.0/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
+          "Cwe": "CWE-459",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-50095",
+          "Public": "20250618"
+        },
+        {
+          "CveID": "CVE-2022-50115",
+          "Cvss3": "7.0/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-50115",
+          "Public": "20250618"
+        },
+        {
+          "CveID": "CVE-2022-50178",
+          "Cvss3": "7.0/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-50178",
+          "Public": "20250618"
+        },
+        {
+          "CveID": "CVE-2022-50179",
+          "Cvss3": "5.2/CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:U/C:L/I:L/A:H",
+          "Cwe": "CWE-763",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-50179",
+          "Public": "20250618"
+        },
+        {
+          "CveID": "CVE-2022-50187",
+          "Cvss3": "7.0/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-50187",
+          "Public": "20250618"
+        },
+        {
+          "CveID": "CVE-2022-50212",
+          "Cvss3": "7.0/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-50212",
+          "Public": "20250618"
+        },
+        {
+          "CveID": "CVE-2022-50213",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-825",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-50213",
+          "Public": "20250618"
         },
         {
           "CveID": "CVE-2023-1095",
@@ -1681,6 +2520,10 @@
           "ID": "2293321"
         },
         {
+          "Href": "https://bugzilla.redhat.com/2293324",
+          "ID": "2293324"
+        },
+        {
           "Href": "https://bugzilla.redhat.com/2293344",
           "ID": "2293344"
         },
@@ -1737,8 +2580,16 @@
           "ID": "2347673"
         },
         {
+          "Href": "https://bugzilla.redhat.com/2347676",
+          "ID": "2347676"
+        },
+        {
           "Href": "https://bugzilla.redhat.com/2347679",
           "ID": "2347679"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2347682",
+          "ID": "2347682"
         },
         {
           "Href": "https://bugzilla.redhat.com/2347684",
@@ -1785,6 +2636,18 @@
           "ID": "2347761"
         },
         {
+          "Href": "https://bugzilla.redhat.com/2347764",
+          "ID": "2347764"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2347767",
+          "ID": "2347767"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2347770",
+          "ID": "2347770"
+        },
+        {
           "Href": "https://bugzilla.redhat.com/2347772",
           "ID": "2347772"
         },
@@ -1805,6 +2668,10 @@
           "ID": "2347796"
         },
         {
+          "Href": "https://bugzilla.redhat.com/2347804",
+          "ID": "2347804"
+        },
+        {
           "Href": "https://bugzilla.redhat.com/2347806",
           "ID": "2347806"
         },
@@ -1815,6 +2682,14 @@
         {
           "Href": "https://bugzilla.redhat.com/2347821",
           "ID": "2347821"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2347830",
+          "ID": "2347830"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2347839",
+          "ID": "2347839"
         },
         {
           "Href": "https://bugzilla.redhat.com/2347842",
@@ -1829,6 +2704,10 @@
           "ID": "2347849"
         },
         {
+          "Href": "https://bugzilla.redhat.com/2347872",
+          "ID": "2347872"
+        },
+        {
           "Href": "https://bugzilla.redhat.com/2347877",
           "ID": "2347877"
         },
@@ -1837,8 +2716,16 @@
           "ID": "2347879"
         },
         {
+          "Href": "https://bugzilla.redhat.com/2347898",
+          "ID": "2347898"
+        },
+        {
           "Href": "https://bugzilla.redhat.com/2347930",
           "ID": "2347930"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2347938",
+          "ID": "2347938"
         },
         {
           "Href": "https://bugzilla.redhat.com/2347940",
@@ -1857,8 +2744,40 @@
           "ID": "2347983"
         },
         {
+          "Href": "https://bugzilla.redhat.com/2348015",
+          "ID": "2348015"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348023",
+          "ID": "2348023"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348028",
+          "ID": "2348028"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348029",
+          "ID": "2348029"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348032",
+          "ID": "2348032"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348038",
+          "ID": "2348038"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348039",
+          "ID": "2348039"
+        },
+        {
           "Href": "https://bugzilla.redhat.com/2348040",
           "ID": "2348040"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348055",
+          "ID": "2348055"
         },
         {
           "Href": "https://bugzilla.redhat.com/2348064",
@@ -1869,8 +2788,24 @@
           "ID": "2348065"
         },
         {
+          "Href": "https://bugzilla.redhat.com/2348067",
+          "ID": "2348067"
+        },
+        {
           "Href": "https://bugzilla.redhat.com/2348070",
           "ID": "2348070"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348074",
+          "ID": "2348074"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348079",
+          "ID": "2348079"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348086",
+          "ID": "2348086"
         },
         {
           "Href": "https://bugzilla.redhat.com/2348095",
@@ -1881,8 +2816,40 @@
           "ID": "2348100"
         },
         {
+          "Href": "https://bugzilla.redhat.com/2348106",
+          "ID": "2348106"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348115",
+          "ID": "2348115"
+        },
+        {
           "Href": "https://bugzilla.redhat.com/2348142",
           "ID": "2348142"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348154",
+          "ID": "2348154"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348157",
+          "ID": "2348157"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348159",
+          "ID": "2348159"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348166",
+          "ID": "2348166"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348174",
+          "ID": "2348174"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348180",
+          "ID": "2348180"
         },
         {
           "Href": "https://bugzilla.redhat.com/2348183",
@@ -1897,8 +2864,40 @@
           "ID": "2348201"
         },
         {
+          "Href": "https://bugzilla.redhat.com/2348203",
+          "ID": "2348203"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348206",
+          "ID": "2348206"
+        },
+        {
           "Href": "https://bugzilla.redhat.com/2348213",
           "ID": "2348213"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348214",
+          "ID": "2348214"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348215",
+          "ID": "2348215"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348216",
+          "ID": "2348216"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348218",
+          "ID": "2348218"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348229",
+          "ID": "2348229"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348265",
+          "ID": "2348265"
         },
         {
           "Href": "https://bugzilla.redhat.com/2348266",
@@ -1909,12 +2908,124 @@
           "ID": "2348275"
         },
         {
+          "Href": "https://bugzilla.redhat.com/2348277",
+          "ID": "2348277"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348281",
+          "ID": "2348281"
+        },
+        {
           "Href": "https://bugzilla.redhat.com/2348284",
           "ID": "2348284"
         },
         {
+          "Href": "https://bugzilla.redhat.com/2348285",
+          "ID": "2348285"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348286",
+          "ID": "2348286"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348289",
+          "ID": "2348289"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348300",
+          "ID": "2348300"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348302",
+          "ID": "2348302"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348309",
+          "ID": "2348309"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348314",
+          "ID": "2348314"
+        },
+        {
           "Href": "https://bugzilla.redhat.com/2348324",
           "ID": "2348324"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348326",
+          "ID": "2348326"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348329",
+          "ID": "2348329"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348330",
+          "ID": "2348330"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348360",
+          "ID": "2348360"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348409",
+          "ID": "2348409"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373427",
+          "ID": "2373427"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373453",
+          "ID": "2373453"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373463",
+          "ID": "2373463"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373520",
+          "ID": "2373520"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373522",
+          "ID": "2373522"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373527",
+          "ID": "2373527"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373543",
+          "ID": "2373543"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373551",
+          "ID": "2373551"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373580",
+          "ID": "2373580"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373623",
+          "ID": "2373623"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373645",
+          "ID": "2373645"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373652",
+          "ID": "2373652"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373675",
+          "ID": "2373675"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373693",
+          "ID": "2373693"
         }
       ],
       "AffectedCpeList": [
@@ -1939,7 +3050,7 @@
     "Criterions": [
       {
         "Comment": "Red Hat Enterprise Linux must be installed",
-        "TestRef": "oval:com.redhat.rhba:tst:20223991004"
+        "TestRef": "oval:com.redhat.rhba:tst:20223945012"
       }
     ],
     "Criterias": [
@@ -1948,7 +3059,7 @@
         "Criterions": [
           {
             "Comment": "Red Hat Enterprise Linux 9 is installed",
-            "TestRef": "oval:com.redhat.rhba:tst:20223991003"
+            "TestRef": "oval:com.redhat.rhba:tst:20223945011"
           }
         ],
         "Criterias": [
@@ -2024,21 +3135,8 @@
                 "Operator": "AND",
                 "Criterions": [
                   {
-                    "Comment": "kernel-cross-headers is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267009"
-                  },
-                  {
-                    "Comment": "kernel-cross-headers is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhba:tst:20243983038"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
                     "Comment": "kernel-debug is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267011"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267009"
                   },
                   {
                     "Comment": "kernel-debug is signed with Red Hat redhatrelease2 key",
@@ -2051,7 +3149,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-debug-core is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267013"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267011"
                   },
                   {
                     "Comment": "kernel-debug-core is signed with Red Hat redhatrelease2 key",
@@ -2064,7 +3162,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-debug-devel is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267015"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267013"
                   },
                   {
                     "Comment": "kernel-debug-devel is signed with Red Hat redhatrelease2 key",
@@ -2077,7 +3175,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-debug-devel-matched is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267017"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267015"
                   },
                   {
                     "Comment": "kernel-debug-devel-matched is signed with Red Hat redhatrelease2 key",
@@ -2090,7 +3188,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-debug-modules is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267019"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267017"
                   },
                   {
                     "Comment": "kernel-debug-modules is signed with Red Hat redhatrelease2 key",
@@ -2103,7 +3201,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-debug-modules-extra is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267021"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267019"
                   },
                   {
                     "Comment": "kernel-debug-modules-extra is signed with Red Hat redhatrelease2 key",
@@ -2116,7 +3214,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-devel is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267023"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267021"
                   },
                   {
                     "Comment": "kernel-devel is signed with Red Hat redhatrelease2 key",
@@ -2129,7 +3227,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-devel-matched is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267025"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267023"
                   },
                   {
                     "Comment": "kernel-devel-matched is signed with Red Hat redhatrelease2 key",
@@ -2142,7 +3240,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-doc is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267027"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267025"
                   },
                   {
                     "Comment": "kernel-doc is signed with Red Hat redhatrelease2 key",
@@ -2154,21 +3252,8 @@
                 "Operator": "AND",
                 "Criterions": [
                   {
-                    "Comment": "kernel-headers is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267029"
-                  },
-                  {
-                    "Comment": "kernel-headers is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhba:tst:20243983062"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
                     "Comment": "kernel-modules is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267031"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267027"
                   },
                   {
                     "Comment": "kernel-modules is signed with Red Hat redhatrelease2 key",
@@ -2181,7 +3266,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-modules-extra is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267033"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267029"
                   },
                   {
                     "Comment": "kernel-modules-extra is signed with Red Hat redhatrelease2 key",
@@ -2194,7 +3279,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-tools is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267035"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267031"
                   },
                   {
                     "Comment": "kernel-tools is signed with Red Hat redhatrelease2 key",
@@ -2207,7 +3292,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-tools-libs is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267037"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267033"
                   },
                   {
                     "Comment": "kernel-tools-libs is signed with Red Hat redhatrelease2 key",
@@ -2220,7 +3305,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-tools-libs-devel is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267039"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267035"
                   },
                   {
                     "Comment": "kernel-tools-libs-devel is signed with Red Hat redhatrelease2 key",
@@ -2233,7 +3318,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-zfcpdump is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267041"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267037"
                   },
                   {
                     "Comment": "kernel-zfcpdump is signed with Red Hat redhatrelease2 key",
@@ -2246,7 +3331,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-zfcpdump-core is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267043"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267039"
                   },
                   {
                     "Comment": "kernel-zfcpdump-core is signed with Red Hat redhatrelease2 key",
@@ -2259,7 +3344,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-zfcpdump-devel is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267045"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267041"
                   },
                   {
                     "Comment": "kernel-zfcpdump-devel is signed with Red Hat redhatrelease2 key",
@@ -2272,7 +3357,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-zfcpdump-devel-matched is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267047"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267043"
                   },
                   {
                     "Comment": "kernel-zfcpdump-devel-matched is signed with Red Hat redhatrelease2 key",
@@ -2285,7 +3370,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-zfcpdump-modules is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267049"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267045"
                   },
                   {
                     "Comment": "kernel-zfcpdump-modules is signed with Red Hat redhatrelease2 key",
@@ -2298,7 +3383,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-zfcpdump-modules-extra is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267051"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267047"
                   },
                   {
                     "Comment": "kernel-zfcpdump-modules-extra is signed with Red Hat redhatrelease2 key",
@@ -2311,7 +3396,7 @@
                 "Criterions": [
                   {
                     "Comment": "perf is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267053"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267049"
                   },
                   {
                     "Comment": "perf is signed with Red Hat redhatrelease2 key",
@@ -2324,7 +3409,7 @@
                 "Criterions": [
                   {
                     "Comment": "python3-perf is earlier than 0:5.14.0-162.6.1.el9_1",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20228267055"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20228267051"
                   },
                   {
                     "Comment": "python3-perf is signed with Red Hat redhatrelease2 key",

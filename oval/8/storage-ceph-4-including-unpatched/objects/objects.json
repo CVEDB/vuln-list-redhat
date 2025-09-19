@@ -226,6 +226,11 @@
       "Name": "ansible-runner-service"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202423337001",
+      "Version": "636",
+      "Name": "jq"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202442353001",
       "Version": "636",
       "Name": "python3-webob"
@@ -234,6 +239,11 @@
       "ID": "oval:com.redhat.cve:obj:202447191001",
       "Version": "636",
       "Name": "liboath"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20255889001",
+      "Version": "636",
+      "Name": "brace-expansion"
     },
     {
       "ID": "oval:com.redhat.rhba:obj:20204144001",
@@ -287,17 +297,17 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20211452001",
-      "Version": "642",
+      "Version": "643",
       "Name": "libtcmu"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20211452002",
-      "Version": "642",
+      "Version": "643",
       "Name": "tcmu-runner"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20211452003",
-      "Version": "642",
+      "Version": "643",
       "Name": "gperftools-libs"
     },
     {
@@ -309,11 +319,6 @@
       "ID": "oval:com.redhat.unaffected:obj:202028502001",
       "Version": "635",
       "Name": "nodejs-xmlhttprequest"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202350246001",
-      "Version": "635",
-      "Name": "jq"
     }
   ],
   "RpmverifyfileObjects": [

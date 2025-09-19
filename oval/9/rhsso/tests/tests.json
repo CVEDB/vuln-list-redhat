@@ -340,7 +340,7 @@
       "Check": "at least one",
       "Comment": "rh-sso7-keycloak is earlier than 0:18.0.11-3.redhat_00001.1.el9sso",
       "ID": "oval:com.redhat.rhsa:tst:20240096001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20227411001"
       },
@@ -352,7 +352,7 @@
       "Check": "at least one",
       "Comment": "rh-sso7-keycloak-server is earlier than 0:18.0.11-3.redhat_00001.1.el9sso",
       "ID": "oval:com.redhat.rhsa:tst:20240096003",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20227411002"
       },
@@ -412,7 +412,7 @@
       "Check": "at least one",
       "Comment": "rh-sso7-keycloak is earlier than 0:18.0.14-1.redhat_00001.1.el9sso",
       "ID": "oval:com.redhat.rhsa:tst:20243568001",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20227411001"
       },
@@ -424,7 +424,7 @@
       "Check": "at least one",
       "Comment": "rh-sso7-keycloak-server is earlier than 0:18.0.14-1.redhat_00001.1.el9sso",
       "ID": "oval:com.redhat.rhsa:tst:20243568003",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20227411002"
       },
@@ -436,7 +436,7 @@
       "Check": "at least one",
       "Comment": "rh-sso7-keycloak is earlier than 0:18.0.16-1.redhat_00001.1.el9sso",
       "ID": "oval:com.redhat.rhsa:tst:20246495001",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20227411001"
       },
@@ -448,7 +448,7 @@
       "Check": "at least one",
       "Comment": "rh-sso7-keycloak-server is earlier than 0:18.0.16-1.redhat_00001.1.el9sso",
       "ID": "oval:com.redhat.rhsa:tst:20246495003",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20227411002"
       },
@@ -478,6 +478,30 @@
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20246880001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-sso7-keycloak is earlier than 0:18.0.19-1.redhat_00002.1.el9sso",
+      "ID": "oval:com.redhat.rhsa:tst:202511640001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20227411001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:202511640001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-sso7-keycloak-server is earlier than 0:18.0.19-1.redhat_00002.1.el9sso",
+      "ID": "oval:com.redhat.rhsa:tst:202511640003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20227411002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:202511640001"
       }
     }
   ],

@@ -20,6 +20,11 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2024-0397",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2024-0397"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2024-0450",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2024-0450"
       },
@@ -42,6 +47,14 @@
       },
       "Cves": [
         {
+          "CveID": "CVE-2024-0397",
+          "Cvss3": "5.0/CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:L/I:L/A:L",
+          "Cwe": "CWE-362",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2024-0397",
+          "Public": "20240617"
+        },
+        {
           "CveID": "CVE-2024-0450",
           "Cvss3": "6.2/CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
           "Cwe": "CWE-450",
@@ -62,6 +75,10 @@
         {
           "Href": "https://bugzilla.redhat.com/2276525",
           "ID": "2276525"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2301891",
+          "ID": "2301891"
         },
         {
           "Href": "https://bugzilla.redhat.com/2307370",
@@ -117,7 +134,7 @@
                   },
                   {
                     "Comment": "python3.11 is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20240397016"
+                    "TestRef": "oval:com.redhat.cve:tst:20251795030"
                   }
                 ]
               },
@@ -130,7 +147,7 @@
                   },
                   {
                     "Comment": "python3.11-debug is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20240397012"
+                    "TestRef": "oval:com.redhat.cve:tst:20251795032"
                   }
                 ]
               },
@@ -143,7 +160,7 @@
                   },
                   {
                     "Comment": "python3.11-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20240397004"
+                    "TestRef": "oval:com.redhat.cve:tst:20251795012"
                   }
                 ]
               },
@@ -156,7 +173,7 @@
                   },
                   {
                     "Comment": "python3.11-idle is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20240397018"
+                    "TestRef": "oval:com.redhat.cve:tst:20251795008"
                   }
                 ]
               },
@@ -169,7 +186,7 @@
                   },
                   {
                     "Comment": "python3.11-libs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20240397044"
+                    "TestRef": "oval:com.redhat.cve:tst:20251795010"
                   }
                 ]
               },
@@ -182,7 +199,7 @@
                   },
                   {
                     "Comment": "python3.11-test is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20240397008"
+                    "TestRef": "oval:com.redhat.cve:tst:20251795006"
                   }
                 ]
               },
@@ -195,7 +212,7 @@
                   },
                   {
                     "Comment": "python3.11-tkinter is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20240397032"
+                    "TestRef": "oval:com.redhat.cve:tst:20251795022"
                   }
                 ]
               }

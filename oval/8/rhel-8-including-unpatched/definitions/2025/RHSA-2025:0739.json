@@ -1,7 +1,7 @@
 {
   "Class": "patch",
   "ID": "oval:com.redhat.rhsa:def:20250739",
-  "Version": "635",
+  "Version": "636",
   "Metadata": {
     "Title": "RHSA-2025:0739: mariadb:10.5 security update (Moderate)",
     "AffectedList": [
@@ -118,7 +118,7 @@
                 "Criterions": [
                   {
                     "Comment": "Module mariadb:10.5 is enabled",
-                    "TestRef": "oval:com.redhat.cve:tst:202232083039"
+                    "TestRef": "oval:com.redhat.cve:tst:202232083033"
                   }
                 ],
                 "Criterias": [

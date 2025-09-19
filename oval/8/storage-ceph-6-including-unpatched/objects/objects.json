@@ -36,12 +36,12 @@
       "Name": "grafana-sdk-go"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202344487001",
+      "ID": "oval:com.redhat.cve:obj:202344487002",
       "Version": "636",
       "Name": "nghttp2"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202344487002",
+      "ID": "oval:com.redhat.cve:obj:202344487003",
       "Version": "636",
       "Name": "envoy-proxy"
     },
@@ -204,6 +204,26 @@
       "ID": "oval:com.redhat.cve:obj:20246485026",
       "Version": "636",
       "Name": "ceph-common"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202529923001",
+      "Version": "636",
+      "Name": "rhceph/grafana-rhel9"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202529923002",
+      "Version": "636",
+      "Name": "rhel9/grafana"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202545768001",
+      "Version": "636",
+      "Name": "python-jwt"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20255889001",
+      "Version": "636",
+      "Name": "brace-expansion"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20254238026",

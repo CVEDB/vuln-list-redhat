@@ -217,22 +217,22 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20211452001",
-      "Version": "642",
+      "Version": "643",
       "Name": "libtcmu"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20211452002",
-      "Version": "642",
+      "Version": "643",
       "Name": "tcmu-runner"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20211452003",
-      "Version": "642",
+      "Version": "643",
       "Name": "gperftools-libs"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20221716001",
-      "Version": "638",
+      "Version": "639",
       "Name": "python3-rsa"
     }
   ],

@@ -46,7 +46,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-eventlet is installed",
+      "Comment": "python-eventlet is installed",
       "ID": "oval:com.redhat.cve:tst:202329483001",
       "Version": "636",
       "Object": {
@@ -56,7 +56,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-eventlet is signed with Red Hat redhatrelease2 key",
+      "Comment": "python-eventlet is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202329483002",
       "Version": "636",
       "Object": {
@@ -68,7 +68,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-eventlet is installed",
+      "Comment": "python3-eventlet is installed",
       "ID": "oval:com.redhat.cve:tst:202329483003",
       "Version": "636",
       "Object": {
@@ -78,7 +78,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-eventlet is signed with Red Hat redhatrelease2 key",
+      "Comment": "python3-eventlet is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202329483004",
       "Version": "636",
       "Object": {
@@ -223,20 +223,20 @@
     {
       "Check": "at least one",
       "Comment": "golang-github-infrawatch-apputils is installed",
-      "ID": "oval:com.redhat.cve:tst:202345290003",
+      "ID": "oval:com.redhat.cve:tst:202345290001",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202345290002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202345290001"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "golang-github-infrawatch-apputils is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202345290004",
+      "ID": "oval:com.redhat.cve:tst:202345290002",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202345290002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202345290001"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:202234038001"
@@ -289,20 +289,20 @@
     {
       "Check": "at least one",
       "Comment": "python3-qpid-proton is installed",
-      "ID": "oval:com.redhat.cve:tst:202424788001",
+      "ID": "oval:com.redhat.cve:tst:202424788003",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202424788001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202424788002"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "python3-qpid-proton is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202424788002",
+      "ID": "oval:com.redhat.cve:tst:202424788004",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202424788001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202424788002"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:202234038001"
@@ -310,7 +310,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "qpid-proton-c-devel is installed",
+      "Comment": "golang-qpid-apache is installed",
       "ID": "oval:com.redhat.cve:tst:202424788005",
       "Version": "636",
       "Object": {
@@ -320,7 +320,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "qpid-proton-c-devel is signed with Red Hat redhatrelease2 key",
+      "Comment": "golang-qpid-apache is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202424788006",
       "Version": "636",
       "Object": {
@@ -333,28 +333,6 @@
     {
       "Check": "at least one",
       "Comment": "qpid-proton-c is installed",
-      "ID": "oval:com.redhat.cve:tst:202424788007",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202424788004"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "qpid-proton-c is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202424788008",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202424788004"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:202234038001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "golang-qpid-apache is installed",
       "ID": "oval:com.redhat.cve:tst:202424788009",
       "Version": "636",
       "Object": {
@@ -364,11 +342,55 @@
     },
     {
       "Check": "at least one",
-      "Comment": "golang-qpid-apache is signed with Red Hat redhatrelease2 key",
+      "Comment": "qpid-proton-c is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202424788010",
       "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202424788005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qpid-proton-c-devel is installed",
+      "ID": "oval:com.redhat.cve:tst:202424788011",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202424788006"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qpid-proton-c-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202424788012",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202424788006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "luajit is installed",
+      "ID": "oval:com.redhat.cve:tst:202425176001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202425176001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "luajit is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202425176002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202425176001"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:202234038001"
@@ -882,28 +904,6 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-h11 is installed",
-      "ID": "oval:com.redhat.cve:tst:202543859001",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202543859001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3-h11 is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202543859002",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202543859001"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:202234038001"
-      }
-    },
-    {
-      "Check": "at least one",
       "Comment": "openstack-ironic-conductor is installed",
       "ID": "oval:com.redhat.cve:tst:202544021001",
       "Version": "636",
@@ -992,6 +992,512 @@
     },
     {
       "Check": "at least one",
+      "Comment": "python3-jwt is installed",
+      "ID": "oval:com.redhat.cve:tst:202545768001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202545768001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-jwt is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202545768002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202545768001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rhosp-rhel9/osp-director-agent is installed",
+      "ID": "oval:com.redhat.cve:tst:202547907001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202547907001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rhosp-rhel9/osp-director-agent is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202547907002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202547907001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-tools is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-tools is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-os_mon is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-os_mon is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-parsetools is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038005",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-parsetools is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038006",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-eldap is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038007",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-eldap is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038008",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-mnesia is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038009",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038005"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-mnesia is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038010",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-kernel is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038011",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038006"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-kernel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038012",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-xmerl is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038013",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038007"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-xmerl is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038014",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-compiler is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038015",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038008"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-compiler is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038016",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-erts is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038017",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038009"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-erts is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038018",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-syntax_tools is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038019",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038010"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-syntax_tools is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038020",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-public_key is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038021",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038011"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-public_key is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038022",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038011"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-runtime_tools is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038023",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038012"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-runtime_tools is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038024",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038012"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-sasl is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038025",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038013"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-sasl is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038026",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038013"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-ssl is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038027",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038014"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-ssl is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038028",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038014"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-stdlib is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038029",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038015"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-stdlib is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038030",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038015"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-crypto is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038031",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038016"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-crypto is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038032",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038016"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-snmp is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038033",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038017"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-snmp is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038034",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038017"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-inets is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038035",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038018"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-inets is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038036",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038018"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-asn1 is installed",
+      "ID": "oval:com.redhat.cve:tst:202548038037",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038019"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "erlang-asn1 is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548038038",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038019"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rhosp-rhel9/osp-director-operator is installed",
+      "ID": "oval:com.redhat.cve:tst:20258556001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20258556001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rhosp-rhel9/osp-director-operator is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20258556002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20258556001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rhosp-rhel9/osp-director-downloader is installed",
+      "ID": "oval:com.redhat.cve:tst:20258556003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20258556002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rhosp-rhel9/osp-director-downloader is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20258556004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20258556002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "etcd is earlier than 0:3.4.26-3.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20235969001",
       "Version": "643",
@@ -1066,7 +1572,7 @@
       "Check": "at least one",
       "Comment": "python3-gevent is earlier than 0:21.1.2-2.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20237438001",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20237438001"
       },
@@ -1078,7 +1584,7 @@
       "Check": "at least one",
       "Comment": "python3-gevent is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20237438002",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20237438001"
       },
@@ -1102,9 +1608,9 @@
       "Check": "at least one",
       "Comment": "python3-eventlet is earlier than 0:0.30.2-4.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20240213001",
-      "Version": "634",
+      "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202329483001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202329483002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20240213001"
@@ -1114,7 +1620,7 @@
       "Check": "at least one",
       "Comment": "python3-werkzeug is earlier than 0:2.0.1-6.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20240214001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20240214001"
       },
@@ -1126,7 +1632,7 @@
       "Check": "at least one",
       "Comment": "python3-werkzeug is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20240214002",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20240214001"
       },
@@ -1138,7 +1644,7 @@
       "Check": "at least one",
       "Comment": "python3-GitPython is earlier than 0:3.1.14-2.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20240215001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202340267002"
       },
@@ -1150,7 +1656,7 @@
       "Check": "at least one",
       "Comment": "openstack-tripleo-common is earlier than 0:15.4.1-17.1.20230927010819.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20240216001",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20240216001"
       },
@@ -1162,7 +1668,7 @@
       "Check": "at least one",
       "Comment": "openstack-tripleo-common is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20240216002",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20240216001"
       },
@@ -1174,7 +1680,7 @@
       "Check": "at least one",
       "Comment": "openstack-tripleo-common-container-base is earlier than 0:15.4.1-17.1.20230927010819.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20240216003",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20240216002"
       },
@@ -1186,7 +1692,7 @@
       "Check": "at least one",
       "Comment": "openstack-tripleo-common-container-base is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20240216004",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20240216002"
       },
@@ -1198,7 +1704,7 @@
       "Check": "at least one",
       "Comment": "openstack-tripleo-common-containers is earlier than 0:15.4.1-17.1.20230927010819.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20240216005",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20240216003"
       },
@@ -1210,7 +1716,7 @@
       "Check": "at least one",
       "Comment": "openstack-tripleo-common-containers is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20240216006",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20240216003"
       },
@@ -1222,7 +1728,7 @@
       "Check": "at least one",
       "Comment": "openstack-tripleo-common-devtools is earlier than 0:15.4.1-17.1.20230927010819.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20240216007",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20240216004"
       },
@@ -1234,7 +1740,7 @@
       "Check": "at least one",
       "Comment": "openstack-tripleo-common-devtools is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20240216008",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20240216004"
       },
@@ -1246,7 +1752,7 @@
       "Check": "at least one",
       "Comment": "python3-tripleo-common is earlier than 0:15.4.1-17.1.20230927010819.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20240216009",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20240216005"
       },
@@ -1258,7 +1764,7 @@
       "Check": "at least one",
       "Comment": "python3-tripleo-common is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20240216010",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20240216005"
       },
@@ -1270,7 +1776,7 @@
       "Check": "at least one",
       "Comment": "rabbitmq-server is earlier than 0:3.9.10-3.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20240217001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202530219001"
       },
@@ -1402,7 +1908,7 @@
       "Check": "at least one",
       "Comment": "python3-glance-store is earlier than 0:2.5.1-17.1.20230621023901.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20242732001",
-      "Version": "634",
+      "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20242732001"
       },
@@ -1414,7 +1920,7 @@
       "Check": "at least one",
       "Comment": "python3-glance-store is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20242732002",
-      "Version": "634",
+      "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20242732001"
       },
@@ -1474,7 +1980,7 @@
       "Check": "at least one",
       "Comment": "tripleo-ansible is earlier than 0:3.3.1-17.1.20231101230831.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20242736001",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20242736001"
       },
@@ -1486,7 +1992,7 @@
       "Check": "at least one",
       "Comment": "tripleo-ansible is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20242736002",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20242736001"
       },
@@ -1498,7 +2004,7 @@
       "Check": "at least one",
       "Comment": "openstack-tripleo-heat-templates is earlier than 0:14.3.1-17.1.20231103010840.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20242736003",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20241931002"
       },
@@ -1510,7 +2016,7 @@
       "Check": "at least one",
       "Comment": "python-openstackclient-lang is earlier than 0:5.5.2-17.1.20230829210830.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20242737001",
-      "Version": "634",
+      "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20242737001"
       },
@@ -1522,7 +2028,7 @@
       "Check": "at least one",
       "Comment": "python-openstackclient-lang is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20242737002",
-      "Version": "634",
+      "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20242737001"
       },
@@ -1534,7 +2040,7 @@
       "Check": "at least one",
       "Comment": "python3-openstackclient is earlier than 0:5.5.2-17.1.20230829210830.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20242737003",
-      "Version": "634",
+      "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20242737002"
       },
@@ -1546,7 +2052,7 @@
       "Check": "at least one",
       "Comment": "python3-openstackclient is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20242737004",
-      "Version": "634",
+      "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20242737002"
       },
@@ -2086,7 +2592,7 @@
       "Check": "at least one",
       "Comment": "python3-zipp is earlier than 0:3.4.0-3.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20249977001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20249977001"
       },
@@ -2098,7 +2604,7 @@
       "Check": "at least one",
       "Comment": "python3-zipp is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20249977002",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20249977001"
       },
@@ -2122,7 +2628,7 @@
       "Check": "at least one",
       "Comment": "openstack-ironic-api is earlier than 1:17.1.1-17.1.20240917210749.c31db88.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20249982001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202544021003"
       },
@@ -2134,7 +2640,7 @@
       "Check": "at least one",
       "Comment": "openstack-ironic-common is earlier than 1:17.1.1-17.1.20240917210749.c31db88.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20249982003",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202544021002"
       },
@@ -2146,7 +2652,7 @@
       "Check": "at least one",
       "Comment": "openstack-ironic-conductor is earlier than 1:17.1.1-17.1.20240917210749.c31db88.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20249982005",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202544021001"
       },
@@ -2206,7 +2712,7 @@
       "Check": "at least one",
       "Comment": "python3-tripleoclient is earlier than 0:16.5.1-17.1.20240913100806.f3599d0.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20249990001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20249990001"
       },
@@ -2218,7 +2724,7 @@
       "Check": "at least one",
       "Comment": "python3-tripleoclient is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20249990002",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20249990001"
       },
@@ -2230,7 +2736,7 @@
       "Check": "at least one",
       "Comment": "openstack-tripleo-common is earlier than 0:15.4.1-17.1.20240911100820.e5b18f2.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20249990003",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20240216001"
       },
@@ -2242,7 +2748,7 @@
       "Check": "at least one",
       "Comment": "openstack-tripleo-common-container-base is earlier than 0:15.4.1-17.1.20240911100820.e5b18f2.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20249990005",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20240216002"
       },
@@ -2254,7 +2760,7 @@
       "Check": "at least one",
       "Comment": "openstack-tripleo-common-containers is earlier than 0:15.4.1-17.1.20240911100820.e5b18f2.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20249990007",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20240216003"
       },
@@ -2266,7 +2772,7 @@
       "Check": "at least one",
       "Comment": "openstack-tripleo-common-devtools is earlier than 0:15.4.1-17.1.20240911100820.e5b18f2.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20249990009",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20240216004"
       },
@@ -2278,7 +2784,7 @@
       "Check": "at least one",
       "Comment": "python3-tripleo-common is earlier than 0:15.4.1-17.1.20240911100820.e5b18f2.el9ost",
       "ID": "oval:com.redhat.rhsa:tst:20249990011",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20240216005"
       },
@@ -2392,6 +2898,30 @@
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20254187001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-h11 is earlier than 0:0.12.0-2.1.el9ost",
+      "ID": "oval:com.redhat.rhsa:tst:20257536001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20257536001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20257536001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-h11 is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20257536002",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20257536001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202234038001"
       }
     },
     {
@@ -2529,7 +3059,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202345290002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202345290001"
       },
       "State": {}
     },
@@ -2721,7 +3251,7 @@
     {
       "Check": "at least one",
       "Comment": "collectd-libpod-stats is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202339321004",
+      "ID": "oval:com.redhat.unaffected:tst:202339321002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -2805,32 +3335,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "erlang-compiler is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795001",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "erlang-compiler is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202348795002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "erlang-kernel is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795003",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038008"
       },
       "State": {}
     },
@@ -2841,17 +3351,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795002"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "erlang-runtime_tools is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795005",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038006"
       },
       "State": {}
     },
@@ -2862,17 +3362,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "erlang-inets is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795007",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038012"
       },
       "State": {}
     },
@@ -2883,17 +3373,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795004"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "erlang-stdlib is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795009",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038018"
       },
       "State": {}
     },
@@ -2904,7 +3384,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038015"
       },
       "State": {}
     },
@@ -2952,32 +3432,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "erlang-crypto is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795015",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795008"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "erlang-crypto is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202348795016",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795008"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "erlang-parsetools is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795017",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795009"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038016"
       },
       "State": {}
     },
@@ -2988,17 +3448,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795009"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "erlang-xmerl is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795019",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795010"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038003"
       },
       "State": {}
     },
@@ -3009,7 +3459,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795010"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038007"
       },
       "State": {}
     },
@@ -3036,32 +3486,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "erlang-ssl is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795023",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795012"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "erlang-ssl is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202348795024",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795012"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "erlang-syntax_tools is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795025",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795013"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038014"
       },
       "State": {}
     },
@@ -3072,17 +3502,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795013"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "erlang-snmp is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795027",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795014"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038010"
       },
       "State": {}
     },
@@ -3093,17 +3513,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795014"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "erlang-mnesia is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795029",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795015"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038017"
       },
       "State": {}
     },
@@ -3114,17 +3524,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795015"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "erlang-asn1 is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795031",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795016"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038005"
       },
       "State": {}
     },
@@ -3135,17 +3535,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795016"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "erlang-public_key is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795033",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795017"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038019"
       },
       "State": {}
     },
@@ -3156,17 +3546,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795017"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "erlang-os_mon is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795035",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795018"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038011"
       },
       "State": {}
     },
@@ -3177,17 +3557,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795018"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "erlang-tools is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795037",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795019"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038002"
       },
       "State": {}
     },
@@ -3198,17 +3568,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795019"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "erlang-sasl is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795039",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795020"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038001"
       },
       "State": {}
     },
@@ -3219,17 +3579,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795020"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "erlang-eldap is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795041",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795021"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038013"
       },
       "State": {}
     },
@@ -3240,17 +3590,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795021"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "erlang-erts is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202348795043",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795022"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038004"
       },
       "State": {}
     },
@@ -3261,7 +3601,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202348795022"
+        "ObjectRef": "oval:com.redhat.cve:obj:202548038009"
       },
       "State": {}
     },
@@ -3310,34 +3650,34 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-qpid-proton is not installed",
+      "Comment": "qpid-proton-c-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20241394002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202424788001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "qpid-proton-c-devel is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20241394004",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202424788003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202424788006"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "qpid-proton-c is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20241394004",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202424788005"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-qpid-proton is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20241394006",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202424788004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202424788002"
       },
       "State": {}
     },
@@ -3572,6 +3912,48 @@
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.unaffected:obj:202527607001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-flask is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202547278001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202547278001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-flask is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202547278002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202547278001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-future is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202550817001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202550817001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-future is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202550817002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202550817001"
       },
       "State": {}
     }

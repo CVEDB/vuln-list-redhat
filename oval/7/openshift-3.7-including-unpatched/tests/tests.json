@@ -12786,7 +12786,7 @@
       "Check": "at least one",
       "Comment": "atomic-openshift is earlier than 0:3.7.23-1.git.5.83efd71.el7",
       "ID": "oval:com.redhat.rhsa:tst:20180475001",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201715137015"
       },
@@ -12798,7 +12798,7 @@
       "Check": "at least one",
       "Comment": "atomic-openshift-clients is earlier than 0:3.7.23-1.git.5.83efd71.el7",
       "ID": "oval:com.redhat.rhsa:tst:20180475003",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201715137012"
       },
@@ -12810,7 +12810,7 @@
       "Check": "at least one",
       "Comment": "atomic-openshift-clients-redistributable is earlier than 0:3.7.23-1.git.5.83efd71.el7",
       "ID": "oval:com.redhat.rhsa:tst:20180475005",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201715137007"
       },
@@ -12822,7 +12822,7 @@
       "Check": "at least one",
       "Comment": "atomic-openshift-cluster-capacity is earlier than 0:3.7.23-1.git.5.83efd71.el7",
       "ID": "oval:com.redhat.rhsa:tst:20180475007",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201715137006"
       },
@@ -12834,7 +12834,7 @@
       "Check": "at least one",
       "Comment": "atomic-openshift-docker-excluder is earlier than 0:3.7.23-1.git.5.83efd71.el7",
       "ID": "oval:com.redhat.rhsa:tst:20180475009",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201715137009"
       },
@@ -12846,7 +12846,7 @@
       "Check": "at least one",
       "Comment": "atomic-openshift-dockerregistry is earlier than 0:3.7.23-1.git.5.83efd71.el7",
       "ID": "oval:com.redhat.rhsa:tst:20180475011",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201715137004"
       },
@@ -12858,7 +12858,7 @@
       "Check": "at least one",
       "Comment": "atomic-openshift-excluder is earlier than 0:3.7.23-1.git.5.83efd71.el7",
       "ID": "oval:com.redhat.rhsa:tst:20180475013",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201715137002"
       },
@@ -12870,7 +12870,7 @@
       "Check": "at least one",
       "Comment": "atomic-openshift-federation-services is earlier than 0:3.7.23-1.git.5.83efd71.el7",
       "ID": "oval:com.redhat.rhsa:tst:20180475015",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201715137003"
       },
@@ -12882,7 +12882,7 @@
       "Check": "at least one",
       "Comment": "atomic-openshift-master is earlier than 0:3.7.23-1.git.5.83efd71.el7",
       "ID": "oval:com.redhat.rhsa:tst:20180475017",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201715137011"
       },
@@ -12894,7 +12894,7 @@
       "Check": "at least one",
       "Comment": "atomic-openshift-node is earlier than 0:3.7.23-1.git.5.83efd71.el7",
       "ID": "oval:com.redhat.rhsa:tst:20180475019",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201715137001"
       },
@@ -12906,7 +12906,7 @@
       "Check": "at least one",
       "Comment": "atomic-openshift-pod is earlier than 0:3.7.23-1.git.5.83efd71.el7",
       "ID": "oval:com.redhat.rhsa:tst:20180475021",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201715137010"
       },
@@ -12918,7 +12918,7 @@
       "Check": "at least one",
       "Comment": "atomic-openshift-sdn-ovs is earlier than 0:3.7.23-1.git.5.83efd71.el7",
       "ID": "oval:com.redhat.rhsa:tst:20180475023",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201715137005"
       },
@@ -12930,7 +12930,7 @@
       "Check": "at least one",
       "Comment": "atomic-openshift-service-catalog is earlier than 0:3.7.23-1.git.5.83efd71.el7",
       "ID": "oval:com.redhat.rhsa:tst:20180475025",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201715137013"
       },
@@ -12942,7 +12942,7 @@
       "Check": "at least one",
       "Comment": "atomic-openshift-template-service-broker is earlier than 0:3.7.23-1.git.5.83efd71.el7",
       "ID": "oval:com.redhat.rhsa:tst:20180475027",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201715137008"
       },
@@ -12954,7 +12954,7 @@
       "Check": "at least one",
       "Comment": "atomic-openshift-tests is earlier than 0:3.7.23-1.git.5.83efd71.el7",
       "ID": "oval:com.redhat.rhsa:tst:20180475029",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201715137014"
       },
@@ -12966,7 +12966,7 @@
       "Check": "at least one",
       "Comment": "tuned-profiles-atomic-openshift-node is earlier than 0:3.7.23-1.git.5.83efd71.el7",
       "ID": "oval:com.redhat.rhsa:tst:20180475031",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201715137016"
       },
@@ -13506,7 +13506,7 @@
       "Check": "at least one",
       "Comment": "docker is earlier than 2:1.12.6-79.git5680db5.el7",
       "ID": "oval:com.redhat.rhsa:tst:20190408001",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201815664004"
       },
@@ -13518,7 +13518,7 @@
       "Check": "at least one",
       "Comment": "docker-client is earlier than 2:1.12.6-79.git5680db5.el7",
       "ID": "oval:com.redhat.rhsa:tst:20190408003",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201815664002"
       },
@@ -13530,7 +13530,7 @@
       "Check": "at least one",
       "Comment": "docker-common is earlier than 2:1.12.6-79.git5680db5.el7",
       "ID": "oval:com.redhat.rhsa:tst:20190408005",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201815664007"
       },
@@ -13542,7 +13542,7 @@
       "Check": "at least one",
       "Comment": "docker-logrotate is earlier than 2:1.12.6-79.git5680db5.el7",
       "ID": "oval:com.redhat.rhsa:tst:20190408007",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201815664008"
       },
@@ -13554,7 +13554,7 @@
       "Check": "at least one",
       "Comment": "docker-lvm-plugin is earlier than 2:1.12.6-79.git5680db5.el7",
       "ID": "oval:com.redhat.rhsa:tst:20190408009",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201815664005"
       },
@@ -13566,7 +13566,7 @@
       "Check": "at least one",
       "Comment": "docker-novolume-plugin is earlier than 2:1.12.6-79.git5680db5.el7",
       "ID": "oval:com.redhat.rhsa:tst:20190408011",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201815664006"
       },
@@ -13578,7 +13578,7 @@
       "Check": "at least one",
       "Comment": "docker-rhel-push-plugin is earlier than 2:1.12.6-79.git5680db5.el7",
       "ID": "oval:com.redhat.rhsa:tst:20190408013",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201815664003"
       },
@@ -13590,7 +13590,7 @@
       "Check": "at least one",
       "Comment": "docker-unit-test is earlier than 2:1.12.6-79.git5680db5.el7",
       "ID": "oval:com.redhat.rhsa:tst:20190408015",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201815664009"
       },
@@ -13602,7 +13602,7 @@
       "Check": "at least one",
       "Comment": "docker-v1.10-migrator is earlier than 2:1.12.6-79.git5680db5.el7",
       "ID": "oval:com.redhat.rhsa:tst:20190408017",
-      "Version": "639",
+      "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201815664001"
       },

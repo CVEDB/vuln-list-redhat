@@ -1,7 +1,7 @@
 {
   "Class": "patch",
   "ID": "oval:com.redhat.rhsa:def:20242778",
-  "Version": "635",
+  "Version": "636",
   "Metadata": {
     "Title": "RHSA-2024:2778: nodejs:20 security update (Important)",
     "AffectedList": [
@@ -171,7 +171,7 @@
                 "Criterions": [
                   {
                     "Comment": "Module nodejs:20 is enabled",
-                    "TestRef": "oval:com.redhat.cve:tst:202421538018"
+                    "TestRef": "oval:com.redhat.cve:tst:202421538022"
                   }
                 ],
                 "Criterias": [

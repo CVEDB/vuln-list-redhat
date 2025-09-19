@@ -2546,7 +2546,7 @@
                   },
                   {
                     "Comment": "libgepub is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20183140342"
+                    "TestRef": "oval:com.redhat.cve:tst:20256196002"
                   }
                 ]
               },
@@ -2559,7 +2559,7 @@
                   },
                   {
                     "Comment": "libgepub-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20183140344"
+                    "TestRef": "oval:com.redhat.cve:tst:20256196004"
                   }
                 ]
               },
@@ -3079,7 +3079,7 @@
                   },
                   {
                     "Comment": "libsoup is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202452532004"
+                    "TestRef": "oval:com.redhat.cve:tst:202452532002"
                   }
                 ]
               },
@@ -3092,7 +3092,7 @@
                   },
                   {
                     "Comment": "libsoup-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202452532002"
+                    "TestRef": "oval:com.redhat.cve:tst:202452532004"
                   }
                 ]
               },
@@ -3430,7 +3430,7 @@
                   },
                   {
                     "Comment": "vte-profile is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202437535010"
+                    "TestRef": "oval:com.redhat.cve:tst:202437535002"
                   }
                 ]
               },
@@ -3443,7 +3443,7 @@
                   },
                   {
                     "Comment": "vte291 is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202437535002"
+                    "TestRef": "oval:com.redhat.cve:tst:202437535004"
                   }
                 ]
               },
@@ -3456,7 +3456,7 @@
                   },
                   {
                     "Comment": "vte291-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202437535004"
+                    "TestRef": "oval:com.redhat.cve:tst:202437535010"
                   }
                 ]
               },
@@ -3469,7 +3469,7 @@
                   },
                   {
                     "Comment": "libwayland-client is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20213782014"
+                    "TestRef": "oval:com.redhat.cve:tst:20213782006"
                   }
                 ]
               },
@@ -3482,7 +3482,7 @@
                   },
                   {
                     "Comment": "libwayland-cursor is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20213782006"
+                    "TestRef": "oval:com.redhat.cve:tst:20213782012"
                   }
                 ]
               },
@@ -3495,7 +3495,7 @@
                   },
                   {
                     "Comment": "libwayland-egl is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20213782010"
+                    "TestRef": "oval:com.redhat.cve:tst:20213782004"
                   }
                 ]
               },
@@ -3508,7 +3508,7 @@
                   },
                   {
                     "Comment": "libwayland-server is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20213782004"
+                    "TestRef": "oval:com.redhat.cve:tst:20213782014"
                   }
                 ]
               },
@@ -3534,7 +3534,7 @@
                   },
                   {
                     "Comment": "wayland-doc is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20213782002"
+                    "TestRef": "oval:com.redhat.cve:tst:20213782010"
                   }
                 ]
               },
@@ -3560,7 +3560,7 @@
                   },
                   {
                     "Comment": "yelp is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20253155002"
+                    "TestRef": "oval:com.redhat.cve:tst:20253155006"
                   }
                 ]
               },
@@ -3573,7 +3573,7 @@
                   },
                   {
                     "Comment": "yelp-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20253155006"
+                    "TestRef": "oval:com.redhat.cve:tst:20253155002"
                   }
                 ]
               },
@@ -4418,7 +4418,7 @@
                   },
                   {
                     "Comment": "mozjs52 is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20183140630"
+                    "TestRef": "oval:com.redhat.cve:tst:202412224002"
                   }
                 ]
               },
@@ -4431,7 +4431,7 @@
                   },
                   {
                     "Comment": "mozjs52-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20183140632"
+                    "TestRef": "oval:com.redhat.cve:tst:202412224006"
                   }
                 ]
               },
@@ -5250,7 +5250,7 @@
                   },
                   {
                     "Comment": "gtk-update-icon-cache is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20246655016"
+                    "TestRef": "oval:com.redhat.cve:tst:20246655014"
                   }
                 ]
               },
@@ -5263,7 +5263,7 @@
                   },
                   {
                     "Comment": "gtk3 is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20246655012"
+                    "TestRef": "oval:com.redhat.cve:tst:20246655018"
                   }
                 ]
               },
@@ -5276,7 +5276,7 @@
                   },
                   {
                     "Comment": "gtk3-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20246655004"
+                    "TestRef": "oval:com.redhat.cve:tst:20246655024"
                   }
                 ]
               },
@@ -5289,7 +5289,7 @@
                   },
                   {
                     "Comment": "gtk3-devel-docs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20246655010"
+                    "TestRef": "oval:com.redhat.cve:tst:20246655022"
                   }
                 ]
               },
@@ -5315,7 +5315,7 @@
                   },
                   {
                     "Comment": "gtk3-immodules is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20246655018"
+                    "TestRef": "oval:com.redhat.cve:tst:20246655010"
                   }
                 ]
               },

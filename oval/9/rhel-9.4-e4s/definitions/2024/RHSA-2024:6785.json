@@ -124,7 +124,7 @@
     "Criterions": [
       {
         "Comment": "Red Hat Enterprise Linux must be installed",
-        "TestRef": "oval:com.redhat.rhba:tst:20223991004"
+        "TestRef": "oval:com.redhat.rhba:tst:20223945012"
       }
     ],
     "Criterias": [
@@ -133,7 +133,7 @@
         "Criterions": [
           {
             "Comment": "Red Hat Enterprise Linux 9 is installed",
-            "TestRef": "oval:com.redhat.rhba:tst:20223991003"
+            "TestRef": "oval:com.redhat.rhba:tst:20223945011"
           }
         ],
         "Criterias": [
@@ -145,7 +145,7 @@
                 "Criterions": [
                   {
                     "Comment": "Module ruby:3.3 is enabled",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20246785057"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20243671057"
                   }
                 ],
                 "Criterias": [
@@ -161,7 +161,7 @@
                           },
                           {
                             "Comment": "ruby is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785002"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585002"
                           }
                         ]
                       },
@@ -174,7 +174,7 @@
                           },
                           {
                             "Comment": "ruby-bundled-gems is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785004"
+                            "TestRef": "oval:com.redhat.rhsa:tst:202410984004"
                           }
                         ]
                       },
@@ -187,7 +187,7 @@
                           },
                           {
                             "Comment": "ruby-default-gems is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785006"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585004"
                           }
                         ]
                       },
@@ -200,7 +200,7 @@
                           },
                           {
                             "Comment": "ruby-devel is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785008"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585006"
                           }
                         ]
                       },
@@ -213,7 +213,7 @@
                           },
                           {
                             "Comment": "ruby-doc is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785010"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585008"
                           }
                         ]
                       },
@@ -226,7 +226,7 @@
                           },
                           {
                             "Comment": "ruby-libs is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785012"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585010"
                           }
                         ]
                       },
@@ -239,7 +239,7 @@
                           },
                           {
                             "Comment": "rubygem-bigdecimal is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785014"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585012"
                           }
                         ]
                       },
@@ -252,7 +252,7 @@
                           },
                           {
                             "Comment": "rubygem-bundler is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785016"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585014"
                           }
                         ]
                       },
@@ -265,7 +265,7 @@
                           },
                           {
                             "Comment": "rubygem-io-console is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785018"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585016"
                           }
                         ]
                       },
@@ -278,7 +278,7 @@
                           },
                           {
                             "Comment": "rubygem-irb is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785020"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585018"
                           }
                         ]
                       },
@@ -291,7 +291,7 @@
                           },
                           {
                             "Comment": "rubygem-json is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785022"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585020"
                           }
                         ]
                       },
@@ -304,7 +304,7 @@
                           },
                           {
                             "Comment": "rubygem-minitest is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785024"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585022"
                           }
                         ]
                       },
@@ -313,11 +313,11 @@
                         "Criterions": [
                           {
                             "Comment": "rubygem-mysql2 is earlier than 0:0.5.5-1.module+el9.4.0+21222+faeeed2f",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785025"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20243671025"
                           },
                           {
                             "Comment": "rubygem-mysql2 is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785026"
+                            "TestRef": "oval:com.redhat.rhsa:tst:202410984026"
                           }
                         ]
                       },
@@ -326,11 +326,11 @@
                         "Criterions": [
                           {
                             "Comment": "rubygem-mysql2-doc is earlier than 0:0.5.5-1.module+el9.4.0+21222+faeeed2f",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785027"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20243671027"
                           },
                           {
                             "Comment": "rubygem-mysql2-doc is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785028"
+                            "TestRef": "oval:com.redhat.rhsa:tst:202410984028"
                           }
                         ]
                       },
@@ -339,11 +339,11 @@
                         "Criterions": [
                           {
                             "Comment": "rubygem-pg is earlier than 0:1.5.4-1.module+el9.4.0+21222+faeeed2f",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785029"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20243671029"
                           },
                           {
                             "Comment": "rubygem-pg is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785030"
+                            "TestRef": "oval:com.redhat.rhsa:tst:202410984030"
                           }
                         ]
                       },
@@ -352,11 +352,11 @@
                         "Criterions": [
                           {
                             "Comment": "rubygem-pg-doc is earlier than 0:1.5.4-1.module+el9.4.0+21222+faeeed2f",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785031"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20243671031"
                           },
                           {
                             "Comment": "rubygem-pg-doc is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785032"
+                            "TestRef": "oval:com.redhat.rhsa:tst:202410984032"
                           }
                         ]
                       },
@@ -369,7 +369,7 @@
                           },
                           {
                             "Comment": "rubygem-power_assert is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785034"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585024"
                           }
                         ]
                       },
@@ -382,7 +382,7 @@
                           },
                           {
                             "Comment": "rubygem-psych is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785036"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585026"
                           }
                         ]
                       },
@@ -395,7 +395,7 @@
                           },
                           {
                             "Comment": "rubygem-racc is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785038"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20243671038"
                           }
                         ]
                       },
@@ -408,7 +408,7 @@
                           },
                           {
                             "Comment": "rubygem-rake is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785040"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585028"
                           }
                         ]
                       },
@@ -421,7 +421,7 @@
                           },
                           {
                             "Comment": "rubygem-rbs is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785042"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585030"
                           }
                         ]
                       },
@@ -434,7 +434,7 @@
                           },
                           {
                             "Comment": "rubygem-rdoc is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785044"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585032"
                           }
                         ]
                       },
@@ -447,7 +447,7 @@
                           },
                           {
                             "Comment": "rubygem-rexml is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785046"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585034"
                           }
                         ]
                       },
@@ -460,7 +460,7 @@
                           },
                           {
                             "Comment": "rubygem-rss is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785048"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585036"
                           }
                         ]
                       },
@@ -473,7 +473,7 @@
                           },
                           {
                             "Comment": "rubygem-test-unit is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785050"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585038"
                           }
                         ]
                       },
@@ -486,7 +486,7 @@
                           },
                           {
                             "Comment": "rubygem-typeprof is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785052"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585040"
                           }
                         ]
                       },
@@ -499,7 +499,7 @@
                           },
                           {
                             "Comment": "rubygems is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785054"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585042"
                           }
                         ]
                       },
@@ -512,7 +512,7 @@
                           },
                           {
                             "Comment": "rubygems-devel is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20246785056"
+                            "TestRef": "oval:com.redhat.rhsa:tst:20226585044"
                           }
                         ]
                       }

@@ -156,6 +156,94 @@
     },
     {
       "Check": "at least one",
+      "Comment": "commons-lang3 is installed",
+      "ID": "oval:com.redhat.cve:tst:202548924001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548924001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "commons-lang3 is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548924002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548924001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20188014001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "commons-lang is installed",
+      "ID": "oval:com.redhat.cve:tst:202548924003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548924002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "commons-lang is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548924004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548924002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20188014001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jws5-mod_cluster is installed",
+      "ID": "oval:com.redhat.cve:tst:202555668001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202555668001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jws5-mod_cluster is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202555668002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202555668001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20188014001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jws5-mod_cluster-tomcat is installed",
+      "ID": "oval:com.redhat.cve:tst:202555668003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202555668002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jws5-mod_cluster-tomcat is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202555668004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202555668002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20188014001"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "jws5-jboss-logging is earlier than 0:3.3.2-1.Final_redhat_00001.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20193929001",
       "Version": "645",
@@ -232,22 +320,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20193929007",
       "Version": "645",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20193929004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202555668001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20193929004"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "jws5-mod_cluster is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20193929008",
-      "Version": "645",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20193929004"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20188014001"
       }
     },
     {
@@ -256,22 +332,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20193929009",
       "Version": "645",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20193929005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202555668002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20193929004"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "jws5-mod_cluster-tomcat is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20193929010",
-      "Version": "645",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20193929005"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20188014001"
       }
     },
     {
@@ -1000,7 +1064,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20205170003",
       "Version": "639",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20193929004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202555668001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20205170003"
@@ -1012,7 +1076,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20205170005",
       "Version": "639",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20193929005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202555668002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20205170003"
@@ -1286,7 +1350,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-native is earlier than 0:1.2.25-4.redhat_4.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20211195001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929009"
       },
@@ -1324,7 +1388,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20212561005",
       "Version": "640",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20193929004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202555668001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20212561003"
@@ -1336,7 +1400,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20212561007",
       "Version": "640",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20193929005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202555668002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20212561003"
@@ -1490,7 +1554,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat is earlier than 0:9.0.43-13.redhat_00013.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20213741001",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20188014001"
       },
@@ -1502,7 +1566,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-admin-webapps is earlier than 0:9.0.43-13.redhat_00013.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20213741003",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929011"
       },
@@ -1514,7 +1578,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-docs-webapp is earlier than 0:9.0.43-13.redhat_00013.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20213741005",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929012"
       },
@@ -1526,7 +1590,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-el-3.0-api is earlier than 0:9.0.43-13.redhat_00013.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20213741007",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929013"
       },
@@ -1538,7 +1602,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-javadoc is earlier than 0:9.0.43-13.redhat_00013.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20213741009",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929014"
       },
@@ -1550,7 +1614,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-jsp-2.3-api is earlier than 0:9.0.43-13.redhat_00013.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20213741011",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929015"
       },
@@ -1562,7 +1626,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-lib is earlier than 0:9.0.43-13.redhat_00013.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20213741013",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929016"
       },
@@ -1574,7 +1638,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-selinux is earlier than 0:9.0.43-13.redhat_00013.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20213741015",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929017"
       },
@@ -1586,7 +1650,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-servlet-4.0-api is earlier than 0:9.0.43-13.redhat_00013.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20213741017",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929018"
       },
@@ -1598,7 +1662,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-webapps is earlier than 0:9.0.43-13.redhat_00013.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20213741019",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929019"
       },
@@ -2822,7 +2886,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat is earlier than 0:9.0.87-3.redhat_00003.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20241913001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20188014001"
       },
@@ -2834,7 +2898,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-admin-webapps is earlier than 0:9.0.87-3.redhat_00003.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20241913003",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929011"
       },
@@ -2846,7 +2910,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-docs-webapp is earlier than 0:9.0.87-3.redhat_00003.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20241913005",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929012"
       },
@@ -2858,7 +2922,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-el-3.0-api is earlier than 0:9.0.87-3.redhat_00003.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20241913007",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929013"
       },
@@ -2870,7 +2934,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-javadoc is earlier than 0:9.0.87-3.redhat_00003.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20241913009",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929014"
       },
@@ -2882,7 +2946,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-jsp-2.3-api is earlier than 0:9.0.87-3.redhat_00003.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20241913011",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929015"
       },
@@ -2894,7 +2958,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-lib is earlier than 0:9.0.87-3.redhat_00003.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20241913013",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929016"
       },
@@ -2906,7 +2970,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-selinux is earlier than 0:9.0.87-3.redhat_00003.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20241913015",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929017"
       },
@@ -2918,7 +2982,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-servlet-4.0-api is earlier than 0:9.0.87-3.redhat_00003.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20241913017",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929018"
       },
@@ -2930,7 +2994,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-webapps is earlier than 0:9.0.87-3.redhat_00003.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20241913019",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929019"
       },
@@ -3180,6 +3244,126 @@
     },
     {
       "Check": "at least one",
+      "Comment": "jws5-tomcat is earlier than 0:9.0.87-12.redhat_00011.1.el8jws",
+      "ID": "oval:com.redhat.rhsa:tst:202511695001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20188014001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:202511695001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jws5-tomcat-admin-webapps is earlier than 0:9.0.87-12.redhat_00011.1.el8jws",
+      "ID": "oval:com.redhat.rhsa:tst:202511695003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20193929011"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:202511695001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jws5-tomcat-docs-webapp is earlier than 0:9.0.87-12.redhat_00011.1.el8jws",
+      "ID": "oval:com.redhat.rhsa:tst:202511695005",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20193929012"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:202511695001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jws5-tomcat-el-3.0-api is earlier than 0:9.0.87-12.redhat_00011.1.el8jws",
+      "ID": "oval:com.redhat.rhsa:tst:202511695007",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20193929013"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:202511695001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jws5-tomcat-javadoc is earlier than 0:9.0.87-12.redhat_00011.1.el8jws",
+      "ID": "oval:com.redhat.rhsa:tst:202511695009",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20193929014"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:202511695001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jws5-tomcat-jsp-2.3-api is earlier than 0:9.0.87-12.redhat_00011.1.el8jws",
+      "ID": "oval:com.redhat.rhsa:tst:202511695011",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20193929015"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:202511695001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jws5-tomcat-lib is earlier than 0:9.0.87-12.redhat_00011.1.el8jws",
+      "ID": "oval:com.redhat.rhsa:tst:202511695013",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20193929016"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:202511695001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jws5-tomcat-selinux is earlier than 0:9.0.87-12.redhat_00011.1.el8jws",
+      "ID": "oval:com.redhat.rhsa:tst:202511695015",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20193929017"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:202511695001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jws5-tomcat-servlet-4.0-api is earlier than 0:9.0.87-12.redhat_00011.1.el8jws",
+      "ID": "oval:com.redhat.rhsa:tst:202511695017",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20193929018"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:202511695001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jws5-tomcat-webapps is earlier than 0:9.0.87-12.redhat_00011.1.el8jws",
+      "ID": "oval:com.redhat.rhsa:tst:202511695019",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20193929019"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:202511695001"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "jws5-tomcat is earlier than 0:9.0.87-8.redhat_00008.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20253454001",
       "Version": "636",
@@ -3302,7 +3486,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat is earlier than 0:9.0.87-11.redhat_00010.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20254521001",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20188014001"
       },
@@ -3314,7 +3498,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-admin-webapps is earlier than 0:9.0.87-11.redhat_00010.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20254521003",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929011"
       },
@@ -3326,7 +3510,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-docs-webapp is earlier than 0:9.0.87-11.redhat_00010.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20254521005",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929012"
       },
@@ -3338,7 +3522,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-el-3.0-api is earlier than 0:9.0.87-11.redhat_00010.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20254521007",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929013"
       },
@@ -3350,7 +3534,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-javadoc is earlier than 0:9.0.87-11.redhat_00010.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20254521009",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929014"
       },
@@ -3362,7 +3546,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-jsp-2.3-api is earlier than 0:9.0.87-11.redhat_00010.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20254521011",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929015"
       },
@@ -3374,7 +3558,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-lib is earlier than 0:9.0.87-11.redhat_00010.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20254521013",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929016"
       },
@@ -3386,7 +3570,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-selinux is earlier than 0:9.0.87-11.redhat_00010.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20254521015",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929017"
       },
@@ -3398,7 +3582,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-servlet-4.0-api is earlier than 0:9.0.87-11.redhat_00010.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20254521017",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929018"
       },
@@ -3410,7 +3594,7 @@
       "Check": "at least one",
       "Comment": "jws5-tomcat-webapps is earlier than 0:9.0.87-11.redhat_00010.1.el8jws",
       "ID": "oval:com.redhat.rhsa:tst:20254521019",
-      "Version": "635",
+      "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20193929019"
       },
@@ -3883,7 +4067,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "org.apache.struts/struts-taglib is installed",
+      "Comment": "org.apache.struts/struts-tiles is installed",
       "ID": "oval:com.redhat.unaffected:tst:202453677001",
       "Version": "635",
       "Object": {
@@ -3893,7 +4077,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "org.apache.struts/struts-taglib is not installed",
+      "Comment": "org.apache.struts/struts-tiles is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202453677002",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -3904,7 +4088,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "org.apache.struts/struts-core is installed",
+      "Comment": "org.apache.struts/struts-taglib is installed",
       "ID": "oval:com.redhat.unaffected:tst:202453677003",
       "Version": "635",
       "Object": {
@@ -3914,7 +4098,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "org.apache.struts/struts-core is not installed",
+      "Comment": "org.apache.struts/struts-taglib is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202453677004",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -3925,7 +4109,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "org.apache.struts/struts-tiles is installed",
+      "Comment": "org.apache.struts/struts-core is installed",
       "ID": "oval:com.redhat.unaffected:tst:202453677005",
       "Version": "635",
       "Object": {
@@ -3935,7 +4119,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "org.apache.struts/struts-tiles is not installed",
+      "Comment": "org.apache.struts/struts-core is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202453677006",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -3952,6 +4136,27 @@
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202452316001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "commons-beanutils is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202548734001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202548734001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "commons-beanutils is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202548734002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202548734001"
       },
       "State": {}
     }

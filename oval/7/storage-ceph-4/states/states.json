@@ -145,7 +145,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20205325001",
-      "Version": "638",
+      "Version": "639",
       "Arch": {
         "Text": "ppc64le|x86_64",
         "Datatype": "string",
@@ -160,7 +160,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20205325003",
-      "Version": "638",
+      "Version": "639",
       "Arch": {},
       "Evr": {
         "Text": "2:14.2.8-115.el7cp",
@@ -171,7 +171,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20210081001",
-      "Version": "644",
+      "Version": "645",
       "Arch": {},
       "Evr": {
         "Text": "0:4.0.41-1.el7cp",
@@ -182,7 +182,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20210081003",
-      "Version": "644",
+      "Version": "645",
       "Arch": {
         "Text": "ppc64le|x86_64",
         "Datatype": "string",
@@ -197,7 +197,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20210081004",
-      "Version": "644",
+      "Version": "645",
       "Arch": {},
       "Evr": {
         "Text": "2:14.2.11-95.el7cp",
@@ -208,7 +208,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20211452001",
-      "Version": "642",
+      "Version": "643",
       "Arch": {
         "Text": "ppc64le|x86_64",
         "Datatype": "string",
@@ -223,7 +223,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20211452003",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:4.0.49.2-1.el7cp",
@@ -234,7 +234,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20211452004",
-      "Version": "642",
+      "Version": "643",
       "Arch": {
         "Text": "ppc64le|x86_64",
         "Datatype": "string",
@@ -249,7 +249,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20211452005",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "2:14.2.11-147.el7cp",
@@ -286,7 +286,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20221716001",
-      "Version": "638",
+      "Version": "639",
       "Arch": {
         "Text": "ppc64le|x86_64",
         "Datatype": "string",
@@ -301,7 +301,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20221716003",
-      "Version": "638",
+      "Version": "639",
       "Arch": {},
       "Evr": {
         "Text": "2:14.2.22-110.el7cp",

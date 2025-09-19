@@ -2,7 +2,7 @@
   "RpminfoObjects": [
     {
       "ID": "oval:com.redhat.rhba:obj:20220794001",
-      "Version": "635",
+      "Version": "636",
       "Name": "cri-o"
     },
     {
@@ -22,14 +22,14 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20224972001",
-      "Version": "636",
+      "Version": "637",
       "Name": "conmon"
     }
   ],
   "RpmverifyfileObjects": [
     {
       "ID": "oval:com.redhat.rhba:obj:20220794002",
-      "AttrVersion": "635",
+      "AttrVersion": "636",
       "Behaviors": {
         "Noconfigfiles": "true",
         "Noghostfiles": "true",

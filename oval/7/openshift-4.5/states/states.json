@@ -57,7 +57,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20203207001",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:4.5.1595405982-1.el7",
@@ -68,7 +68,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20203453001",
-      "Version": "638",
+      "Version": "639",
       "Arch": {},
       "Evr": {
         "Text": "0:4.5-1.el7",
@@ -79,7 +79,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20203453003",
-      "Version": "638",
+      "Version": "639",
       "Arch": {},
       "Evr": {
         "Text": "0:4.5.1596698303-1.el7",
@@ -90,7 +90,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20203519001",
-      "Version": "639",
+      "Version": "640",
       "Arch": {},
       "Evr": {
         "Text": "0:2.235.2.1597312414-1.el7",
@@ -101,7 +101,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20203519003",
-      "Version": "639",
+      "Version": "640",
       "Arch": {
         "Text": "ppc64le|s390x|x86_64",
         "Datatype": "string",
@@ -116,7 +116,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20203841001",
-      "Version": "637",
+      "Version": "638",
       "Arch": {},
       "Evr": {
         "Text": "0:2.235.5.1600414805-1.el7",
@@ -142,7 +142,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20210034001",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:1.26.2-1.el7",
@@ -153,7 +153,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20210034003",
-      "Version": "642",
+      "Version": "643",
       "Arch": {},
       "Evr": {
         "Text": "0:4.5.1610108899-1.el7",
@@ -377,7 +377,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20212057001",
-      "Version": "638",
+      "Version": "639",
       "Arch": {
         "Text": "ppc64le|s390x|x86_64",
         "Datatype": "string",
@@ -392,7 +392,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20212057003",
-      "Version": "638",
+      "Version": "639",
       "Arch": {
         "Text": "ppc64le|s390x|x86_64",
         "Datatype": "string",

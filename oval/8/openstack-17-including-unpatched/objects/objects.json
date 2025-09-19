@@ -197,7 +197,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20227238001",
-      "Version": "635",
+      "Version": "636",
       "Name": "puppet-mysql"
     },
     {
@@ -212,52 +212,52 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20230275001",
-      "Version": "634",
+      "Version": "635",
       "Name": "openstack-neutron"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20230276001",
-      "Version": "634",
+      "Version": "635",
       "Name": "python3-scciclient"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20231013001",
-      "Version": "634",
+      "Version": "635",
       "Name": "openstack-swift-account"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20231013002",
-      "Version": "634",
+      "Version": "635",
       "Name": "openstack-swift-container"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20231013003",
-      "Version": "634",
+      "Version": "635",
       "Name": "openstack-swift-object"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20231013004",
-      "Version": "634",
+      "Version": "635",
       "Name": "openstack-swift-proxy"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20231013005",
-      "Version": "634",
+      "Version": "635",
       "Name": "python3-swift"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20231016001",
-      "Version": "635",
+      "Version": "636",
       "Name": "openstack-cinder"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20231016002",
-      "Version": "635",
+      "Version": "636",
       "Name": "python3-cinder"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20231016003",
-      "Version": "635",
+      "Version": "636",
       "Name": "python3-cinder-common"
     },
     {
@@ -282,7 +282,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20233440001",
-      "Version": "634",
+      "Version": "635",
       "Name": "python3-flask"
     },
     {
@@ -318,22 +318,22 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026001",
       "Version": "635",
-      "Name": "erlang-inets"
+      "Name": "erlang-tools"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026002",
       "Version": "635",
-      "Name": "erlang-tools"
+      "Name": "erlang-parsetools"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026003",
       "Version": "635",
-      "Name": "erlang-kernel"
+      "Name": "erlang-sasl"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026004",
       "Version": "635",
-      "Name": "erlang-crypto"
+      "Name": "erlang-os_mon"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026005",
@@ -343,72 +343,72 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026006",
       "Version": "635",
-      "Name": "erlang-public_key"
+      "Name": "erlang-runtime_tools"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026007",
       "Version": "635",
-      "Name": "erlang-compiler"
+      "Name": "erlang-public_key"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026008",
       "Version": "635",
-      "Name": "erlang-syntax_tools"
+      "Name": "erlang-erts"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026009",
       "Version": "635",
-      "Name": "erlang-parsetools"
+      "Name": "erlang-kernel"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026010",
       "Version": "635",
-      "Name": "erlang-snmp"
+      "Name": "erlang-xmerl"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026011",
       "Version": "635",
-      "Name": "erlang-erts"
+      "Name": "erlang-ssl"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026012",
       "Version": "635",
-      "Name": "erlang-mnesia"
+      "Name": "erlang-eldap"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026013",
       "Version": "635",
-      "Name": "erlang-os_mon"
+      "Name": "erlang-snmp"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026014",
       "Version": "635",
-      "Name": "erlang-eldap"
+      "Name": "erlang-compiler"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026015",
       "Version": "635",
-      "Name": "erlang-stdlib"
+      "Name": "erlang-mnesia"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026016",
       "Version": "635",
-      "Name": "erlang-ssl"
+      "Name": "erlang-crypto"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026017",
       "Version": "635",
-      "Name": "erlang-sasl"
+      "Name": "erlang-syntax_tools"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026018",
       "Version": "635",
-      "Name": "erlang-xmerl"
+      "Name": "erlang-stdlib"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202237026019",
       "Version": "635",
-      "Name": "erlang-runtime_tools"
+      "Name": "erlang-inets"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202238065001",

@@ -1,7 +1,7 @@
 {
   "RpminfoState": [
     {
-      "ID": "oval:com.redhat.cve:ste:202223476001",
+      "ID": "oval:com.redhat.cve:ste:201910790001",
       "Version": "636",
       "Arch": {},
       "Evr": {},
@@ -76,11 +76,48 @@
         "Operation": "less than"
       },
       "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259775003",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "1:4.1.4-1.el9cp",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259775004",
+      "Version": "638",
+      "Arch": {
+        "Text": "ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "2:19.2.1-222.el9cp",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20259775005",
+      "Version": "638",
+      "Arch": {},
+      "Evr": {
+        "Text": "2:19.2.1-222.el9cp",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
     }
   ],
   "RpmverifyfileStates": [
     {
-      "ID": "oval:com.redhat.cve:ste:202223476002",
+      "ID": "oval:com.redhat.cve:ste:201910790002",
       "AttrVersion": "636",
       "Name": {
         "Text": "^redhat-release",
@@ -92,7 +129,7 @@
       }
     },
     {
-      "ID": "oval:com.redhat.cve:ste:202223476003",
+      "ID": "oval:com.redhat.cve:ste:201910790003",
       "AttrVersion": "636",
       "Name": {
         "Text": "^redhat-release",

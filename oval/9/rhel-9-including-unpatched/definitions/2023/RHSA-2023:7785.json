@@ -1,7 +1,7 @@
 {
   "Class": "patch",
   "ID": "oval:com.redhat.rhsa:def:20237785",
-  "Version": "635",
+  "Version": "636",
   "Metadata": {
     "Title": "RHSA-2023:7785: postgresql:15 security update (Important)",
     "AffectedList": [
@@ -375,7 +375,7 @@
                           },
                           {
                             "Comment": "postgresql-test-rpm-macros is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20254207034"
+                            "TestRef": "oval:com.redhat.cve:tst:20254207030"
                           }
                         ]
                       },

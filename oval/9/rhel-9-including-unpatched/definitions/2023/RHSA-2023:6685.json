@@ -1,7 +1,7 @@
 {
   "Class": "patch",
   "ID": "oval:com.redhat.rhsa:def:20236685",
-  "Version": "636",
+  "Version": "637",
   "Metadata": {
     "Title": "RHSA-2023:6685: tpm2-tss security and enhancement update (Low)",
     "AffectedList": [
@@ -100,7 +100,7 @@
                   },
                   {
                     "Comment": "tpm2-tss is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202429040002"
+                    "TestRef": "oval:com.redhat.cve:tst:202429040004"
                   }
                 ]
               },
@@ -113,7 +113,7 @@
                   },
                   {
                     "Comment": "tpm2-tss-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202429040004"
+                    "TestRef": "oval:com.redhat.cve:tst:202429040002"
                   }
                 ]
               }

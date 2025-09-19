@@ -1,7 +1,7 @@
 {
   "Class": "patch",
   "ID": "oval:com.redhat.rhsa:def:20211761",
-  "Version": "637",
+  "Version": "638",
   "Metadata": {
     "Title": "RHSA-2021:1761: python27:2.7 security and bug fix update (Moderate)",
     "AffectedList": [
@@ -170,7 +170,7 @@
                           },
                           {
                             "Comment": "babel is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202128861060"
+                            "TestRef": "oval:com.redhat.cve:tst:202128861064"
                           }
                         ]
                       },
@@ -183,7 +183,7 @@
                           },
                           {
                             "Comment": "python-nose-docs is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20199674037"
+                            "TestRef": "oval:com.redhat.cve:tst:20199674065"
                           }
                         ]
                       },
@@ -209,7 +209,7 @@
                           },
                           {
                             "Comment": "python-sqlalchemy-doc is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20199674065"
+                            "TestRef": "oval:com.redhat.cve:tst:20199674057"
                           }
                         ]
                       },
@@ -248,7 +248,7 @@
                           },
                           {
                             "Comment": "python2-PyMySQL is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202436039002"
+                            "TestRef": "oval:com.redhat.cve:tst:202436039008"
                           }
                         ]
                       },

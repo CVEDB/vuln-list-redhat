@@ -376,6 +376,28 @@
     },
     {
       "Check": "at least one",
+      "Comment": "jetty-server is installed",
+      "ID": "oval:com.redhat.cve:tst:202413009001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202413009001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jetty-server is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202413009002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202413009001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202120328001"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "HTTP-2 is installed",
       "ID": "oval:com.redhat.cve:tst:202427316001",
       "Version": "636",
@@ -684,28 +706,6 @@
     },
     {
       "Check": "at least one",
-      "Comment": "io.netty/netty-handler is installed",
-      "ID": "oval:com.redhat.cve:tst:202524970001",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202524970001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "io.netty/netty-handler is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202524970002",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202524970001"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:202120328001"
-      }
-    },
-    {
-      "Check": "at least one",
       "Comment": "artemis-core-client is installed",
       "ID": "oval:com.redhat.cve:tst:202527391001",
       "Version": "636",
@@ -750,9 +750,119 @@
     },
     {
       "Check": "at least one",
+      "Comment": "commons-beanutils-core is installed",
+      "ID": "oval:com.redhat.cve:tst:202548734001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548734001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "commons-beanutils-core is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548734002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548734001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202120328001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "commons-beanutils is installed",
+      "ID": "oval:com.redhat.cve:tst:202548734003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548734002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "commons-beanutils is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548734004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548734002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202120328001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "commons-fileupload is installed",
+      "ID": "oval:com.redhat.cve:tst:202548976001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548976001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "commons-fileupload is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548976002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548976001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202120328001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "org.eclipse.jgit is installed",
+      "ID": "oval:com.redhat.cve:tst:20254949001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20254949001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "org.eclipse.jgit is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20254949002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20254949001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202120328001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "org.eclipse.jgit.http.apache is installed",
+      "ID": "oval:com.redhat.cve:tst:20254949003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20254949002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "org.eclipse.jgit.http.apache is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20254949004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20254949002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202120328001"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "python-qpid-proton is earlier than 0:0.27.0-3.el7",
       "ID": "oval:com.redhat.rhsa:tst:20190886001",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886001"
       },
@@ -764,7 +874,7 @@
       "Check": "at least one",
       "Comment": "python-qpid-proton is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20190886002",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886001"
       },
@@ -776,7 +886,7 @@
       "Check": "at least one",
       "Comment": "python-qpid-proton-docs is earlier than 0:0.27.0-3.el7",
       "ID": "oval:com.redhat.rhsa:tst:20190886003",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886002"
       },
@@ -788,7 +898,7 @@
       "Check": "at least one",
       "Comment": "python-qpid-proton-docs is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20190886004",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886002"
       },
@@ -800,7 +910,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-c is earlier than 0:0.27.0-3.el7",
       "ID": "oval:com.redhat.rhsa:tst:20190886005",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886003"
       },
@@ -812,7 +922,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-c is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20190886006",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886003"
       },
@@ -824,7 +934,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-c-devel is earlier than 0:0.27.0-3.el7",
       "ID": "oval:com.redhat.rhsa:tst:20190886007",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886004"
       },
@@ -836,7 +946,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-c-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20190886008",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886004"
       },
@@ -848,7 +958,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-c-docs is earlier than 0:0.27.0-3.el7",
       "ID": "oval:com.redhat.rhsa:tst:20190886009",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886005"
       },
@@ -860,7 +970,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-c-docs is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20190886010",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886005"
       },
@@ -872,7 +982,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-cpp is earlier than 0:0.27.0-3.el7",
       "ID": "oval:com.redhat.rhsa:tst:20190886011",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886006"
       },
@@ -884,7 +994,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-cpp is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20190886012",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886006"
       },
@@ -896,7 +1006,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-cpp-devel is earlier than 0:0.27.0-3.el7",
       "ID": "oval:com.redhat.rhsa:tst:20190886013",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886007"
       },
@@ -908,7 +1018,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-cpp-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20190886014",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886007"
       },
@@ -920,7 +1030,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-cpp-docs is earlier than 0:0.27.0-3.el7",
       "ID": "oval:com.redhat.rhsa:tst:20190886015",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886008"
       },
@@ -932,7 +1042,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-cpp-docs is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20190886016",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886008"
       },
@@ -944,7 +1054,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-tests is earlier than 0:0.27.0-3.el7",
       "ID": "oval:com.redhat.rhsa:tst:20190886017",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886009"
       },
@@ -956,7 +1066,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-tests is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20190886018",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886009"
       },
@@ -1472,7 +1582,7 @@
       "Check": "at least one",
       "Comment": "python-qpid-proton is earlier than 0:0.33.0-6.el7_9",
       "ID": "oval:com.redhat.rhsa:tst:20211511001",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886001"
       },
@@ -1484,7 +1594,7 @@
       "Check": "at least one",
       "Comment": "python-qpid-proton-docs is earlier than 0:0.33.0-6.el7_9",
       "ID": "oval:com.redhat.rhsa:tst:20211511003",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886002"
       },
@@ -1496,7 +1606,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-c is earlier than 0:0.33.0-6.el7_9",
       "ID": "oval:com.redhat.rhsa:tst:20211511005",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886003"
       },
@@ -1508,7 +1618,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-c-devel is earlier than 0:0.33.0-6.el7_9",
       "ID": "oval:com.redhat.rhsa:tst:20211511007",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886004"
       },
@@ -1520,7 +1630,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-c-docs is earlier than 0:0.33.0-6.el7_9",
       "ID": "oval:com.redhat.rhsa:tst:20211511009",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886005"
       },
@@ -1532,7 +1642,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-cpp is earlier than 0:0.33.0-6.el7_9",
       "ID": "oval:com.redhat.rhsa:tst:20211511011",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886006"
       },
@@ -1544,7 +1654,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-cpp-devel is earlier than 0:0.33.0-6.el7_9",
       "ID": "oval:com.redhat.rhsa:tst:20211511013",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886007"
       },
@@ -1556,7 +1666,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-cpp-docs is earlier than 0:0.33.0-6.el7_9",
       "ID": "oval:com.redhat.rhsa:tst:20211511015",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886008"
       },
@@ -1568,7 +1678,7 @@
       "Check": "at least one",
       "Comment": "qpid-proton-tests is earlier than 0:0.33.0-6.el7_9",
       "ID": "oval:com.redhat.rhsa:tst:20211511017",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20190886009"
       },
@@ -1580,7 +1690,7 @@
       "Check": "at least one",
       "Comment": "rubygem-qpid_proton is earlier than 0:0.33.0-6.el7_9",
       "ID": "oval:com.redhat.rhsa:tst:20211511019",
-      "Version": "641",
+      "Version": "642",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20200601001"
       },
@@ -1928,22 +2038,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "jetty-server is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20222191001",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:20222191001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "jetty-server is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20222191002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:20222191001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202413009001"
       },
       "State": {}
     },
@@ -3033,7 +3133,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "org.apache.struts/struts-taglib is installed",
+      "Comment": "org.apache.struts/struts-tiles is installed",
       "ID": "oval:com.redhat.unaffected:tst:202453677001",
       "Version": "635",
       "Object": {
@@ -3043,7 +3143,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "org.apache.struts/struts-taglib is not installed",
+      "Comment": "org.apache.struts/struts-tiles is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202453677002",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -3054,7 +3154,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "org.apache.struts/struts-core is installed",
+      "Comment": "org.apache.struts/struts-taglib is installed",
       "ID": "oval:com.redhat.unaffected:tst:202453677003",
       "Version": "635",
       "Object": {
@@ -3064,7 +3164,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "org.apache.struts/struts-core is not installed",
+      "Comment": "org.apache.struts/struts-taglib is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202453677004",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -3075,7 +3175,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "org.apache.struts/struts-tiles is installed",
+      "Comment": "org.apache.struts/struts-core is installed",
       "ID": "oval:com.redhat.unaffected:tst:202453677005",
       "Version": "635",
       "Object": {
@@ -3085,7 +3185,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "org.apache.struts/struts-tiles is not installed",
+      "Comment": "org.apache.struts/struts-core is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202453677006",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -3123,6 +3223,90 @@
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202522228001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "io.netty/netty-handler is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202524970001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202524970001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "io.netty/netty-handler is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202524970002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202524970001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kafka-clients is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202527817001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202527817001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kafka-clients is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202527817002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202527817001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "hibernate-validator is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202535036001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202535036001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "hibernate-validator is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202535036002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202535036001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jackson-core is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202549128001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202549128001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jackson-core is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202549128002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202549128001"
       },
       "State": {}
     }

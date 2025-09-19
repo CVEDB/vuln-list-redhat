@@ -1,7 +1,7 @@
 {
   "Class": "patch",
   "ID": "oval:com.redhat.rhsa:def:20183229",
-  "Version": "636",
+  "Version": "637",
   "Metadata": {
     "Title": "RHSA-2018:3229: zziplib security update (Low)",
     "AffectedList": [
@@ -132,7 +132,7 @@
                   },
                   {
                     "Comment": "zziplib is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20175974006"
+                    "TestRef": "oval:com.redhat.cve:tst:20175974002"
                   }
                 ]
               },
@@ -145,7 +145,7 @@
                   },
                   {
                     "Comment": "zziplib-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20175974002"
+                    "TestRef": "oval:com.redhat.cve:tst:20175974004"
                   }
                 ]
               },
@@ -158,7 +158,7 @@
                   },
                   {
                     "Comment": "zziplib-utils is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20175974004"
+                    "TestRef": "oval:com.redhat.cve:tst:20175974006"
                   }
                 ]
               }

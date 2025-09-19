@@ -30,6 +30,11 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-50042",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-50042"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2023-3609",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2023-3609"
       },
@@ -100,6 +105,14 @@
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-40982",
           "Public": "20230808:0630"
+        },
+        {
+          "CveID": "CVE-2022-50042",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-401",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-50042",
+          "Public": "20250618"
         },
         {
           "CveID": "CVE-2023-3609",
@@ -210,6 +223,10 @@
         {
           "Href": "https://bugzilla.redhat.com/2261965",
           "ID": "2261965"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373691",
+          "ID": "2373691"
         }
       ],
       "AffectedCpeList": [
@@ -586,7 +603,7 @@
                   },
                   {
                     "Comment": "kernel-debug-modules-core is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20232458050"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20232458048"
                   }
                 ]
               },
@@ -612,7 +629,7 @@
                   },
                   {
                     "Comment": "kernel-debug-uki-virt is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20232458054"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20232458052"
                   }
                 ]
               },
@@ -690,7 +707,7 @@
                   },
                   {
                     "Comment": "kernel-modules-core is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20232458066"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20232458062"
                   }
                 ]
               },
@@ -755,7 +772,7 @@
                   },
                   {
                     "Comment": "kernel-uki-virt is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20232458076"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20232458072"
                   }
                 ]
               },
@@ -833,7 +850,7 @@
                   },
                   {
                     "Comment": "kernel-zfcpdump-modules-core is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20232458088"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20232458084"
                   }
                 ]
               },
@@ -885,7 +902,7 @@
                   },
                   {
                     "Comment": "rtla is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20232458096"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20232458092"
                   }
                 ]
               }

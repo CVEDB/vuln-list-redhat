@@ -1,7 +1,7 @@
 {
   "Class": "patch",
   "ID": "oval:com.redhat.rhsa:def:20172904",
-  "Version": "638",
+  "Version": "639",
   "Metadata": {
     "Title": "RHSA-2017:2904: rh-sso7-keycloak security update (Moderate)",
     "AffectedList": [
@@ -133,7 +133,7 @@
     "Criterions": [
       {
         "Comment": "Red Hat Enterprise Linux must be installed",
-        "TestRef": "oval:com.redhat.cve:tst:201712161004"
+        "TestRef": "oval:com.redhat.cve:tst:201712161006"
       }
     ],
     "Criterias": [
@@ -142,7 +142,7 @@
         "Criterions": [
           {
             "Comment": "Red Hat Enterprise Linux 6 is installed",
-            "TestRef": "oval:com.redhat.cve:tst:201712161003"
+            "TestRef": "oval:com.redhat.cve:tst:201712161005"
           }
         ],
         "Criterias": [
@@ -158,7 +158,7 @@
                   },
                   {
                     "Comment": "rh-sso7-keycloak is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20170872030"
+                    "TestRef": "oval:com.redhat.cve:tst:201712161004"
                   }
                 ]
               },

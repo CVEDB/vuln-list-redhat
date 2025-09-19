@@ -148,7 +148,7 @@
       "Check": "at least one",
       "Comment": "openshift-hyperkube is earlier than 0:4.7.0-202103181538.p0.git.97109.7576cdc.el7",
       "ID": "oval:com.redhat.rhsa:tst:20210958001",
-      "Version": "640",
+      "Version": "641",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhba:obj:20212979002"
       },
@@ -160,7 +160,7 @@
       "Check": "at least one",
       "Comment": "openshift-clients is earlier than 0:4.7.0-202103191426.p0.git.3953.f3a7513.el7",
       "ID": "oval:com.redhat.rhsa:tst:20210958003",
-      "Version": "640",
+      "Version": "641",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhba:obj:20212979003"
       },
@@ -172,7 +172,7 @@
       "Check": "at least one",
       "Comment": "openshift-clients-redistributable is earlier than 0:4.7.0-202103191426.p0.git.3953.f3a7513.el7",
       "ID": "oval:com.redhat.rhsa:tst:20210958005",
-      "Version": "640",
+      "Version": "641",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhba:obj:20212979004"
       },
@@ -280,7 +280,7 @@
       "Check": "at least one",
       "Comment": "runc is earlier than 0:1.0.0-96.rhaos4.8.gitcd80260.el7",
       "ID": "oval:com.redhat.rhsa:tst:20211562001",
-      "Version": "640",
+      "Version": "641",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20211551002"
       },
@@ -352,7 +352,7 @@
       "Check": "at least one",
       "Comment": "openshift-hyperkube is earlier than 0:4.7.0-202109172126.p0.git.bbbc079.assembly.stream.el7",
       "ID": "oval:com.redhat.rhsa:tst:20213635001",
-      "Version": "637",
+      "Version": "638",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhba:obj:20212979002"
       },
@@ -388,7 +388,7 @@
       "Check": "at least one",
       "Comment": "cri-o is earlier than 0:1.20.6-11.rhaos4.7.git76ea3d0.el7",
       "ID": "oval:com.redhat.rhsa:tst:20220870001",
-      "Version": "636",
+      "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhba:obj:20212979001"
       },
@@ -400,7 +400,7 @@
       "Check": "at least one",
       "Comment": "haproxy20 is earlier than 0:2.0.19-3.el7",
       "ID": "oval:com.redhat.rhsa:tst:20221336001",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20220114001"
       },
@@ -412,7 +412,7 @@
       "Check": "at least one",
       "Comment": "conmon is earlier than 2:2.0.29-3.rhaos4.7.el7",
       "ID": "oval:com.redhat.rhsa:tst:20224965001",
-      "Version": "640",
+      "Version": "641",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20224965001"
       },
@@ -424,7 +424,7 @@
       "Check": "at least one",
       "Comment": "conmon is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20224965002",
-      "Version": "640",
+      "Version": "641",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20224965001"
       },
@@ -436,7 +436,7 @@
       "Check": "at least one",
       "Comment": "cri-o is earlier than 0:1.20.8-3.rhaos4.7.gitb9df556.el7",
       "ID": "oval:com.redhat.rhsa:tst:20224965003",
-      "Version": "640",
+      "Version": "641",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhba:obj:20212979001"
       },

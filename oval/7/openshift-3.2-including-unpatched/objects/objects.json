@@ -112,7 +112,7 @@
     },
     {
       "ID": "oval:com.redhat.rhba:obj:20161343012",
-      "Version": "640",
+      "Version": "641",
       "Name": "heapster"
     },
     {
@@ -127,92 +127,92 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20161094001",
-      "Version": "652",
+      "Version": "653",
       "Name": "nodejs-node-uuid"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20161206002",
-      "Version": "639",
+      "Version": "640",
       "Name": "jenkins-plugin-openshift-pipeline"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20161605001",
-      "Version": "641",
+      "Version": "642",
       "Name": "nodejs-mime-types"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20161605002",
-      "Version": "641",
+      "Version": "642",
       "Name": "nodejs-express"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20161605003",
-      "Version": "641",
+      "Version": "642",
       "Name": "nodejs-minimatch"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20161605004",
-      "Version": "641",
+      "Version": "642",
       "Name": "nodejs-mime-db"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20161605005",
-      "Version": "641",
+      "Version": "642",
       "Name": "nodejs-negotiator"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20161605006",
-      "Version": "641",
+      "Version": "642",
       "Name": "nodejs-accepts"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20161836001",
-      "Version": "637",
+      "Version": "638",
       "Name": "kibana"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20161836002",
-      "Version": "637",
+      "Version": "638",
       "Name": "openshift-elasticsearch-plugin"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20161853013",
-      "Version": "647",
+      "Version": "648",
       "Name": "atomic-openshift-utils"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20161853014",
-      "Version": "647",
+      "Version": "648",
       "Name": "openshift-ansible"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20161853015",
-      "Version": "647",
+      "Version": "648",
       "Name": "openshift-ansible-docs"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20161853016",
-      "Version": "647",
+      "Version": "648",
       "Name": "openshift-ansible-filter-plugins"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20161853017",
-      "Version": "647",
+      "Version": "648",
       "Name": "openshift-ansible-lookup-plugins"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20161853018",
-      "Version": "647",
+      "Version": "648",
       "Name": "openshift-ansible-playbooks"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20161853019",
-      "Version": "647",
+      "Version": "648",
       "Name": "openshift-ansible-roles"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20162101001",
-      "Version": "643",
+      "Version": "644",
       "Name": "nodejs-tough-cookie"
     },
     {

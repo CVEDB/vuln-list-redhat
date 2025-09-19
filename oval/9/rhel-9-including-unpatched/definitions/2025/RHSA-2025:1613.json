@@ -130,7 +130,7 @@
                 "Criterions": [
                   {
                     "Comment": "Module nodejs:22 is enabled",
-                    "TestRef": "oval:com.redhat.cve:tst:202529087047"
+                    "TestRef": "oval:com.redhat.cve:tst:202421538011"
                   }
                 ],
                 "Criterias": [
@@ -263,7 +263,7 @@
                           },
                           {
                             "Comment": "v8-12.4-devel is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhsa:tst:20251613020"
+                            "TestRef": "oval:com.redhat.rhsa:tst:202511802020"
                           }
                         ]
                       }

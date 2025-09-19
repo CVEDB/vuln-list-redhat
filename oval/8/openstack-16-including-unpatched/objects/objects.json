@@ -327,92 +327,92 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20202165001",
-      "Version": "635",
+      "Version": "636",
       "Name": "openstack-manila"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20202165002",
-      "Version": "635",
+      "Version": "636",
       "Name": "openstack-manila-share"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20202165003",
-      "Version": "635",
+      "Version": "636",
       "Name": "python3-manila"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20203406001",
-      "Version": "635",
+      "Version": "636",
       "Name": "openstack-tripleo-heat-templates"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20203406002",
-      "Version": "635",
+      "Version": "636",
       "Name": "paunch-services"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20203406003",
-      "Version": "635",
+      "Version": "636",
       "Name": "python3-paunch"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20203704001",
-      "Version": "634",
+      "Version": "635",
       "Name": "openstack-nova"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20203704002",
-      "Version": "634",
+      "Version": "635",
       "Name": "openstack-nova-api"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20203704003",
-      "Version": "634",
+      "Version": "635",
       "Name": "openstack-nova-common"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20203704004",
-      "Version": "634",
+      "Version": "635",
       "Name": "openstack-nova-compute"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20203704005",
-      "Version": "634",
+      "Version": "635",
       "Name": "openstack-nova-conductor"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20203704006",
-      "Version": "634",
+      "Version": "635",
       "Name": "openstack-nova-console"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20203704007",
-      "Version": "634",
+      "Version": "635",
       "Name": "openstack-nova-migration"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20203704008",
-      "Version": "634",
+      "Version": "635",
       "Name": "openstack-nova-novncproxy"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20203704009",
-      "Version": "634",
+      "Version": "635",
       "Name": "openstack-nova-scheduler"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20203704010",
-      "Version": "634",
+      "Version": "635",
       "Name": "openstack-nova-serialproxy"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20203704011",
-      "Version": "634",
+      "Version": "635",
       "Name": "openstack-nova-spicehtml5proxy"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20203704012",
-      "Version": "634",
+      "Version": "635",
       "Name": "python3-nova"
     },
     {
@@ -491,19 +491,19 @@
       "Name": "rhosp-openvswitch"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202011022002",
-      "Version": "635",
-      "Name": "python-XStatic-jquery-ui"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202011022004",
+      "ID": "oval:com.redhat.unaffected:obj:202011022003",
       "Version": "635",
       "Name": "xstatic-jquery-ui-common"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202011022005",
+      "ID": "oval:com.redhat.unaffected:obj:202011022004",
       "Version": "635",
       "Name": "python3-XStatic-jquery-ui"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202011022005",
+      "Version": "635",
+      "Name": "python-XStatic-jquery-ui"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213701001",

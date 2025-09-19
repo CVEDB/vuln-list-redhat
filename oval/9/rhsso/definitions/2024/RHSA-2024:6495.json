@@ -1,7 +1,7 @@
 {
   "Class": "patch",
   "ID": "oval:com.redhat.rhsa:def:20246495",
-  "Version": "637",
+  "Version": "638",
   "Metadata": {
     "Title": "RHSA-2024:6495: Red Hat Single Sign-On 7.6.10 security update on RHEL 9 (Moderate)",
     "AffectedList": [
@@ -87,7 +87,9 @@
       ],
       "AffectedCpeList": [
         "cpe:/a:redhat:red_hat_single_sign_on:7.6",
-        "cpe:/a:redhat:red_hat_single_sign_on:7.6::el9"
+        "cpe:/a:redhat:red_hat_single_sign_on:7.6::el9",
+        "cpe:/a:redhat:red_hat_single_sign_on_els:7.6",
+        "cpe:/a:redhat:red_hat_single_sign_on_els:7.6::el9"
       ],
       "Affected": {
         "Resolution": {}

@@ -236,7 +236,7 @@
                           },
                           {
                             "Comment": "jackson-annotations is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhba:tst:20193416018"
+                            "TestRef": "oval:com.redhat.cve:tst:202552999030"
                           }
                         ]
                       },
@@ -249,7 +249,7 @@
                           },
                           {
                             "Comment": "jackson-core is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhba:tst:20193416020"
+                            "TestRef": "oval:com.redhat.cve:tst:202552999036"
                           }
                         ]
                       },
@@ -262,7 +262,7 @@
                           },
                           {
                             "Comment": "jackson-databind is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:201914379004"
+                            "TestRef": "oval:com.redhat.cve:tst:201914379002"
                           }
                         ]
                       },
@@ -275,7 +275,7 @@
                           },
                           {
                             "Comment": "jackson-jaxrs-json-provider is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhba:tst:20193416024"
+                            "TestRef": "oval:com.redhat.cve:tst:202549128024"
                           }
                         ]
                       },
@@ -288,7 +288,7 @@
                           },
                           {
                             "Comment": "jackson-jaxrs-providers is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhba:tst:20193416026"
+                            "TestRef": "oval:com.redhat.cve:tst:202549128020"
                           }
                         ]
                       },
@@ -301,7 +301,7 @@
                           },
                           {
                             "Comment": "jackson-module-jaxb-annotations is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhba:tst:20193416028"
+                            "TestRef": "oval:com.redhat.cve:tst:202548924242"
                           }
                         ]
                       },
@@ -444,7 +444,7 @@
                           },
                           {
                             "Comment": "slf4j-jdk14 is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.rhba:tst:20193416050"
+                            "TestRef": "oval:com.redhat.cve:tst:202548924176"
                           }
                         ]
                       },

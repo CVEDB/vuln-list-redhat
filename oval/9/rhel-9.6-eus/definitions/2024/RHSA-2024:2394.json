@@ -65,6 +65,46 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-49350",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49350"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49721",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49721"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49754",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49754"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49940",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49940"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-49977",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-49977"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-50080",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-50080"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-50116",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-50116"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-50202",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-50202"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2023-24023",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2023-24023"
       },
@@ -270,8 +310,33 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2023-52939",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-52939"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-52940",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-52940"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-52973",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-52973"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2023-52976",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2023-52976"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-52984",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-52984"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-52985",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-52985"
       },
       {
         "Source": "CVE",
@@ -292,6 +357,81 @@
         "Source": "CVE",
         "RefID": "CVE-2023-53018",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2023-53018"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-53046",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-53046"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-53047",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-53047"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-53052",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-53052"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-53057",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-53057"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-53094",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-53094"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-53097",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-53097"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-53134",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-53134"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-53140",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-53140"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-53209",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-53209"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-53210",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-53210"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-53235",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-53235"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-53354",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-53354"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-53370",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-53370"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-53371",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-53371"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2023-53441",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-53441"
       },
       {
         "Source": "CVE",
@@ -422,6 +562,11 @@
         "Source": "CVE",
         "RefID": "CVE-2024-26830",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2024-26830"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2025-38053",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2025-38053"
       }
     ],
     "Description": "The kernel packages contain the Linux kernel, the core of any Linux operating system.\n\nSecurity Fix(es):\n\n* kernel: GSM multiplexing race condition leads to privilege escalation (CVE-2023-6546)\n\n* kernel: multiple use-after-free vulnerabilities (CVE-2024-1086, CVE-2023-3567, CVE-2023-4133, CVE-2023-6932, CVE-2023-39198, CVE-2023-51043, CVE-2023-51779, CVE-2023-51780, CVE-2024-1085, CVE-2024-26582)\n\n* kernel: Bluetooth BR/EDR PIN Pairing procedure is vulnerable to an impersonation attack (CVE-2020-26555)\n\n* kernel: memcg does not limit the number of POSIX file locks allowing memory exhaustion (CVE-2022-0480)\n\n* kernel: multiple NULL pointer dereference vulnerabilities (CVE-2022-38096, CVE-2023-6622, CVE-2023-6915, CVE-2023-42754, CVE-2023-46862, CVE-2023-52574, CVE-2024-0841, CVE-2023-52448)\n\n* kernel: integer overflow in l2cap_config_req() in net/bluetooth/l2cap_core.c (CVE-2022-45934)\n\n* kernel: netfilter: nf_tables: out-of-bounds access in nf_tables_newtable() (CVE-2023-6040)\n\n* kernel: GC's deletion of an SKB races with unix_stream_read_generic()  leading to UAF (CVE-2023-6531)\n\n* kernel: Out of boundary write in perf_read_group() as result of overflow a perf_event's read_size (CVE-2023-6931)\n\n* kernel: Bluetooth Forward and Future Secrecy Attacks and Defenses (CVE-2023-24023)\n\n* kernel: irdma: Improper access control (CVE-2023-25775)\n\n* Kernel: double free in hci_conn_cleanup of the bluetooth subsystem (CVE-2023-28464)\n\n* kernel: Bluetooth: HCI: global out-of-bounds access in net/bluetooth/hci_sync.c (CVE-2023-28866)\n\n* kernel: race condition between HCIUARTSETPROTO and HCIUARTGETPROTO in hci_uart_tty_ioctl (CVE-2023-31083)\n\n* kernel: multiple out-of-bounds read vulnerabilities (CVE-2023-37453, CVE-2023-39189, CVE-2023-39193, CVE-2023-6121, CVE-2023-39194)\n\n* kernel: netfilter: race condition between IPSET_CMD_ADD and IPSET_CMD_SWAP (CVE-2023-42756)\n\n* kernel: lib/kobject.c vulnerable to fill_kobj_path out-of-bounds write (CVE-2023-45863)\n\n* kernel: smb: client: fix potential OOBs in smb2_parse_contexts() (CVE-2023-52434)\n\n* kernel: mm/sparsemem: fix race in accessing memory_section-\u003eusage (CVE-2023-52489)\n\n* kernel: net: fix possible store tearing in neigh_periodic_work() (CVE-2023-52522)\n\n* kernel: multiple memory leak vulnerabilities (CVE-2023-52529, CVE-2023-52581)\n\n* kernel: net: bridge: data races indata-races in br_handle_frame_finish() (CVE-2023-52578)\n\n* kernel: net/core: kernel crash in ETH_P_1588 flow dissector (CVE-2023-52580)\n\n* kernel: net/sched: act_ct: fix skb leak and crash on ooo frags (CVE-2023-52610)\n\n* kernel: CIFS Filesystem Decryption Improper Input Validation Remote Code Execution Vulnerability in function receive_encrypted_standard of client (CVE-2024-0565)\n\n* kernel: tls: race between async notify and socket close (CVE-2024-26583)\n\n* kernel: tls: handle backlogging of crypto requests (CVE-2024-26584)\n\n* kernel: tls: race between tx work scheduling and socket close (CVE-2024-26585)\n\n* kernel: mlxsw: spectrum_acl_tcam: Fix stack corruption (CVE-2024-26586)\n\n* kernel: i2c: i801: Fix block process call transactions (CVE-2024-26593)\n\n* kernel: sched/membarrier: reduce the ability to hammer on sys_membarrier (CVE-2024-26602)\n\n* kernel: netfilter: nf_tables: reject QUEUE/DROP verdict parameters (CVE-2024-26609)\n\n* kernel: local dos vulnerability in scatterwalk_copychunks (CVE-2023-6176)\n\n* kernel: perf/x86/lbr: Filter vsyscall addresses (CVE-2023-52476)\n\n* kernel: netfilter: nf_tables: disallow timeout for anonymous sets (CVE-2023-52620)\n\n* kernel: ip6_tunnel: fix NEXTHDR_FRAGMENT handling in ip6_tnl_parse_tlv_enc_lim() (CVE-2024-26633)\n\nFor more details about the security issue(s), including the impact, a CVSS score, acknowledgments, and other related information, refer to the CVE page(s) listed in the References section.\n\nAdditional Changes:\n\nFor detailed information on changes in this release, see the Red Hat Enterprise Linux 9.4 Release Notes linked from the References section.",
@@ -478,9 +623,9 @@
         },
         {
           "CveID": "CVE-2022-48632",
-          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cvss3": "4.7/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:N/I:N/A:H",
           "Cwe": "CWE-122",
-          "Impact": "low",
+          "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-48632",
           "Public": "20240428"
         },
@@ -507,6 +652,65 @@
           "Impact": "low",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-49322",
           "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49350",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49350",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49721",
+          "Cvss3": "4.7/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49721",
+          "Public": "20250226"
+        },
+        {
+          "CveID": "CVE-2022-49754",
+          "Cvss3": "7.1/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:H",
+          "Cwe": "CWE-120",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49754",
+          "Public": "20250327"
+        },
+        {
+          "CveID": "CVE-2022-49940",
+          "Cvss3": "7.0/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49940",
+          "Public": "20250618"
+        },
+        {
+          "CveID": "CVE-2022-49977",
+          "Cvss3": "7.0/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
+          "Cwe": "CWE-763",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-49977",
+          "Public": "20250618"
+        },
+        {
+          "CveID": "CVE-2022-50080",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-50080",
+          "Public": "20250618"
+        },
+        {
+          "CveID": "CVE-2022-50116",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-50116",
+          "Public": "20250618"
+        },
+        {
+          "CveID": "CVE-2022-50202",
+          "Cvss3": "4.7/CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:U/C:N/I:L/A:H",
+          "Cwe": "CWE-833",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-50202",
+          "Public": "20250618"
         },
         {
           "CveID": "CVE-2023-24023",
@@ -832,11 +1036,48 @@
           "Public": "20240501"
         },
         {
+          "CveID": "CVE-2023-52939",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-476",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-52939",
+          "Public": "20250327"
+        },
+        {
+          "CveID": "CVE-2023-52940",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-52940",
+          "Public": "20250327"
+        },
+        {
+          "CveID": "CVE-2023-52973",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-52973",
+          "Public": "20250327"
+        },
+        {
           "CveID": "CVE-2023-52976",
           "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
           "Cwe": "CWE-476",
           "Impact": "low",
           "Href": "https://access.redhat.com/security/cve/CVE-2023-52976",
+          "Public": "20250327"
+        },
+        {
+          "CveID": "CVE-2023-52984",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-476",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-52984",
+          "Public": "20250327"
+        },
+        {
+          "CveID": "CVE-2023-52985",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-52985",
           "Public": "20250327"
         },
         {
@@ -869,6 +1110,119 @@
           "Impact": "low",
           "Href": "https://access.redhat.com/security/cve/CVE-2023-53018",
           "Public": "20250327"
+        },
+        {
+          "CveID": "CVE-2023-53046",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-53046",
+          "Public": "20250502"
+        },
+        {
+          "CveID": "CVE-2023-53047",
+          "Cvss3": "7.0/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
+          "Cwe": "CWE-826",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-53047",
+          "Public": "20250502"
+        },
+        {
+          "CveID": "CVE-2023-53052",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-53052",
+          "Public": "20250502"
+        },
+        {
+          "CveID": "CVE-2023-53057",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-125",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-53057",
+          "Public": "20250502"
+        },
+        {
+          "CveID": "CVE-2023-53094",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-53094",
+          "Public": "20250502"
+        },
+        {
+          "CveID": "CVE-2023-53097",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-53097",
+          "Public": "20250502"
+        },
+        {
+          "CveID": "CVE-2023-53134",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-53134",
+          "Public": "20250502"
+        },
+        {
+          "CveID": "CVE-2023-53140",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-53140",
+          "Public": "20250502"
+        },
+        {
+          "CveID": "CVE-2023-53209",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-476",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-53209",
+          "Public": "20250915"
+        },
+        {
+          "CveID": "CVE-2023-53210",
+          "Cvss3": "5.3/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:N/I:L/A:H",
+          "Cwe": "CWE-366",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-53210",
+          "Public": "20250915"
+        },
+        {
+          "CveID": "CVE-2023-53235",
+          "Cvss3": "7.0/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-53235",
+          "Public": "20250915"
+        },
+        {
+          "CveID": "CVE-2023-53354",
+          "Cvss3": "7.0/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
+          "Cwe": "CWE-476",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-53354",
+          "Public": "20250917"
+        },
+        {
+          "CveID": "CVE-2023-53370",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-772",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-53370",
+          "Public": "20250918"
+        },
+        {
+          "CveID": "CVE-2023-53371",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-772",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-53371",
+          "Public": "20250918"
+        },
+        {
+          "CveID": "CVE-2023-53441",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-772",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-53441",
+          "Public": "20250918"
         },
         {
           "CveID": "CVE-2023-6040",
@@ -1072,6 +1426,14 @@
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2024-26830",
           "Public": "20240417"
+        },
+        {
+          "CveID": "CVE-2025-38053",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-476",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2025-38053",
+          "Public": "20250618"
         }
       ],
       "Bugzilla": [
@@ -1380,16 +1742,44 @@
           "ID": "2347717"
         },
         {
+          "Href": "https://bugzilla.redhat.com/2348007",
+          "ID": "2348007"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2348109",
+          "ID": "2348109"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2355433",
+          "ID": "2355433"
+        },
+        {
           "Href": "https://bugzilla.redhat.com/2355451",
           "ID": "2355451"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2355456",
+          "ID": "2355456"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2355472",
+          "ID": "2355472"
         },
         {
           "Href": "https://bugzilla.redhat.com/2355485",
           "ID": "2355485"
         },
         {
+          "Href": "https://bugzilla.redhat.com/2355488",
+          "ID": "2355488"
+        },
+        {
           "Href": "https://bugzilla.redhat.com/2355494",
           "ID": "2355494"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2355496",
+          "ID": "2355496"
         },
         {
           "Href": "https://bugzilla.redhat.com/2355511",
@@ -1398,6 +1788,94 @@
         {
           "Href": "https://bugzilla.redhat.com/2355514",
           "ID": "2355514"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2355528",
+          "ID": "2355528"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2363689",
+          "ID": "2363689"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2363695",
+          "ID": "2363695"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2363700",
+          "ID": "2363700"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2363705",
+          "ID": "2363705"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2363721",
+          "ID": "2363721"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2363734",
+          "ID": "2363734"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2363767",
+          "ID": "2363767"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2363768",
+          "ID": "2363768"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373362",
+          "ID": "2373362"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373397",
+          "ID": "2373397"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373411",
+          "ID": "2373411"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373446",
+          "ID": "2373446"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373574",
+          "ID": "2373574"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2373692",
+          "ID": "2373692"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2395321",
+          "ID": "2395321"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2395384",
+          "ID": "2395384"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2395424",
+          "ID": "2395424"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2396158",
+          "ID": "2396158"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2396394",
+          "ID": "2396394"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2396397",
+          "ID": "2396397"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2396508",
+          "ID": "2396508"
         }
       ],
       "AffectedCpeList": [
@@ -1424,7 +1902,7 @@
     "Criterions": [
       {
         "Comment": "Red Hat Enterprise Linux must be installed",
-        "TestRef": "oval:com.redhat.rhba:tst:20223991004"
+        "TestRef": "oval:com.redhat.rhba:tst:20223945012"
       }
     ],
     "Criterias": [
@@ -1433,7 +1911,7 @@
         "Criterions": [
           {
             "Comment": "Red Hat Enterprise Linux 9 is installed",
-            "TestRef": "oval:com.redhat.rhba:tst:20223991003"
+            "TestRef": "oval:com.redhat.rhba:tst:20223945011"
           }
         ],
         "Criterias": [
@@ -1445,11 +1923,11 @@
                 "Criterions": [
                   {
                     "Comment": "kernel earlier than 0:5.14.0-427.13.1.el9_4 is currently running",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394129"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394125"
                   },
                   {
                     "Comment": "kernel earlier than 0:5.14.0-427.13.1.el9_4 is set to boot up on next boot",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394130"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394126"
                   }
                 ]
               },
@@ -1458,11 +1936,11 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-rt earlier than 0:5.14.0-427.13.1.el9_4 is currently running",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394129"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394125"
                   },
                   {
                     "Comment": "kernel-rt earlier than 0:5.14.0-427.13.1.el9_4 is set to boot up on next boot",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394130"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394126"
                   }
                 ]
               }
@@ -1709,21 +2187,8 @@
                 "Operator": "AND",
                 "Criterions": [
                   {
-                    "Comment": "kernel-cross-headers is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394037"
-                  },
-                  {
-                    "Comment": "kernel-cross-headers is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhba:tst:20243983038"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
                     "Comment": "kernel-debug is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394039"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394037"
                   },
                   {
                     "Comment": "kernel-debug is signed with Red Hat redhatrelease2 key",
@@ -1736,7 +2201,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-debug-core is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394041"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394039"
                   },
                   {
                     "Comment": "kernel-debug-core is signed with Red Hat redhatrelease2 key",
@@ -1749,7 +2214,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-debug-devel is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394043"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394041"
                   },
                   {
                     "Comment": "kernel-debug-devel is signed with Red Hat redhatrelease2 key",
@@ -1762,7 +2227,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-debug-devel-matched is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394045"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394043"
                   },
                   {
                     "Comment": "kernel-debug-devel-matched is signed with Red Hat redhatrelease2 key",
@@ -1775,7 +2240,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-debug-modules is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394047"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394045"
                   },
                   {
                     "Comment": "kernel-debug-modules is signed with Red Hat redhatrelease2 key",
@@ -1788,7 +2253,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-debug-modules-core is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394049"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394047"
                   },
                   {
                     "Comment": "kernel-debug-modules-core is signed with Red Hat redhatrelease2 key",
@@ -1801,7 +2266,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-debug-modules-extra is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394051"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394049"
                   },
                   {
                     "Comment": "kernel-debug-modules-extra is signed with Red Hat redhatrelease2 key",
@@ -1814,7 +2279,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-debug-uki-virt is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394053"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394051"
                   },
                   {
                     "Comment": "kernel-debug-uki-virt is signed with Red Hat redhatrelease2 key",
@@ -1827,7 +2292,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-devel is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394055"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394053"
                   },
                   {
                     "Comment": "kernel-devel is signed with Red Hat redhatrelease2 key",
@@ -1840,7 +2305,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-devel-matched is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394057"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394055"
                   },
                   {
                     "Comment": "kernel-devel-matched is signed with Red Hat redhatrelease2 key",
@@ -1853,7 +2318,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-doc is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394059"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394057"
                   },
                   {
                     "Comment": "kernel-doc is signed with Red Hat redhatrelease2 key",
@@ -1865,21 +2330,8 @@
                 "Operator": "AND",
                 "Criterions": [
                   {
-                    "Comment": "kernel-headers is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394061"
-                  },
-                  {
-                    "Comment": "kernel-headers is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhba:tst:20243983062"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
                     "Comment": "kernel-modules is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394063"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394059"
                   },
                   {
                     "Comment": "kernel-modules is signed with Red Hat redhatrelease2 key",
@@ -1892,7 +2344,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-modules-core is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394065"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394061"
                   },
                   {
                     "Comment": "kernel-modules-core is signed with Red Hat redhatrelease2 key",
@@ -1905,7 +2357,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-modules-extra is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394067"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394063"
                   },
                   {
                     "Comment": "kernel-modules-extra is signed with Red Hat redhatrelease2 key",
@@ -1918,7 +2370,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-rt is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394069"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394065"
                   },
                   {
                     "Comment": "kernel-rt is signed with Red Hat redhatrelease2 key",
@@ -1931,7 +2383,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-rt-core is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394071"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394067"
                   },
                   {
                     "Comment": "kernel-rt-core is signed with Red Hat redhatrelease2 key",
@@ -1944,7 +2396,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-rt-debug is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394073"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394069"
                   },
                   {
                     "Comment": "kernel-rt-debug is signed with Red Hat redhatrelease2 key",
@@ -1957,7 +2409,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-rt-debug-core is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394075"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394071"
                   },
                   {
                     "Comment": "kernel-rt-debug-core is signed with Red Hat redhatrelease2 key",
@@ -1970,7 +2422,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-rt-debug-devel is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394077"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394073"
                   },
                   {
                     "Comment": "kernel-rt-debug-devel is signed with Red Hat redhatrelease2 key",
@@ -1983,7 +2435,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-rt-debug-kvm is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394079"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394075"
                   },
                   {
                     "Comment": "kernel-rt-debug-kvm is signed with Red Hat redhatrelease2 key",
@@ -1996,7 +2448,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-rt-debug-modules is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394081"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394077"
                   },
                   {
                     "Comment": "kernel-rt-debug-modules is signed with Red Hat redhatrelease2 key",
@@ -2009,7 +2461,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-rt-debug-modules-core is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394083"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394079"
                   },
                   {
                     "Comment": "kernel-rt-debug-modules-core is signed with Red Hat redhatrelease2 key",
@@ -2022,7 +2474,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-rt-debug-modules-extra is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394085"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394081"
                   },
                   {
                     "Comment": "kernel-rt-debug-modules-extra is signed with Red Hat redhatrelease2 key",
@@ -2035,7 +2487,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-rt-devel is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394087"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394083"
                   },
                   {
                     "Comment": "kernel-rt-devel is signed with Red Hat redhatrelease2 key",
@@ -2048,7 +2500,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-rt-kvm is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394089"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394085"
                   },
                   {
                     "Comment": "kernel-rt-kvm is signed with Red Hat redhatrelease2 key",
@@ -2061,7 +2513,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-rt-modules is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394091"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394087"
                   },
                   {
                     "Comment": "kernel-rt-modules is signed with Red Hat redhatrelease2 key",
@@ -2074,7 +2526,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-rt-modules-core is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394093"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394089"
                   },
                   {
                     "Comment": "kernel-rt-modules-core is signed with Red Hat redhatrelease2 key",
@@ -2087,7 +2539,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-rt-modules-extra is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394095"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394091"
                   },
                   {
                     "Comment": "kernel-rt-modules-extra is signed with Red Hat redhatrelease2 key",
@@ -2100,7 +2552,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-tools is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394097"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394093"
                   },
                   {
                     "Comment": "kernel-tools is signed with Red Hat redhatrelease2 key",
@@ -2113,7 +2565,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-tools-libs is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394099"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394095"
                   },
                   {
                     "Comment": "kernel-tools-libs is signed with Red Hat redhatrelease2 key",
@@ -2126,7 +2578,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-tools-libs-devel is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394101"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394097"
                   },
                   {
                     "Comment": "kernel-tools-libs-devel is signed with Red Hat redhatrelease2 key",
@@ -2139,7 +2591,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-uki-virt is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394103"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394099"
                   },
                   {
                     "Comment": "kernel-uki-virt is signed with Red Hat redhatrelease2 key",
@@ -2152,7 +2604,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-zfcpdump is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394105"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394101"
                   },
                   {
                     "Comment": "kernel-zfcpdump is signed with Red Hat redhatrelease2 key",
@@ -2165,7 +2617,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-zfcpdump-core is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394107"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394103"
                   },
                   {
                     "Comment": "kernel-zfcpdump-core is signed with Red Hat redhatrelease2 key",
@@ -2178,7 +2630,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-zfcpdump-devel is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394109"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394105"
                   },
                   {
                     "Comment": "kernel-zfcpdump-devel is signed with Red Hat redhatrelease2 key",
@@ -2191,7 +2643,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-zfcpdump-devel-matched is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394111"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394107"
                   },
                   {
                     "Comment": "kernel-zfcpdump-devel-matched is signed with Red Hat redhatrelease2 key",
@@ -2204,7 +2656,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-zfcpdump-modules is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394113"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394109"
                   },
                   {
                     "Comment": "kernel-zfcpdump-modules is signed with Red Hat redhatrelease2 key",
@@ -2217,7 +2669,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-zfcpdump-modules-core is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394115"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394111"
                   },
                   {
                     "Comment": "kernel-zfcpdump-modules-core is signed with Red Hat redhatrelease2 key",
@@ -2230,7 +2682,7 @@
                 "Criterions": [
                   {
                     "Comment": "kernel-zfcpdump-modules-extra is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394117"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394113"
                   },
                   {
                     "Comment": "kernel-zfcpdump-modules-extra is signed with Red Hat redhatrelease2 key",
@@ -2243,7 +2695,7 @@
                 "Criterions": [
                   {
                     "Comment": "libperf is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394119"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394115"
                   },
                   {
                     "Comment": "libperf is signed with Red Hat redhatrelease2 key",
@@ -2256,7 +2708,7 @@
                 "Criterions": [
                   {
                     "Comment": "perf is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394121"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394117"
                   },
                   {
                     "Comment": "perf is signed with Red Hat redhatrelease2 key",
@@ -2269,7 +2721,7 @@
                 "Criterions": [
                   {
                     "Comment": "python3-perf is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394123"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394119"
                   },
                   {
                     "Comment": "python3-perf is signed with Red Hat redhatrelease2 key",
@@ -2282,7 +2734,7 @@
                 "Criterions": [
                   {
                     "Comment": "rtla is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394125"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394121"
                   },
                   {
                     "Comment": "rtla is signed with Red Hat redhatrelease2 key",
@@ -2295,7 +2747,7 @@
                 "Criterions": [
                   {
                     "Comment": "rv is earlier than 0:5.14.0-427.13.1.el9_4",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20242394127"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20242394123"
                   },
                   {
                     "Comment": "rv is signed with Red Hat redhatrelease2 key",

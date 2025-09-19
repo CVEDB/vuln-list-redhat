@@ -1,7 +1,7 @@
 {
   "Class": "patch",
   "ID": "oval:com.redhat.rhsa:def:20242979",
-  "Version": "637",
+  "Version": "638",
   "Metadata": {
     "Title": "RHSA-2024:2979: poppler security update (Moderate)",
     "AffectedList": [
@@ -185,7 +185,7 @@
                   },
                   {
                     "Comment": "poppler-glib-doc is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202456378018"
+                    "TestRef": "oval:com.redhat.cve:tst:202237050012"
                   }
                 ]
               },

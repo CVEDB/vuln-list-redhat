@@ -1,7 +1,7 @@
 {
   "Class": "patch",
   "ID": "oval:com.redhat.rhba:def:20190636",
-  "Version": "637",
+  "Version": "638",
   "Metadata": {
     "Title": "RHBA-2019:0636: OpenShift Container Platform 3.11 bug fix and enhancement update (Moderate)",
     "AffectedList": [
@@ -155,7 +155,7 @@
                   },
                   {
                     "Comment": "python2-certifi is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202223491004"
+                    "TestRef": "oval:com.redhat.cve:tst:202223491002"
                   }
                 ]
               },

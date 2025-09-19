@@ -134,6 +134,138 @@
     },
     {
       "Check": "at least one",
+      "Comment": "commons-lang3 is installed",
+      "ID": "oval:com.redhat.cve:tst:202548924001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548924001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "commons-lang3 is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548924002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548924001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202341080001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "commons-lang is installed",
+      "ID": "oval:com.redhat.cve:tst:202548924003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548924002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "commons-lang is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202548924004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202548924002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202341080001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat-catalina is installed",
+      "ID": "oval:com.redhat.cve:tst:202549125001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202549125001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat-catalina is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202549125002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202549125001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202341080001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jws6-mod_cluster is installed",
+      "ID": "oval:com.redhat.cve:tst:202555668001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202555668001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jws6-mod_cluster is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202555668002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202555668001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202341080001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat-catalina-ant is installed",
+      "ID": "oval:com.redhat.cve:tst:202555668005",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202555668003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat-catalina-ant is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202555668006",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202555668003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202341080001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat-catalina-ha is installed",
+      "ID": "oval:com.redhat.cve:tst:202555668007",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202555668004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat-catalina-ha is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202555668008",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202555668004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:202341080001"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "tomcat is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202229885002",
       "Version": "635",
@@ -198,6 +330,27 @@
     },
     {
       "Check": "at least one",
+      "Comment": "jetty-server is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202413009001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202413009001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jetty-server is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202413009002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202413009001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
       "Comment": "jws6-tomcat is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202421733002",
       "Version": "635",
@@ -209,22 +362,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "jws6-mod_cluster is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202423076001",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202423076001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "jws6-mod_cluster is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202423076002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202423076001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202555668001"
       },
       "State": {}
     },
@@ -293,7 +436,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "org.apache.struts/struts-taglib is installed",
+      "Comment": "org.apache.struts/struts-tiles is installed",
       "ID": "oval:com.redhat.unaffected:tst:202453677001",
       "Version": "635",
       "Object": {
@@ -303,7 +446,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "org.apache.struts/struts-taglib is not installed",
+      "Comment": "org.apache.struts/struts-tiles is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202453677002",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -314,7 +457,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "org.apache.struts/struts-core is installed",
+      "Comment": "org.apache.struts/struts-taglib is installed",
       "ID": "oval:com.redhat.unaffected:tst:202453677003",
       "Version": "635",
       "Object": {
@@ -324,7 +467,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "org.apache.struts/struts-core is not installed",
+      "Comment": "org.apache.struts/struts-taglib is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202453677004",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -335,7 +478,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "org.apache.struts/struts-tiles is installed",
+      "Comment": "org.apache.struts/struts-core is installed",
       "ID": "oval:com.redhat.unaffected:tst:202453677005",
       "Version": "635",
       "Object": {
@@ -345,7 +488,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "org.apache.struts/struts-tiles is not installed",
+      "Comment": "org.apache.struts/struts-core is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202453677006",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -404,6 +547,27 @@
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.unaffected:obj:202527820001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "commons-beanutils is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202548734001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202548734001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "commons-beanutils is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202548734002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202548734001"
       },
       "State": {}
     }

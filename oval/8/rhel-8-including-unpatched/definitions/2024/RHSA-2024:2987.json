@@ -187,7 +187,7 @@
                           },
                           {
                             "Comment": "babel is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202128861060"
+                            "TestRef": "oval:com.redhat.cve:tst:202128861064"
                           }
                         ]
                       },
@@ -200,7 +200,7 @@
                           },
                           {
                             "Comment": "python-nose-docs is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20199674037"
+                            "TestRef": "oval:com.redhat.cve:tst:20199674065"
                           }
                         ]
                       },
@@ -226,7 +226,7 @@
                           },
                           {
                             "Comment": "python-sqlalchemy-doc is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20199674065"
+                            "TestRef": "oval:com.redhat.cve:tst:20199674057"
                           }
                         ]
                       },
@@ -265,7 +265,7 @@
                           },
                           {
                             "Comment": "python2-PyMySQL is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202436039002"
+                            "TestRef": "oval:com.redhat.cve:tst:202436039008"
                           }
                         ]
                       },

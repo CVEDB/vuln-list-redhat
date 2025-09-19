@@ -926,6 +926,28 @@
     },
     {
       "Check": "at least one",
+      "Comment": "jq is installed",
+      "ID": "oval:com.redhat.cve:tst:202423337001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202423337001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jq is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202423337002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202423337001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201814041001"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "python2-webob is installed",
       "ID": "oval:com.redhat.cve:tst:202442353001",
       "Version": "636",
@@ -963,6 +985,28 @@
       "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202447191001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:201814041001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "brace-expansion is installed",
+      "ID": "oval:com.redhat.cve:tst:20255889001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20255889001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "brace-expansion is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20255889002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20255889001"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:201814041001"
@@ -2016,7 +2060,7 @@
       "Check": "at least one",
       "Comment": "ceph-base is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325001",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041002"
       },
@@ -2028,7 +2072,7 @@
       "Check": "at least one",
       "Comment": "ceph-common is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325003",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041015"
       },
@@ -2040,7 +2084,7 @@
       "Check": "at least one",
       "Comment": "ceph-fuse is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325005",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041001"
       },
@@ -2052,7 +2096,7 @@
       "Check": "at least one",
       "Comment": "ceph-grafana-dashboards is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325007",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041029"
       },
@@ -2064,7 +2108,7 @@
       "Check": "at least one",
       "Comment": "ceph-mds is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325009",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041031"
       },
@@ -2076,7 +2120,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325011",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041018"
       },
@@ -2088,7 +2132,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr-dashboard is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325013",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041022"
       },
@@ -2100,7 +2144,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr-diskprediction-local is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325015",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041010"
       },
@@ -2112,7 +2156,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr-k8sevents is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325017",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041023"
       },
@@ -2124,7 +2168,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr-rook is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325019",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041016"
       },
@@ -2136,7 +2180,7 @@
       "Check": "at least one",
       "Comment": "ceph-mon is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325021",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041024"
       },
@@ -2148,7 +2192,7 @@
       "Check": "at least one",
       "Comment": "ceph-osd is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325023",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041004"
       },
@@ -2160,7 +2204,7 @@
       "Check": "at least one",
       "Comment": "ceph-radosgw is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325025",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041011"
       },
@@ -2172,7 +2216,7 @@
       "Check": "at least one",
       "Comment": "ceph-selinux is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325027",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041013"
       },
@@ -2184,7 +2228,7 @@
       "Check": "at least one",
       "Comment": "ceph-test is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325029",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041003"
       },
@@ -2196,7 +2240,7 @@
       "Check": "at least one",
       "Comment": "libcephfs-devel is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325031",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041032"
       },
@@ -2208,7 +2252,7 @@
       "Check": "at least one",
       "Comment": "libcephfs2 is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325033",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041025"
       },
@@ -2220,7 +2264,7 @@
       "Check": "at least one",
       "Comment": "librados-devel is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325035",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041012"
       },
@@ -2232,7 +2276,7 @@
       "Check": "at least one",
       "Comment": "librados2 is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325037",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041008"
       },
@@ -2244,7 +2288,7 @@
       "Check": "at least one",
       "Comment": "libradospp-devel is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325039",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041006"
       },
@@ -2256,7 +2300,7 @@
       "Check": "at least one",
       "Comment": "libradosstriper1 is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325041",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041009"
       },
@@ -2268,7 +2312,7 @@
       "Check": "at least one",
       "Comment": "librbd-devel is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325043",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041027"
       },
@@ -2280,7 +2324,7 @@
       "Check": "at least one",
       "Comment": "librbd1 is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325045",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041007"
       },
@@ -2292,7 +2336,7 @@
       "Check": "at least one",
       "Comment": "librgw-devel is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325047",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041021"
       },
@@ -2304,7 +2348,7 @@
       "Check": "at least one",
       "Comment": "librgw2 is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325049",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041030"
       },
@@ -2316,7 +2360,7 @@
       "Check": "at least one",
       "Comment": "python-ceph-argparse is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325051",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041014"
       },
@@ -2328,7 +2372,7 @@
       "Check": "at least one",
       "Comment": "python-cephfs is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325053",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041005"
       },
@@ -2340,7 +2384,7 @@
       "Check": "at least one",
       "Comment": "python-rados is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325055",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041033"
       },
@@ -2352,7 +2396,7 @@
       "Check": "at least one",
       "Comment": "python-rbd is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325057",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041017"
       },
@@ -2364,7 +2408,7 @@
       "Check": "at least one",
       "Comment": "python-rgw is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325059",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041019"
       },
@@ -2376,7 +2420,7 @@
       "Check": "at least one",
       "Comment": "rbd-mirror is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325061",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041026"
       },
@@ -2388,7 +2432,7 @@
       "Check": "at least one",
       "Comment": "rbd-nbd is earlier than 2:14.2.8-115.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20205325063",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041020"
       },
@@ -2400,7 +2444,7 @@
       "Check": "at least one",
       "Comment": "ceph-ansible is earlier than 0:4.0.41-1.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081001",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhba:obj:20204144001"
       },
@@ -2412,7 +2456,7 @@
       "Check": "at least one",
       "Comment": "ceph-base is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081003",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041002"
       },
@@ -2424,7 +2468,7 @@
       "Check": "at least one",
       "Comment": "ceph-common is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081005",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041015"
       },
@@ -2436,7 +2480,7 @@
       "Check": "at least one",
       "Comment": "ceph-fuse is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081007",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041001"
       },
@@ -2448,7 +2492,7 @@
       "Check": "at least one",
       "Comment": "ceph-grafana-dashboards is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081009",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041029"
       },
@@ -2460,7 +2504,7 @@
       "Check": "at least one",
       "Comment": "ceph-mds is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081011",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041031"
       },
@@ -2472,7 +2516,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081013",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041018"
       },
@@ -2484,7 +2528,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr-dashboard is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081015",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041022"
       },
@@ -2496,7 +2540,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr-diskprediction-local is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081017",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041010"
       },
@@ -2508,7 +2552,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr-k8sevents is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081019",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041023"
       },
@@ -2520,7 +2564,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr-rook is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081021",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041016"
       },
@@ -2532,7 +2576,7 @@
       "Check": "at least one",
       "Comment": "ceph-mon is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081023",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041024"
       },
@@ -2544,7 +2588,7 @@
       "Check": "at least one",
       "Comment": "ceph-osd is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081025",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041004"
       },
@@ -2556,7 +2600,7 @@
       "Check": "at least one",
       "Comment": "ceph-radosgw is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081027",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041011"
       },
@@ -2568,7 +2612,7 @@
       "Check": "at least one",
       "Comment": "ceph-selinux is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081029",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041013"
       },
@@ -2580,7 +2624,7 @@
       "Check": "at least one",
       "Comment": "ceph-test is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081031",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041003"
       },
@@ -2592,7 +2636,7 @@
       "Check": "at least one",
       "Comment": "libcephfs-devel is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081033",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041032"
       },
@@ -2604,7 +2648,7 @@
       "Check": "at least one",
       "Comment": "libcephfs2 is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081035",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041025"
       },
@@ -2616,7 +2660,7 @@
       "Check": "at least one",
       "Comment": "librados-devel is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081037",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041012"
       },
@@ -2628,7 +2672,7 @@
       "Check": "at least one",
       "Comment": "librados2 is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081039",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041008"
       },
@@ -2640,7 +2684,7 @@
       "Check": "at least one",
       "Comment": "libradospp-devel is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081041",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041006"
       },
@@ -2652,7 +2696,7 @@
       "Check": "at least one",
       "Comment": "libradosstriper1 is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081043",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041009"
       },
@@ -2664,7 +2708,7 @@
       "Check": "at least one",
       "Comment": "librbd-devel is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081045",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041027"
       },
@@ -2676,7 +2720,7 @@
       "Check": "at least one",
       "Comment": "librbd1 is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081047",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041007"
       },
@@ -2688,7 +2732,7 @@
       "Check": "at least one",
       "Comment": "librgw-devel is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081049",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041021"
       },
@@ -2700,7 +2744,7 @@
       "Check": "at least one",
       "Comment": "librgw2 is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081051",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041030"
       },
@@ -2712,7 +2756,7 @@
       "Check": "at least one",
       "Comment": "python-ceph-argparse is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081053",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041014"
       },
@@ -2724,7 +2768,7 @@
       "Check": "at least one",
       "Comment": "python-cephfs is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081055",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041005"
       },
@@ -2736,7 +2780,7 @@
       "Check": "at least one",
       "Comment": "python-rados is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081057",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041033"
       },
@@ -2748,7 +2792,7 @@
       "Check": "at least one",
       "Comment": "python-rbd is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081059",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041017"
       },
@@ -2760,7 +2804,7 @@
       "Check": "at least one",
       "Comment": "python-rgw is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081061",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041019"
       },
@@ -2772,7 +2816,7 @@
       "Check": "at least one",
       "Comment": "rbd-mirror is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081063",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041026"
       },
@@ -2784,7 +2828,7 @@
       "Check": "at least one",
       "Comment": "rbd-nbd is earlier than 2:14.2.11-95.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20210081065",
-      "Version": "644",
+      "Version": "645",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041020"
       },
@@ -2796,7 +2840,7 @@
       "Check": "at least one",
       "Comment": "libtcmu is earlier than 0:1.5.2-2.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452001",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20211452001"
       },
@@ -2808,7 +2852,7 @@
       "Check": "at least one",
       "Comment": "libtcmu is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20211452002",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20211452001"
       },
@@ -2820,7 +2864,7 @@
       "Check": "at least one",
       "Comment": "tcmu-runner is earlier than 0:1.5.2-2.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452003",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20211452002"
       },
@@ -2832,7 +2876,7 @@
       "Check": "at least one",
       "Comment": "tcmu-runner is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.rhsa:tst:20211452004",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20211452002"
       },
@@ -2844,7 +2888,7 @@
       "Check": "at least one",
       "Comment": "ceph-ansible is earlier than 0:4.0.49.2-1.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452005",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhba:obj:20204144001"
       },
@@ -2856,7 +2900,7 @@
       "Check": "at least one",
       "Comment": "ceph-base is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452007",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041002"
       },
@@ -2868,7 +2912,7 @@
       "Check": "at least one",
       "Comment": "ceph-common is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452009",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041015"
       },
@@ -2880,7 +2924,7 @@
       "Check": "at least one",
       "Comment": "ceph-fuse is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452011",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041001"
       },
@@ -2892,7 +2936,7 @@
       "Check": "at least one",
       "Comment": "ceph-grafana-dashboards is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452013",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041029"
       },
@@ -2904,7 +2948,7 @@
       "Check": "at least one",
       "Comment": "ceph-mds is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452015",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041031"
       },
@@ -2916,7 +2960,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452017",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041018"
       },
@@ -2928,7 +2972,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr-dashboard is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452019",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041022"
       },
@@ -2940,7 +2984,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr-diskprediction-local is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452021",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041010"
       },
@@ -2952,7 +2996,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr-k8sevents is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452023",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041023"
       },
@@ -2964,7 +3008,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr-rook is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452025",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041016"
       },
@@ -2976,7 +3020,7 @@
       "Check": "at least one",
       "Comment": "ceph-mon is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452027",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041024"
       },
@@ -2988,7 +3032,7 @@
       "Check": "at least one",
       "Comment": "ceph-osd is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452029",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041004"
       },
@@ -3000,7 +3044,7 @@
       "Check": "at least one",
       "Comment": "ceph-radosgw is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452031",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041011"
       },
@@ -3012,7 +3056,7 @@
       "Check": "at least one",
       "Comment": "ceph-selinux is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452033",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041013"
       },
@@ -3024,7 +3068,7 @@
       "Check": "at least one",
       "Comment": "ceph-test is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452035",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041003"
       },
@@ -3036,7 +3080,7 @@
       "Check": "at least one",
       "Comment": "libcephfs-devel is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452037",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041032"
       },
@@ -3048,7 +3092,7 @@
       "Check": "at least one",
       "Comment": "libcephfs2 is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452039",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041025"
       },
@@ -3060,7 +3104,7 @@
       "Check": "at least one",
       "Comment": "librados-devel is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452041",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041012"
       },
@@ -3072,7 +3116,7 @@
       "Check": "at least one",
       "Comment": "librados2 is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452043",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041008"
       },
@@ -3084,7 +3128,7 @@
       "Check": "at least one",
       "Comment": "libradospp-devel is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452045",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041006"
       },
@@ -3096,7 +3140,7 @@
       "Check": "at least one",
       "Comment": "libradosstriper1 is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452047",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041009"
       },
@@ -3108,7 +3152,7 @@
       "Check": "at least one",
       "Comment": "librbd-devel is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452049",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041027"
       },
@@ -3120,7 +3164,7 @@
       "Check": "at least one",
       "Comment": "librbd1 is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452051",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041007"
       },
@@ -3132,7 +3176,7 @@
       "Check": "at least one",
       "Comment": "librgw-devel is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452053",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041021"
       },
@@ -3144,7 +3188,7 @@
       "Check": "at least one",
       "Comment": "librgw2 is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452055",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041030"
       },
@@ -3156,7 +3200,7 @@
       "Check": "at least one",
       "Comment": "python-ceph-argparse is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452057",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041014"
       },
@@ -3168,7 +3212,7 @@
       "Check": "at least one",
       "Comment": "python-cephfs is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452059",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041005"
       },
@@ -3180,7 +3224,7 @@
       "Check": "at least one",
       "Comment": "python-rados is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452061",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041033"
       },
@@ -3192,7 +3236,7 @@
       "Check": "at least one",
       "Comment": "python-rbd is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452063",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041017"
       },
@@ -3204,7 +3248,7 @@
       "Check": "at least one",
       "Comment": "python-rgw is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452065",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041019"
       },
@@ -3216,7 +3260,7 @@
       "Check": "at least one",
       "Comment": "rbd-mirror is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452067",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041026"
       },
@@ -3228,7 +3272,7 @@
       "Check": "at least one",
       "Comment": "rbd-nbd is earlier than 2:14.2.11-147.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20211452069",
-      "Version": "642",
+      "Version": "643",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041020"
       },
@@ -3624,7 +3668,7 @@
       "Check": "at least one",
       "Comment": "ceph-base is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716001",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041002"
       },
@@ -3636,7 +3680,7 @@
       "Check": "at least one",
       "Comment": "ceph-common is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716003",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041015"
       },
@@ -3648,7 +3692,7 @@
       "Check": "at least one",
       "Comment": "ceph-fuse is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716005",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041001"
       },
@@ -3660,7 +3704,7 @@
       "Check": "at least one",
       "Comment": "ceph-grafana-dashboards is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716007",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041029"
       },
@@ -3672,7 +3716,7 @@
       "Check": "at least one",
       "Comment": "ceph-mds is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716009",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041031"
       },
@@ -3684,7 +3728,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716011",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041018"
       },
@@ -3696,7 +3740,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr-dashboard is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716013",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041022"
       },
@@ -3708,7 +3752,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr-diskprediction-local is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716015",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041010"
       },
@@ -3720,7 +3764,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr-k8sevents is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716017",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041023"
       },
@@ -3732,7 +3776,7 @@
       "Check": "at least one",
       "Comment": "ceph-mgr-rook is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716019",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041016"
       },
@@ -3744,7 +3788,7 @@
       "Check": "at least one",
       "Comment": "ceph-mon is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716021",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041024"
       },
@@ -3756,7 +3800,7 @@
       "Check": "at least one",
       "Comment": "ceph-osd is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716023",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041004"
       },
@@ -3768,7 +3812,7 @@
       "Check": "at least one",
       "Comment": "ceph-radosgw is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716025",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041011"
       },
@@ -3780,7 +3824,7 @@
       "Check": "at least one",
       "Comment": "ceph-selinux is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716027",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041013"
       },
@@ -3792,7 +3836,7 @@
       "Check": "at least one",
       "Comment": "ceph-test is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716029",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041003"
       },
@@ -3804,7 +3848,7 @@
       "Check": "at least one",
       "Comment": "libcephfs-devel is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716031",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041032"
       },
@@ -3816,7 +3860,7 @@
       "Check": "at least one",
       "Comment": "libcephfs2 is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716033",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041025"
       },
@@ -3828,7 +3872,7 @@
       "Check": "at least one",
       "Comment": "librados-devel is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716035",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041012"
       },
@@ -3840,7 +3884,7 @@
       "Check": "at least one",
       "Comment": "librados2 is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716037",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041008"
       },
@@ -3852,7 +3896,7 @@
       "Check": "at least one",
       "Comment": "libradospp-devel is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716039",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041006"
       },
@@ -3864,7 +3908,7 @@
       "Check": "at least one",
       "Comment": "libradosstriper1 is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716041",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041009"
       },
@@ -3876,7 +3920,7 @@
       "Check": "at least one",
       "Comment": "librbd-devel is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716043",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041027"
       },
@@ -3888,7 +3932,7 @@
       "Check": "at least one",
       "Comment": "librbd1 is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716045",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041007"
       },
@@ -3900,7 +3944,7 @@
       "Check": "at least one",
       "Comment": "librgw-devel is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716047",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041021"
       },
@@ -3912,7 +3956,7 @@
       "Check": "at least one",
       "Comment": "librgw2 is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716049",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041030"
       },
@@ -3924,7 +3968,7 @@
       "Check": "at least one",
       "Comment": "python-ceph-argparse is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716051",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041014"
       },
@@ -3936,7 +3980,7 @@
       "Check": "at least one",
       "Comment": "python-cephfs is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716053",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041005"
       },
@@ -3948,7 +3992,7 @@
       "Check": "at least one",
       "Comment": "python-rados is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716055",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041033"
       },
@@ -3960,7 +4004,7 @@
       "Check": "at least one",
       "Comment": "python-rbd is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716057",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041017"
       },
@@ -3972,7 +4016,7 @@
       "Check": "at least one",
       "Comment": "python-rgw is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716059",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041019"
       },
@@ -3984,7 +4028,7 @@
       "Check": "at least one",
       "Comment": "rbd-mirror is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716061",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041026"
       },
@@ -3996,7 +4040,7 @@
       "Check": "at least one",
       "Comment": "rbd-nbd is earlier than 2:14.2.22-110.el7cp",
       "ID": "oval:com.redhat.rhsa:tst:20221716063",
-      "Version": "638",
+      "Version": "639",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201814041020"
       },
@@ -4433,22 +4477,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "jq is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202350246001",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202350246001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "jq is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202350246002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202350246001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202423337001"
       },
       "State": {}
     }

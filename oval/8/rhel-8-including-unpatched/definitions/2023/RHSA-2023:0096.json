@@ -1,7 +1,7 @@
 {
   "Class": "patch",
   "ID": "oval:com.redhat.rhsa:def:20230096",
-  "Version": "636",
+  "Version": "637",
   "Metadata": {
     "Title": "RHSA-2023:0096: dbus security update (Moderate)",
     "AffectedList": [
@@ -140,7 +140,7 @@
                   },
                   {
                     "Comment": "dbus is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202035512016"
+                    "TestRef": "oval:com.redhat.cve:tst:202035512002"
                   }
                 ]
               },
@@ -166,7 +166,7 @@
                   },
                   {
                     "Comment": "dbus-daemon is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202035512012"
+                    "TestRef": "oval:com.redhat.cve:tst:202035512014"
                   }
                 ]
               },
@@ -192,7 +192,7 @@
                   },
                   {
                     "Comment": "dbus-libs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202035512008"
+                    "TestRef": "oval:com.redhat.cve:tst:202035512012"
                   }
                 ]
               },
@@ -205,7 +205,7 @@
                   },
                   {
                     "Comment": "dbus-tools is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202035512002"
+                    "TestRef": "oval:com.redhat.cve:tst:202035512008"
                   }
                 ]
               },

@@ -378,57 +378,57 @@
     {
       "ID": "oval:com.redhat.cve:obj:202323934001",
       "Version": "636",
-      "Name": "python3-designate"
+      "Name": "openstack-designate-agent"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202323934002",
       "Version": "636",
-      "Name": "openstack-designate-agent"
+      "Name": "openstack-designate-mdns"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202323934003",
       "Version": "636",
-      "Name": "python-werkzeug"
+      "Name": "openstack-designate-central"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202323934004",
       "Version": "636",
-      "Name": "openstack-designate-worker"
+      "Name": "python3-werkzeug"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202323934005",
       "Version": "636",
-      "Name": "openstack-designate-api"
+      "Name": "openstack-designate-worker"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202323934006",
       "Version": "636",
-      "Name": "openstack-designate-producer"
+      "Name": "openstack-designate-api"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202323934007",
       "Version": "636",
-      "Name": "openstack-designate-sink"
+      "Name": "python-werkzeug"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202323934008",
       "Version": "636",
-      "Name": "openstack-designate-common"
+      "Name": "python3-designate"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202323934009",
       "Version": "636",
-      "Name": "openstack-designate-mdns"
+      "Name": "openstack-designate-common"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202323934010",
       "Version": "636",
-      "Name": "openstack-designate-central"
+      "Name": "openstack-designate-producer"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202323934011",
       "Version": "636",
-      "Name": "python3-werkzeug"
+      "Name": "openstack-designate-sink"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202330608001",
@@ -588,12 +588,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202439908001",
       "Version": "636",
-      "Name": "puppet-opendaylight"
+      "Name": "puppet-etcd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202439908002",
       "Version": "636",
-      "Name": "puppet-etcd"
+      "Name": "puppet-opendaylight"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202439908003",
@@ -661,18 +661,38 @@
       "Name": "openstack-ironic"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202547907001",
+      "Version": "636",
+      "Name": "rhosp-rhel9/osp-director-agent"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202558068001",
+      "Version": "636",
+      "Name": "python3-eventlet"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20258556001",
+      "Version": "636",
+      "Name": "rhosp-rhel9/osp-director-operator"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20258556002",
+      "Version": "636",
+      "Name": "rhosp-rhel9/osp-director-downloader"
+    },
+    {
       "ID": "oval:com.redhat.rhsa:obj:20220993001",
-      "Version": "634",
+      "Version": "635",
       "Name": "python-oslo-utils-lang"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20220993002",
-      "Version": "634",
+      "Version": "635",
       "Name": "python3-oslo-utils"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20220995001",
-      "Version": "635",
+      "Version": "636",
       "Name": "openstack-tripleo-heat-templates"
     },
     {
@@ -682,42 +702,42 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20221000001",
-      "Version": "634",
+      "Version": "635",
       "Name": "python3-numpy"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20221000002",
-      "Version": "634",
+      "Version": "635",
       "Name": "python3-numpy-f2py"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20221253001",
-      "Version": "634",
+      "Version": "635",
       "Name": "python3-waitress"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20225116001",
-      "Version": "635",
+      "Version": "636",
       "Name": "puppet-firewall"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20226969001",
-      "Version": "634",
+      "Version": "635",
       "Name": "tripleo-ansible"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20227238001",
-      "Version": "635",
+      "Version": "636",
       "Name": "puppet-mysql"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20228848001",
-      "Version": "635",
+      "Version": "636",
       "Name": "python3-XStatic-Bootstrap-SCSS"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20228848002",
-      "Version": "635",
+      "Version": "636",
       "Name": "xstatic-bootstrap-scss-common"
     },
     {
@@ -732,17 +752,17 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20228850001",
-      "Version": "635",
+      "Version": "636",
       "Name": "python3-ujson"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20231279001",
-      "Version": "636",
+      "Version": "637",
       "Name": "openstack-cinder"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20231279002",
-      "Version": "636",
+      "Version": "637",
       "Name": "python3-cinder"
     },
     {
@@ -752,7 +772,7 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20233444001",
-      "Version": "634",
+      "Version": "635",
       "Name": "python3-flask"
     },
     {
@@ -964,6 +984,11 @@
       "ID": "oval:com.redhat.unaffected:obj:202527607001",
       "Version": "635",
       "Name": "python3-json-logger"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202547278001",
+      "Version": "635",
+      "Name": "python-flask"
     }
   ],
   "RpmverifyfileObjects": [

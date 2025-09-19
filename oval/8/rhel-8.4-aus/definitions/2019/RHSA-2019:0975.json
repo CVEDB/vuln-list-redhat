@@ -1,7 +1,7 @@
 {
   "Class": "patch",
   "ID": "oval:com.redhat.rhsa:def:20190975",
-  "Version": "641",
+  "Version": "642",
   "Metadata": {
     "Title": "RHSA-2019:0975: container-tools:rhel8 security and bug fix update (Important)",
     "AffectedList": [
@@ -54,6 +54,7 @@
       "AffectedCpeList": [
         "cpe:/a:redhat:rhel_aus:8.4",
         "cpe:/a:redhat:rhel_aus:8.4::appstream",
+        "cpe:/a:redhat:rhel_aus:8.4::highavailability",
         "cpe:/o:redhat:rhel_aus:8.4",
         "cpe:/o:redhat:rhel_aus:8.4::baseos"
       ],

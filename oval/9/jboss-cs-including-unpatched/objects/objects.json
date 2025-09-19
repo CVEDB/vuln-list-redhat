@@ -23,12 +23,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:202410306001",
       "Version": "636",
-      "Name": "jbcs-httpd24-mod_proxy_cluster"
+      "Name": "mod_proxy_cluster"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202410306002",
       "Version": "636",
-      "Name": "mod_proxy_cluster"
+      "Name": "jbcs-httpd24-mod_proxy_cluster"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202548866001",
+      "Version": "636",
+      "Name": "mod_security"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202548988002",
+      "Version": "636",
+      "Name": "jbcs-httpd24-mod_cluster-native"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20199516001",
@@ -56,12 +66,7 @@
       "Name": "mariadb"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202328882001",
-      "Version": "635",
-      "Name": "mod_security"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202338285001",
+      "ID": "oval:com.redhat.unaffected:obj:202338285002",
       "Version": "635",
       "Name": "jbcs-httpd24-mod_security"
     },
@@ -71,9 +76,9 @@
       "Name": "mod_http2"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202446544001",
+      "ID": "oval:com.redhat.unaffected:obj:20250725001",
       "Version": "635",
-      "Name": "jbcs-httpd24-mod_jk"
+      "Name": "jbcs-httpd24-curl"
     }
   ],
   "RpmverifyfileObjects": [

@@ -1,7 +1,7 @@
 {
   "Class": "patch",
   "ID": "oval:com.redhat.rhsa:def:20242302",
-  "Version": "636",
+  "Version": "637",
   "Metadata": {
     "Title": "RHSA-2024:2302: gstreamer1-plugins-base security update (Moderate)",
     "AffectedList": [
@@ -100,7 +100,7 @@
                   },
                   {
                     "Comment": "gstreamer1-plugins-base is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202447541006"
+                    "TestRef": "oval:com.redhat.cve:tst:202547806004"
                   }
                 ]
               },
@@ -113,7 +113,7 @@
                   },
                   {
                     "Comment": "gstreamer1-plugins-base-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202447541002"
+                    "TestRef": "oval:com.redhat.cve:tst:202547806002"
                   }
                 ]
               },
@@ -126,7 +126,7 @@
                   },
                   {
                     "Comment": "gstreamer1-plugins-base-tools is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202447541004"
+                    "TestRef": "oval:com.redhat.cve:tst:202547806006"
                   }
                 ]
               }
